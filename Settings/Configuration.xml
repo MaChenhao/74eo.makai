@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Configuration xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility">
 	<CacheSettings>
-		<CacheEnabled>false</CacheEnabled>
+		<CacheEnabled>true</CacheEnabled>
 		<CacheEntryFiles>2</CacheEntryFiles>
-		<CacheFolder>E:\3136\Kancolle\Cache</CacheFolder>
+		<CacheFolder>C:\Users\mache_000\Documents\Kancolle\cache</CacheFolder>
 		<CachePortFiles>2</CachePortFiles>
 		<CacheResourceFiles>2</CacheResourceFiles>
 		<CacheSceneFiles>2</CacheSceneFiles>
@@ -35,7 +35,6 @@
 	</Connection>
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
-		<RecordAutoSaving>1</RecordAutoSaving>
 	</Control>
 	<Debug>
 		<APIListPath></APIListPath>
@@ -46,7 +45,7 @@
 		<ShowShipName>true</ShowShipName>
 	</FormArsenal>
 	<FormBattle>
-		<IsShortDamage>false</IsShortDamage>
+		<IsShortDamage>true</IsShortDamage>
 	</FormBattle>
 	<FormBrowser>
 		<AppliesStyleSheet>true</AppliesStyleSheet>
@@ -78,15 +77,14 @@ body {
 </StyleSheet>
 		<ToolMenuDockStyle>Left</ToolMenuDockStyle>
 		<ZoomFit>true</ZoomFit>
-		<ZoomRate>150</ZoomRate>
+		<ZoomRate>100</ZoomRate>
 	</FormBrowser>
 	<FormFleet>
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
-		<BarColorMorphing>false</BarColorMorphing>
-		<FixShipNameWidth>false</FixShipNameWidth>
+		<FixShipNameWidth>true</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
 		<SearchingAbilityMethod>1</SearchingAbilityMethod>
-		<ShortenHPBar>false</ShortenHPBar>
+		<ShortenHPBar>true</ShortenHPBar>
 		<ShowAircraft>true</ShowAircraft>
 		<ShowAnchorageRepairingTimer>false</ShowAnchorageRepairingTimer>
 		<ShowEquipmentLevel>true</ShowEquipmentLevel>
@@ -101,7 +99,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,333,166</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,232,118</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
@@ -117,10 +115,9 @@ body {
 	</FormShipGroup>
 	<Life>
 		<CheckUpdateInformation>true</CheckUpdateInformation>
-		<ClockFormat>0</ClockFormat>
 		<ConfirmOnClosing>true</ConfirmOnClosing>
 		<IsLocked>true</IsLocked>
-		<LayoutFilePath>Settings\WindowLayout.zip</LayoutFilePath>
+		<LayoutFilePath>Settings\WindowLayout2.zip</LayoutFilePath>
 		<ShowStatusBar>true</ShowStatusBar>
 		<TopMost>false</TopMost>
 	</Life>
@@ -388,8 +385,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.0.3</Version>
-	<VersionUpdateTime>2015/12/10 01:00:00</VersionUpdateTime>
+	<Version>1.7.1</Version>
+	<VersionUpdateTime>2015/11/10 19:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
