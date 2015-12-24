@@ -1,0 +1,22 @@
+错误报告日期 : 12/24/2015 8:43:56 PM
+错误 : Exception
+http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/23.mp3?version=11
+追加信息 : 返回错误状态码：502
+堆栈信息：
+
+
+通信内容 : http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/23.mp3?version=11
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nnws/1.7.3.2</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

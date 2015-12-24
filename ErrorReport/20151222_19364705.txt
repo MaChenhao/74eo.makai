@@ -1,0 +1,22 @@
+错误报告日期 : 12/22/2015 7:36:47 PM
+错误 : Exception
+http://cdn.acgx.tv/kcsapi/api_get_member/useitem
+追加信息 : 返回错误状态码：502
+堆栈信息：
+
+
+通信内容 : http://cdn.acgx.tv/kcsapi/api_get_member/useitem
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

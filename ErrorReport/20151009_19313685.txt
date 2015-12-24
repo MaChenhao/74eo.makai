@@ -1,0 +1,9 @@
+错误报告日期 : 2015/10/9 PM 7:31:36
+错误 : ArgumentException
+返回信息中含有错误码。
+追加信息 : 处理 Response 时发生错误。
+堆栈信息：
+   at ElectronicObserver.Observer.APIObserver.LoadResponse(String path, String data)
+
+通信内容 : api_req_practice/battle_result
+svdata={"api_result":201,"api_result_msg":"\u7533\u3057\u8A33\u3042\u308A\u307E\u305B\u3093\u304C\u30D6\u30E9\u30A6\u30B6\u3092\u518D\u8D77\u52D5\u3057\u518D\u30ED\u30B0\u30A4\u30F3\u3057\u3066\u304F\u3060\u3055\u3044\u3002"}

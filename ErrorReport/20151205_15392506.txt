@@ -1,0 +1,23 @@
+错误报告日期 : 12/5/2015 3:39:25 PM
+错误 : SerializationException
+There was an error deserializing the object of type ElectronicObserver.Data.ShipGroup.ExpressionManager. Data at the root level is invalid. Line 1, position 1.
+追加信息 : DataStorage 读取失败。
+堆栈信息：
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.DataContractSerializer.ReadObject(XmlReader reader)
+   at ElectronicObserver.Utility.Storage.DataStorage.Load(TextReader reader)
+Inner Error : XmlException
+Data at the root level is invalid. Line 1, position 1.
+Stack Trace：
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at System.Xml.XmlReader.IsStartElement(String localname, String ns)
+   at System.Runtime.Serialization.XmlReaderDelegator.IsStartElement(XmlDictionaryString localname, XmlDictionaryString ns)
+   at System.Runtime.Serialization.XmlObjectSerializer.IsRootElement(XmlReaderDelegator reader, DataContract contract, XmlDictionaryString name, XmlDictionaryString ns)
+   at System.Runtime.Serialization.DataContractSerializer.InternalIsStartObject(XmlReaderDelegator reader)
+   at System.Runtime.Serialization.DataContractSerializer.InternalReadObject(XmlReaderDelegator xmlReader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   at System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)

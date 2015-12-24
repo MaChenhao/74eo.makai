@@ -1,0 +1,25 @@
+错误报告日期 : 12/22/2015 7:35:19 PM
+错误 : InvalidOperationException
+Calling startup twice without calling shutdown is not permitted.
+追加信息 : 线程中错误：Calling startup twice without calling shutdown is not permitted.
+堆栈信息：
+   at Fiddler.FiddlerApplication.Startup(Int32 iListenPort, FiddlerCoreStartupFlags oFlags)
+   at ElectronicObserver.Observer.APIObserver.Start(Int32 portID, Control UIControl)
+   at ElectronicObserver.Window.Dialog.DialogConfiguration.ToConfiguration(ConfigurationData config)
+   at ElectronicObserver.Window.FormMain.StripMenu_File_Configuration_Click(Object sender, EventArgs e)
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStripItem.FireEventInteractive(EventArgs e, ToolStripItemEventType met)
+   at System.Windows.Forms.ToolStripItem.FireEvent(EventArgs e, ToolStripItemEventType met)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

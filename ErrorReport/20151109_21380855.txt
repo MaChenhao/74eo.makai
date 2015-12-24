@@ -1,0 +1,17 @@
+错误报告日期 : 11/9/2015 9:38:08 PM
+错误 : CommunicationObjectFaultedException
+The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+追加信息 : ブラウザの終了中にエラーが発生しました。
+堆栈信息：
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at BrowserLib.IBrowser.CloseBrowser()
+   at ElectronicObserver.Window.FormBrowserHost.CloseBrowser()

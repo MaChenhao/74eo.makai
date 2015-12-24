@@ -1,0 +1,8 @@
+错误报告日期 : 12/9/2015 3:52:22 PM
+错误 : ArgumentException
+Empty path name is not legal.
+追加信息 : 艦船グループ CSVの出力に失敗しました。
+堆栈信息：
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at ElectronicObserver.Window.FormShipGroup.MenuMember_CSVOutput_Click(Object sender, EventArgs e)

@@ -1,0 +1,8 @@
+错误报告日期 : 2015/10/10 PM 7:21:51
+错误 : ArgumentException
+要素数が少なすぎます。
+追加信息 : レコード Record\ShipDropRecord.csv の読み込みに失敗しました。
+堆栈信息：
+   at ElectronicObserver.Resource.Record.ShipDropRecord.ShipDropElement.LoadLine(String line)
+   at ElectronicObserver.Resource.Record.ShipDropRecord.LoadLine(String line)
+   at ElectronicObserver.Resource.Record.RecordBase.Load(String path)

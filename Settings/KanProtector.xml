@@ -1,0 +1,134 @@
+<Config CurrentVersion="0" ProtectPrimary="True" ShipProtection="True" EquipmentProtection="True">
+  <ShipProtection>
+    <Ship ShipID="120" Derived="False" Type="保护全部" />
+    <Ship ShipID="120" Derived="True" Type="保护最高" />
+    <Ship ShipID="131" Derived="True" Type="保护最高" />
+    <Ship ShipID="139" Derived="True" Type="保护最高" />
+    <Ship ShipID="140" Derived="True" Type="保护最高" />
+    <Ship ShipID="143" Derived="True" Type="保护最高" />
+    <Ship ShipID="153" Derived="True" Type="保护最高" />
+    <Ship ShipID="154" Derived="True" Type="保护最高" />
+    <Ship ShipID="155" Derived="True" Type="保护全部" />
+    <Ship ShipID="161" Derived="True" Type="保护最高" />
+    <Ship ShipID="163" Derived="False" Type="保护全部" />
+    <Ship ShipID="167" Derived="True" Type="保护最高" />
+    <Ship ShipID="171" Derived="True" Type="保护全部" />
+    <Ship ShipID="174" Derived="True" Type="保护最高" />
+    <Ship ShipID="175" Derived="True" Type="保护最高" />
+    <Ship ShipID="176" Derived="False" Type="保护全部" />
+    <Ship ShipID="176" Derived="True" Type="保护最高" />
+    <Ship ShipID="181" Derived="False" Type="保护全部" />
+    <Ship ShipID="181" Derived="True" Type="保护最高" />
+    <Ship ShipID="182" Derived="True" Type="保护最高" />
+    <Ship ShipID="183" Derived="True" Type="保护最高" />
+    <Ship ShipID="184" Derived="False" Type="保护最高" />
+    <Ship ShipID="185" Derived="False" Type="保护最高" />
+    <Ship ShipID="186" Derived="True" Type="保护最高" />
+    <Ship ShipID="190" Derived="True" Type="保护最高" />
+    <Ship ShipID="318" Derived="False" Type="保护最高" />
+    <Ship ShipID="331" Derived="True" Type="保护最高" />
+    <Ship ShipID="332" Derived="True" Type="保护最高" />
+    <Ship ShipID="404" Derived="True" Type="保护最高" />
+    <Ship ShipID="405" Derived="True" Type="保护最高" />
+    <Ship ShipID="409" Derived="True" Type="保护最高" />
+    <Ship ShipID="410" Derived="True" Type="保护最高" />
+    <Ship ShipID="413" Derived="True" Type="保护最高" />
+    <Ship ShipID="414" Derived="True" Type="保护最高" />
+    <Ship ShipID="415" Derived="True" Type="保护最高" />
+    <Ship ShipID="421" Derived="True" Type="保护最高" />
+    <Ship ShipID="422" Derived="True" Type="保护最高" />
+    <Ship ShipID="424" Derived="True" Type="保护最高" />
+    <Ship ShipID="425" Derived="True" Type="保护最高" />
+    <Ship ShipID="431" Derived="True" Type="保护全部" />
+    <Ship ShipID="441" Derived="True" Type="保护最高" />
+    <Ship ShipID="442" Derived="True" Type="保护最高" />
+    <Ship ShipID="443" Derived="True" Type="保护最高" />
+    <Ship ShipID="445" Derived="True" Type="保护最高" />
+    <Ship ShipID="451" Derived="True" Type="保护最高" />
+    <Ship ShipID="453" Derived="True" Type="保护最高" />
+    <Ship ShipID="458" Derived="True" Type="保护最高" />
+    <Ship ShipID="459" Derived="True" Type="保护最高" />
+    <Ship ShipID="460" Derived="True" Type="保护最高" />
+    <Ship ShipID="119" Derived="True" Type="保护全部" />
+    <Ship ShipID="118" Derived="True" Type="保护全部" />
+  </ShipProtection>
+  <EquipmentProtection>
+    <Equipment EquipmentID="8" />
+    <Equipment EquipmentID="9" />
+    <Equipment EquipmentID="22" />
+    <Equipment EquipmentID="31" />
+    <Equipment EquipmentID="36" />
+    <Equipment EquipmentID="42" />
+    <Equipment EquipmentID="43" />
+    <Equipment EquipmentID="45" />
+    <Equipment EquipmentID="47" />
+    <Equipment EquipmentID="50" />
+    <Equipment EquipmentID="52" />
+    <Equipment EquipmentID="53" />
+    <Equipment EquipmentID="56" />
+    <Equipment EquipmentID="58" />
+    <Equipment EquipmentID="62" />
+    <Equipment EquipmentID="63" />
+    <Equipment EquipmentID="67" />
+    <Equipment EquipmentID="73" />
+    <Equipment EquipmentID="76" />
+    <Equipment EquipmentID="79" />
+    <Equipment EquipmentID="80" />
+    <Equipment EquipmentID="81" />
+    <Equipment EquipmentID="82" />
+    <Equipment EquipmentID="83" />
+    <Equipment EquipmentID="85" />
+    <Equipment EquipmentID="86" />
+    <Equipment EquipmentID="87" />
+    <Equipment EquipmentID="88" />
+    <Equipment EquipmentID="89" />
+    <Equipment EquipmentID="90" />
+    <Equipment EquipmentID="93" />
+    <Equipment EquipmentID="94" />
+    <Equipment EquipmentID="95" />
+    <Equipment EquipmentID="99" />
+    <Equipment EquipmentID="100" />
+    <Equipment EquipmentID="102" />
+    <Equipment EquipmentID="103" />
+    <Equipment EquipmentID="105" />
+    <Equipment EquipmentID="106" />
+    <Equipment EquipmentID="107" />
+    <Equipment EquipmentID="108" />
+    <Equipment EquipmentID="109" />
+    <Equipment EquipmentID="110" />
+    <Equipment EquipmentID="111" />
+    <Equipment EquipmentID="112" />
+    <Equipment EquipmentID="113" />
+    <Equipment EquipmentID="114" />
+    <Equipment EquipmentID="116" />
+    <Equipment EquipmentID="117" />
+    <Equipment EquipmentID="118" />
+    <Equipment EquipmentID="120" />
+    <Equipment EquipmentID="121" />
+    <Equipment EquipmentID="122" />
+    <Equipment EquipmentID="123" />
+    <Equipment EquipmentID="124" />
+    <Equipment EquipmentID="126" />
+    <Equipment EquipmentID="127" />
+    <Equipment EquipmentID="128" />
+    <Equipment EquipmentID="129" />
+    <Equipment EquipmentID="130" />
+    <Equipment EquipmentID="131" />
+    <Equipment EquipmentID="132" />
+    <Equipment EquipmentID="134" />
+    <Equipment EquipmentID="135" />
+    <Equipment EquipmentID="136" />
+    <Equipment EquipmentID="137" />
+    <Equipment EquipmentID="139" />
+    <Equipment EquipmentID="140" />
+    <Equipment EquipmentID="141" />
+    <Equipment EquipmentID="142" />
+    <Equipment EquipmentID="143" />
+    <Equipment EquipmentID="144" />
+    <Equipment EquipmentID="147" />
+    <Equipment EquipmentID="148" />
+    <Equipment EquipmentID="149" />
+    <Equipment EquipmentID="150" />
+    <Equipment EquipmentID="57" />
+  </EquipmentProtection>
+</Config>

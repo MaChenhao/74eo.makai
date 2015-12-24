@@ -1,0 +1,13 @@
+错误报告日期 : 11/10/2015 1:04:54 PM
+错误 : WebException
+Unable to connect to the remote server
+追加信息 : 更新情报获取失败。
+堆栈信息：
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+Inner Error : SocketException
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 138.91.141.243:443
+Stack Trace：
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)

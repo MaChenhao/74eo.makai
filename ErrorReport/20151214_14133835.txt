@@ -1,0 +1,14 @@
+错误报告日期 : 12/14/2015 2:13:38 PM
+错误 : InvalidOperationException
+Invalid Content: ActiveContent must be one of the visible contents, or null if there is no visible content.
+追加信息 : 子窗口布局恢复失败。
+堆栈信息：
+   at WeifenLuo.WinFormsUI.Docking.DockPane.set_ActiveContent(IDockContent value)
+   at WeifenLuo.WinFormsUI.Docking.DockContentHandler.Activate()
+   at WeifenLuo.WinFormsUI.Docking.DockContentHandler.SetParent(Control value)
+   at WeifenLuo.WinFormsUI.Docking.DockContentHandler.SetPane(DockPane pane)
+   at WeifenLuo.WinFormsUI.Docking.DockContentHandler.SetDockState(Boolean isHidden, DockState visibleState, DockPane oldPane)
+   at WeifenLuo.WinFormsUI.Docking.DockContentHandler.set_PanelPane(DockPane value)
+   at WeifenLuo.WinFormsUI.Docking.DockPanel.Persistor.LoadFromXml(DockPanel dockPanel, Stream stream, DeserializeDockContent deserializeContent, Boolean closeStream)
+   at WeifenLuo.WinFormsUI.Docking.DockPanel.LoadFromXml(Stream stream, DeserializeDockContent deserializeContent)
+   at ElectronicObserver.Window.FormMain.LoadSubWindowsLayout(Stream stream)

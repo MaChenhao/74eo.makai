@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility">
+	<CacheSettings>
+		<CacheEnabled>false</CacheEnabled>
+		<CacheEntryFiles>2</CacheEntryFiles>
+		<CacheFolder>E:\3136\Kancolle\Cache</CacheFolder>
+		<CachePortFiles>2</CachePortFiles>
+		<CacheResourceFiles>2</CacheResourceFiles>
+		<CacheSceneFiles>2</CacheSceneFiles>
+		<CacheSoundFiles>2</CacheSoundFiles>
+		<CheckFiles>1</CheckFiles>
+		<HackEnabled>true</HackEnabled>
+		<HackTitleEnabled>true</HackTitleEnabled>
+		<SaveApiStart2>true</SaveApiStart2>
+		<UseCacheJs>false</UseCacheJs>
+	</CacheSettings>
+	<Connection>
+		<ApplyVersion>false</ApplyVersion>
+		<BlockMedia>false</BlockMedia>
+		<EnableSslUpstreamProxy>true</EnableSslUpstreamProxy>
+		<Port>40620</Port>
+		<RegisterAsSystemProxy>false</RegisterAsSystemProxy>
+		<SaveDataFilter></SaveDataFilter>
+		<SaveDataPath>KCAPI</SaveDataPath>
+		<SaveOtherFile>false</SaveOtherFile>
+		<SaveReceivedData>false</SaveReceivedData>
+		<SaveRequest>false</SaveRequest>
+		<SaveResponse>true</SaveResponse>
+		<SaveSWF>false</SaveSWF>
+		<SendDataToKancolleDB>false</SendDataToKancolleDB>
+		<SendKancolleOAuth></SendKancolleOAuth>
+		<UpstreamProxyAddress>127.0.0.1</UpstreamProxyAddress>
+		<UpstreamProxyPort>8123</UpstreamProxyPort>
+		<UseUpstreamProxy>true</UseUpstreamProxy>
+	</Connection>
+	<Control>
+		<ConditionBorder>46</ConditionBorder>
+		<RecordAutoSaving>1</RecordAutoSaving>
+	</Control>
+	<Debug>
+		<APIListPath></APIListPath>
+		<EnableDebugMenu>false</EnableDebugMenu>
+		<LoadAPIListOnLoad>false</LoadAPIListOnLoad>
+	</Debug>
+	<FormArsenal>
+		<ShowShipName>true</ShowShipName>
+	</FormArsenal>
+	<FormBattle>
+		<IsShortDamage>false</IsShortDamage>
+	</FormBattle>
+	<FormBrowser>
+		<AppliesStyleSheet>true</AppliesStyleSheet>
+		<ConfirmAtRefresh>true</ConfirmAtRefresh>
+		<EmbedHtml>&lt;embed width="800" height="480" wmode="{1}" quality="{2}" bgcolor="#000" allowScriptAccess="always" type="application/x-shockwave-flash" src="{0}"&gt;</EmbedHtml>
+		<FlashQuality>high</FlashQuality>
+		<FlashWmode>direct</FlashWmode>
+		<IsEnabled>true</IsEnabled>
+		<IsScrollable>false</IsScrollable>
+		<IsToolMenuVisible>true</IsToolMenuVisible>
+		<LogInPageURL>http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/</LogInPageURL>
+		<ModifyCookieRegion>false</ModifyCookieRegion>
+		<ScreenShotFormat>2</ScreenShotFormat>
+		<ScreenShotPath>ScreenShot</ScreenShotPath>
+		<ShowURL>true</ShowURL>
+		<StyleSheet>
+body {
+	margin:0;
+	overflow:hidden
+}
+
+#game_frame {
+	position:fixed;
+	left:50%;
+	top:-16px;
+	margin-left:-450px;
+	z-index:1
+}
+</StyleSheet>
+		<ToolMenuDockStyle>Left</ToolMenuDockStyle>
+		<ZoomFit>true</ZoomFit>
+		<ZoomRate>150</ZoomRate>
+	</FormBrowser>
+	<FormFleet>
+		<AirSuperiorityMethod>1</AirSuperiorityMethod>
+		<BarColorMorphing>false</BarColorMorphing>
+		<FixShipNameWidth>false</FixShipNameWidth>
+		<IsScrollable>true</IsScrollable>
+		<SearchingAbilityMethod>1</SearchingAbilityMethod>
+		<ShortenHPBar>false</ShortenHPBar>
+		<ShowAircraft>true</ShowAircraft>
+		<ShowAnchorageRepairingTimer>false</ShowAnchorageRepairingTimer>
+		<ShowEquipmentLevel>true</ShowEquipmentLevel>
+		<ShowNextExp>true</ShowNextExp>
+		<ShowTextProficiency>false</ShowTextProficiency>
+	</FormFleet>
+	<FormHeadquarters>
+		<BlinkAtMaximum>true</BlinkAtMaximum>
+	</FormHeadquarters>
+	<FormQuest>
+		<ColumnFilter xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
+		</ColumnFilter>
+		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedList>24,30,40,333,166</d3p1:SerializedList>
+		</ColumnWidth>
+		<ShowDaily>true</ShowDaily>
+		<ShowMonthly>true</ShowMonthly>
+		<ShowOnce>true</ShowOnce>
+		<ShowRunningOnly>false</ShowRunningOnly>
+		<ShowWeekly>true</ShowWeekly>
+		<SortParameter>1</SortParameter>
+	</FormQuest>
+	<FormShipGroup>
+		<AutoUpdate>true</AutoUpdate>
+		<ShowStatusBar>true</ShowStatusBar>
+		<SplitterDistance>40</SplitterDistance>
+	</FormShipGroup>
+	<Life>
+		<CheckUpdateInformation>true</CheckUpdateInformation>
+		<ClockFormat>0</ClockFormat>
+		<ConfirmOnClosing>true</ConfirmOnClosing>
+		<IsLocked>true</IsLocked>
+		<LayoutFilePath>Settings\WindowLayout.zip</LayoutFilePath>
+		<ShowStatusBar>true</ShowStatusBar>
+		<TopMost>false</TopMost>
+	</Life>
+	<Log>
+		<AutoSave>false</AutoSave>
+		<AutoSaveMinutes>3</AutoSaveMinutes>
+		<FileEncodingID>1</FileEncodingID>
+		<LogLevel>2</LogLevel>
+		<OutputGraphicList>false</OutputGraphicList>
+		<SaveErrorReport>true</SaveErrorReport>
+		<SaveLogFlag>true</SaveLogFlag>
+		<ShowCacheLog>true</ShowCacheLog>
+		<ShowMainD2Link>false</ShowMainD2Link>
+		<ShowSpoiler>true</ShowSpoiler>
+	</Log>
+	<NotifierCondition>
+		<AccelInterval>0</AccelInterval>
+		<Alignment>BottomRight</Alignment>
+		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF0F0F0</d3p1:SerializedColor>
+		</BackColor>
+		<ClickFlag>Left</ClickFlag>
+		<CloseOnMouseMove>true</CloseOnMouseMove>
+		<ClosingInterval>0</ClosingInterval>
+		<DrawsImage>false</DrawsImage>
+		<DrawsMessage>true</DrawsMessage>
+		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</ForeColor>
+		<HasFormBorder>true</HasFormBorder>
+		<ImagePath></ImagePath>
+		<IsEnabled>true</IsEnabled>
+		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+			<d3p1:x>0</d3p1:x>
+			<d3p1:y>0</d3p1:y>
+		</Location>
+		<PlaysSound>true</PlaysSound>
+		<ShowWithActivation>false</ShowWithActivation>
+		<ShowsDialog>true</ShowsDialog>
+		<SoundPath>poi.wav</SoundPath>
+		<TopMost>true</TopMost>
+	</NotifierCondition>
+	<NotifierConstruction>
+		<AccelInterval>0</AccelInterval>
+		<Alignment>BottomRight</Alignment>
+		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF0F0F0</d3p1:SerializedColor>
+		</BackColor>
+		<ClickFlag>Left</ClickFlag>
+		<CloseOnMouseMove>true</CloseOnMouseMove>
+		<ClosingInterval>10000</ClosingInterval>
+		<DrawsImage>false</DrawsImage>
+		<DrawsMessage>true</DrawsMessage>
+		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</ForeColor>
+		<HasFormBorder>true</HasFormBorder>
+		<ImagePath></ImagePath>
+		<IsEnabled>false</IsEnabled>
+		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+			<d3p1:x>0</d3p1:x>
+			<d3p1:y>0</d3p1:y>
+		</Location>
+		<PlaysSound>false</PlaysSound>
+		<ShowWithActivation>false</ShowWithActivation>
+		<ShowsDialog>true</ShowsDialog>
+		<SoundPath></SoundPath>
+		<TopMost>true</TopMost>
+	</NotifierConstruction>
+	<NotifierDamage>
+		<AccelInterval>0</AccelInterval>
+		<Alignment>MiddleCenter</Alignment>
+		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFF0000</d3p1:SerializedColor>
+		</BackColor>
+		<ClickFlag>Left</ClickFlag>
+		<CloseOnMouseMove>false</CloseOnMouseMove>
+		<ClosingInterval>0</ClosingInterval>
+		<DrawsImage>false</DrawsImage>
+		<DrawsMessage>true</DrawsMessage>
+		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFFFFFF</d3p1:SerializedColor>
+		</ForeColor>
+		<HasFormBorder>true</HasFormBorder>
+		<ImagePath></ImagePath>
+		<IsEnabled>true</IsEnabled>
+		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+			<d3p1:x>0</d3p1:x>
+			<d3p1:y>0</d3p1:y>
+		</Location>
+		<PlaysSound>false</PlaysSound>
+		<ShowWithActivation>false</ShowWithActivation>
+		<ShowsDialog>true</ShowsDialog>
+		<SoundPath></SoundPath>
+		<TopMost>true</TopMost>
+		<ContainsFlagship>true</ContainsFlagship>
+		<ContainsNotLockedShip>true</ContainsNotLockedShip>
+		<ContainsSafeShip>true</ContainsSafeShip>
+		<LevelBorder>1</LevelBorder>
+		<NotifiesAfter>true</NotifiesAfter>
+		<NotifiesAtEndpoint>false</NotifiesAtEndpoint>
+		<NotifiesBefore>true</NotifiesBefore>
+		<NotifiesNow>true</NotifiesNow>
+	</NotifierDamage>
+	<NotifierExpedition>
+		<AccelInterval>55000</AccelInterval>
+		<Alignment>BottomRight</Alignment>
+		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF0F0F0</d3p1:SerializedColor>
+		</BackColor>
+		<ClickFlag>Left</ClickFlag>
+		<CloseOnMouseMove>true</CloseOnMouseMove>
+		<ClosingInterval>0</ClosingInterval>
+		<DrawsImage>false</DrawsImage>
+		<DrawsMessage>true</DrawsMessage>
+		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</ForeColor>
+		<HasFormBorder>true</HasFormBorder>
+		<ImagePath></ImagePath>
+		<IsEnabled>true</IsEnabled>
+		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+			<d3p1:x>0</d3p1:x>
+			<d3p1:y>0</d3p1:y>
+		</Location>
+		<PlaysSound>true</PlaysSound>
+		<ShowWithActivation>false</ShowWithActivation>
+		<ShowsDialog>true</ShowsDialog>
+		<SoundPath>poi.wav</SoundPath>
+		<TopMost>true</TopMost>
+	</NotifierExpedition>
+	<NotifierRepair>
+		<AccelInterval>55000</AccelInterval>
+		<Alignment>BottomRight</Alignment>
+		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF0F0F0</d3p1:SerializedColor>
+		</BackColor>
+		<ClickFlag>Left</ClickFlag>
+		<CloseOnMouseMove>true</CloseOnMouseMove>
+		<ClosingInterval>0</ClosingInterval>
+		<DrawsImage>false</DrawsImage>
+		<DrawsMessage>true</DrawsMessage>
+		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</ForeColor>
+		<HasFormBorder>true</HasFormBorder>
+		<ImagePath></ImagePath>
+		<IsEnabled>true</IsEnabled>
+		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+			<d3p1:x>0</d3p1:x>
+			<d3p1:y>0</d3p1:y>
+		</Location>
+		<PlaysSound>true</PlaysSound>
+		<ShowWithActivation>false</ShowWithActivation>
+		<ShowsDialog>true</ShowsDialog>
+		<SoundPath>poi.wav</SoundPath>
+		<TopMost>true</TopMost>
+	</NotifierRepair>
+	<UI>
+		<AutoScaleDpi>true</AutoScaleDpi>
+		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF5F5F5</d3p1:SerializedColor>
+		</BackColor>
+		<ButtonBackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF0F0F0</d3p1:SerializedColor>
+		</ButtonBackColor>
+		<EliteColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFF0000</d3p1:SerializedColor>
+		</EliteColor>
+		<FailedColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFF0000</d3p1:SerializedColor>
+		</FailedColor>
+		<FlagshipColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFF8800</d3p1:SerializedColor>
+		</FlagshipColor>
+		<FleetDamageColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF08080</d3p1:SerializedColor>
+		</FleetDamageColor>
+		<FleetExpeditionColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF62C0FF</d3p1:SerializedColor>
+		</FleetExpeditionColor>
+		<FleetNotReadyColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFDDF51</d3p1:SerializedColor>
+		</FleetNotReadyColor>
+		<FleetReadyColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF8AE09D</d3p1:SerializedColor>
+		</FleetReadyColor>
+		<FleetSortieColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFE84940</d3p1:SerializedColor>
+		</FleetSortieColor>
+		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</ForeColor>
+		<HighlightColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFFFFCC</d3p1:SerializedColor>
+		</HighlightColor>
+		<HighlightForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</HighlightForeColor>
+		<Hp0Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFF0000</d3p1:SerializedColor>
+		</Hp0Color>
+		<Hp100Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF0044CC</d3p1:SerializedColor>
+		</Hp100Color>
+		<Hp25Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFF8800</d3p1:SerializedColor>
+		</Hp25Color>
+		<Hp50Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFFCC00</d3p1:SerializedColor>
+		</Hp50Color>
+		<Hp75Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF00CC00</d3p1:SerializedColor>
+		</Hp75Color>
+		<HpBackgroundColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF888888</d3p1:SerializedColor>
+		</HpBackgroundColor>
+		<HpBackgroundOffset>1</HpBackgroundOffset>
+		<HpDecrementColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF882222</d3p1:SerializedColor>
+		</HpDecrementColor>
+		<HpIncrementColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF44FF00</d3p1:SerializedColor>
+		</HpIncrementColor>
+		<HpThickness>4</HpThickness>
+		<LateModelColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF0088FF</d3p1:SerializedColor>
+		</LateModelColor>
+		<LineColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFA0A0A0</d3p1:SerializedColor>
+		</LineColor>
+		<MainFont xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 12px</d3p1:SerializeFontAttribute>
+		</MainFont>
+		<NotExpeditionBlink>true</NotExpeditionBlink>
+		<QuestArsenal xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFDDCCBB</d3p1:SerializedColor>
+		</QuestArsenal>
+		<QuestExercise xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFDDFFAA</d3p1:SerializedColor>
+		</QuestExercise>
+		<QuestExpedition xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFCCFFFF</d3p1:SerializedColor>
+		</QuestExpedition>
+		<QuestForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</QuestForeColor>
+		<QuestOrganization xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFAAFFAA</d3p1:SerializedColor>
+		</QuestOrganization>
+		<QuestRenovated xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFDDCCFF</d3p1:SerializedColor>
+		</QuestRenovated>
+		<QuestSortie xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFFCCCC</d3p1:SerializedColor>
+		</QuestSortie>
+		<QuestSupplyDocking xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFFFFFCC</d3p1:SerializedColor>
+		</QuestSupplyDocking>
+		<SubFont xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 10px</d3p1:SerializeFontAttribute>
+		</SubFont>
+		<SubForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF888888</d3p1:SerializedColor>
+		</SubForeColor>
+		<ThemeID>0</ThemeID>
+	</UI>
+	<Version>2.0.3</Version>
+	<VersionUpdateTime>2015/12/10 01:00:00</VersionUpdateTime>
+	<Whitecap>
+		<AliveRule>12</AliveRule>
+		<BirthRule>8</BirthRule>
+		<BoardHeight>150</BoardHeight>
+		<BoardWidth>200</BoardWidth>
+		<ColorTheme>0</ColorTheme>
+		<ShowInTaskbar>true</ShowInTaskbar>
+		<TopMost>false</TopMost>
+		<UpdateInterval>100</UpdateInterval>
+		<ZoomRate>2</ZoomRate>
+	</Whitecap>
+</Configuration>

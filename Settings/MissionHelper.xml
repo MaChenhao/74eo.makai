@@ -1,0 +1,76 @@
+<Config>
+  <Dock>
+    <Filter>
+      <Filter ID="1" Filter="True" />
+      <Filter ID="2" Filter="False" />
+      <Filter ID="3" Filter="False" />
+      <Filter ID="4" Filter="False" />
+      <Filter ID="5" Filter="False" />
+      <Filter ID="6" Filter="False" />
+      <Filter ID="7" Filter="True" />
+      <Filter ID="8" Filter="True" />
+      <Filter ID="9" Filter="True" />
+      <Filter ID="10" Filter="True" />
+      <Filter ID="11" Filter="False" />
+      <Filter ID="12" Filter="True" />
+      <Filter ID="13" Filter="True" />
+      <Filter ID="14" Filter="True" />
+      <Filter ID="15" Filter="True" />
+      <Filter ID="16" Filter="True" />
+      <Filter ID="17" Filter="True" />
+      <Filter ID="18" Filter="True" />
+      <Filter ID="19" Filter="True" />
+      <Filter ID="20" Filter="True" />
+      <Filter ID="21" Filter="False" />
+      <Filter ID="22" Filter="True" />
+      <Filter ID="23" Filter="True" />
+      <Filter ID="24" Filter="True" />
+      <Filter ID="25" Filter="True" />
+      <Filter ID="26" Filter="True" />
+      <Filter ID="27" Filter="True" />
+      <Filter ID="28" Filter="True" />
+      <Filter ID="29" Filter="True" />
+      <Filter ID="30" Filter="True" />
+      <Filter ID="31" Filter="True" />
+      <Filter ID="32" Filter="True" />
+      <Filter ID="35" Filter="False" />
+      <Filter ID="36" Filter="False" />
+      <Filter ID="37" Filter="False" />
+      <Filter ID="38" Filter="False" />
+      <Filter ID="39" Filter="True" />
+      <Filter ID="40" Filter="False" />
+    </Filter>
+    <Width>
+      <Width ColName="colID" ColWidth="25" />
+      <Width ColName="colName" ColWidth="130" />
+      <Width ColName="colFleet2" ColWidth="25" />
+      <Width ColName="colFleet3" ColWidth="25" />
+      <Width ColName="colFleet4" ColWidth="25" />
+    </Width>
+  </Dock>
+  <Popup>
+    <Width>
+      <Width ColName="colID" ColWidth="25" />
+      <Width ColName="colName" ColWidth="130" />
+      <Width ColName="colFleet2" ColWidth="25" />
+      <Width ColName="colFleet3" ColWidth="25" />
+      <Width ColName="colFleet4" ColWidth="25" />
+      <Width ColName="colTime" ColWidth="50" />
+      <Width ColName="colLevel" ColWidth="50" />
+      <Width ColName="colCount" ColWidth="40" />
+      <Width ColName="colText" ColWidth="110" />
+      <Width ColName="colFuel" ColWidth="35" />
+      <Width ColName="colAmmo" ColWidth="35" />
+      <Width ColName="colSteel" ColWidth="35" />
+      <Width ColName="colAl" ColWidth="35" />
+      <Width ColName="colFuel2" ColWidth="50" />
+      <Width ColName="colAmmo2" ColWidth="50" />
+      <Width ColName="colSteel2" ColWidth="50" />
+      <Width ColName="colAl2" ColWidth="50" />
+      <Width ColName="colBucket" ColWidth="35" />
+      <Width ColName="colConstruc" ColWidth="35" />
+      <Width ColName="colFastConstruc" ColWidth="35" />
+      <Width ColName="colCoin" ColWidth="40" />
+    </Width>
+  </Popup>
+</Config>

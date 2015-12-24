@@ -1,0 +1,32 @@
+错误报告日期 : 2015/10/19 PM 9:47:10
+错误 : ArgumentOutOfRangeException
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+追加信息 : 线程中错误：Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+堆栈信息：
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at ElectronicObserver.Window.Dialog.DialogShipGroupFilter.ExpressionDetailView_CellFormatting(Object sender, DataGridViewCellFormattingEventArgs e)
+   at System.Windows.Forms.DataGridView.OnCellFormatting(DataGridViewCellFormattingEventArgs e)
+   at System.Windows.Forms.DataGridView.OnCellFormatting(Int32 columnIndex, Int32 rowIndex, Object val, Type formattedValueType, DataGridViewCellStyle cellStyle)
+   at System.Windows.Forms.DataGridViewCell.GetFormattedValue(Object value, Int32 rowIndex, DataGridViewCellStyle& cellStyle, TypeConverter valueTypeConverter, TypeConverter formattedValueTypeConverter, DataGridViewDataErrorContexts context)
+   at System.Windows.Forms.DataGridViewCell.GetEditedFormattedValue(Object value, Int32 rowIndex, DataGridViewCellStyle& dataGridViewCellStyle, DataGridViewDataErrorContexts context)
+   at System.Windows.Forms.DataGridView.OnCellValidating(DataGridViewCell& dataGridViewCell, Int32 columnIndex, Int32 rowIndex, DataGridViewDataErrorContexts context)
+   at System.Windows.Forms.DataGridView.CommitEdit(DataGridViewCell& dataGridViewCurrentCell, DataGridViewDataErrorContexts context, DataGridViewValidateCellInternal validateCell, Boolean fireCellLeave, Boolean fireCellEnter, Boolean fireRowLeave, Boolean fireRowEnter, Boolean fireLeave)
+   at System.Windows.Forms.DataGridView.EndEdit(DataGridViewDataErrorContexts context, DataGridViewValidateCellInternal validateCell, Boolean fireCellLeave, Boolean fireCellEnter, Boolean fireRowLeave, Boolean fireRowEnter, Boolean fireLeave, Boolean keepFocus, Boolean resetCurrentCell, Boolean resetAnchorCell)
+   at System.Windows.Forms.DataGridView.OnValidating(CancelEventArgs e)
+   at System.Windows.Forms.Control.NotifyValidating()
+   at System.Windows.Forms.Control.PerformControlValidation(Boolean bulkValidation)
+   at System.Windows.Forms.ContainerControl.ValidateThroughAncestor(Control ancestorControl, Boolean preventFocusChangeOnError)
+   at System.Windows.Forms.ContainerControl.EnterValidation(Control enterControl)
+   at System.Windows.Forms.ContainerControl.UpdateFocusedControl()
+   at System.Windows.Forms.ContainerControl.AssignActiveControlInternal(Control value)
+   at System.Windows.Forms.ContainerControl.ActivateControlInternal(Control control, Boolean originator)
+   at System.Windows.Forms.ContainerControl.ActivateControlInternal(Control control, Boolean originator)
+   at System.Windows.Forms.ContainerControl.ActivateControlInternal(Control control)
+   at System.Windows.Forms.Control.WmSetFocus(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
