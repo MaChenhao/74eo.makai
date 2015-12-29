@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Configuration xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility">
 	<CacheSettings>
-		<CacheEnabled>false</CacheEnabled>
+		<CacheEnabled>true</CacheEnabled>
 		<CacheEntryFiles>2</CacheEntryFiles>
 		<CacheFolder>E:\3136\Kancolle\Cache</CacheFolder>
 		<CachePortFiles>2</CachePortFiles>
@@ -105,7 +105,7 @@ body {
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
-		<ShowOnce>true</ShowOnce>
+		<ShowOnce>false</ShowOnce>
 		<ShowRunningOnly>false</ShowRunningOnly>
 		<ShowWeekly>true</ShowWeekly>
 		<SortParameter>1</SortParameter>
