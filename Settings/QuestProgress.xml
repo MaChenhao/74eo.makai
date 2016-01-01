@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-01-01T17:27:06.8423587+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-01-01T20:20:50.2054329+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>0</Progress>
@@ -18,7 +18,7 @@
 			</TargetArea>
 		</ProgressData>
 		<ProgressData i:type="ProgressSlaughter">
-			<Progress>31</Progress>
+			<Progress>40</Progress>
 			<ProgressMax>50</ProgressMax>
 			<QuestID>221</QuestID>
 			<QuestType>3</QuestType>
@@ -45,17 +45,6 @@
 				<d4p1:int>15</d4p1:int>
 			</TargetArea>
 		</ProgressData>
-		<ProgressData i:type="ProgressExpedition">
-			<Progress>6</Progress>
-			<ProgressMax>10</ProgressMax>
-			<QuestID>403</QuestID>
-			<QuestType>2</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635872475937694262</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>2</Type>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
-		</ProgressData>
 		<ProgressData i:type="ProgressPractice">
 			<Progress>4</Progress>
 			<ProgressMax>7</ProgressMax>
@@ -68,7 +57,7 @@
 			<WinOnly>true</WinOnly>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
-			<Progress>1</Progress>
+			<Progress>4</Progress>
 			<ProgressMax>5</ProgressMax>
 			<QuestID>226</QuestID>
 			<QuestType>2</QuestType>
