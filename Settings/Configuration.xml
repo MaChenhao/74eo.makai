@@ -35,6 +35,7 @@
 	</Connection>
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
+		<RecordAutoSaving>1</RecordAutoSaving>
 	</Control>
 	<Debug>
 		<APIListPath></APIListPath>
@@ -45,7 +46,7 @@
 		<ShowShipName>true</ShowShipName>
 	</FormArsenal>
 	<FormBattle>
-		<IsShortDamage>true</IsShortDamage>
+		<IsShortDamage>false</IsShortDamage>
 	</FormBattle>
 	<FormBrowser>
 		<AppliesStyleSheet>true</AppliesStyleSheet>
@@ -81,6 +82,7 @@ body {
 	</FormBrowser>
 	<FormFleet>
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
+		<BarColorMorphing>false</BarColorMorphing>
 		<FixShipNameWidth>true</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
 		<SearchingAbilityMethod>1</SearchingAbilityMethod>
@@ -99,11 +101,11 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,232,118</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,245,122</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
-		<ShowOnce>true</ShowOnce>
+		<ShowOnce>false</ShowOnce>
 		<ShowRunningOnly>false</ShowRunningOnly>
 		<ShowWeekly>true</ShowWeekly>
 		<SortParameter>1</SortParameter>
@@ -115,8 +117,9 @@ body {
 	</FormShipGroup>
 	<Life>
 		<CheckUpdateInformation>true</CheckUpdateInformation>
+		<ClockFormat>0</ClockFormat>
 		<ConfirmOnClosing>true</ConfirmOnClosing>
-		<IsLocked>true</IsLocked>
+		<IsLocked>false</IsLocked>
 		<LayoutFilePath>Settings\WindowLayout2.zip</LayoutFilePath>
 		<ShowStatusBar>true</ShowStatusBar>
 		<TopMost>false</TopMost>
@@ -385,8 +388,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>1.7.1</Version>
-	<VersionUpdateTime>2015/11/10 19:00:00</VersionUpdateTime>
+	<Version>2.0.3</Version>
+	<VersionUpdateTime>2015/12/10 01:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>

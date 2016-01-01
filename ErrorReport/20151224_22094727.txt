@@ -1,0 +1,7 @@
+错误报告日期 : 12/24/2015 10:09:47 PM
+错误 : NullReferenceException
+Object reference not set to an instance of an object.
+追加信息 : ブラウザの終了中にエラーが発生しました。
+堆栈信息：
+   at ElectronicObserver.Window.FormBrowserHost.TerminateBrowserProcess()
+   at ElectronicObserver.Window.FormBrowserHost.CloseBrowser()

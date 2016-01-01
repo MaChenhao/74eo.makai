@@ -1,0 +1,9 @@
+错误报告日期 : 12/24/2015 10:09:34 PM
+错误 : Win32Exception
+Access is denied
+追加信息 : ブラウザプロセスの起動に失敗しました。
+堆栈信息：
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at ElectronicObserver.Window.FormBrowserHost.LaunchBrowserProcess()
