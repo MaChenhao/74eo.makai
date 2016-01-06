@@ -1,8 +1,0 @@
-错误报告日期 : 11/15/2015 8:50:37 AM
-错误 : WebException
-The remote name could not be resolved: 'ci.appveyor.com'
-追加信息 : 更新情报获取失败。
-堆栈信息：
-   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
-   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
-   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)

@@ -1,7 +1,0 @@
-错误报告日期 : 2015/9/9 PM 5:16:21
-错误 : WebException
-The operation has timed out
-追加信息 : 送信至 poi-statistics 失败
-堆栈信息：
-   at System.Net.HttpWebRequest.GetResponse()
-   at ElectronicObserver.Observer.APIPoiSender.Report(String data, String apiname)
