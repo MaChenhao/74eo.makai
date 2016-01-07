@@ -42408,3 +42408,1771 @@ http://203.104.209.7/kcscontents/news/style.css
 [2016/01/01 20:20:56][2] : 缓存列表已保存。
 [2016/01/01 20:20:56][2] : 记录已保存。
 [2016/01/01 20:20:56][2] : 结束处理完毕。
+[2016/01/01 20:56:51][2] : 缓存列表载入完毕。
+[2016/01/01 20:56:51][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/01 20:56:52][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/01 20:56:52][2] : 七四式電子観測儀 开始启动…
+[2016/01/01 20:56:52][2] : 记录已读取。
+[2016/01/01 20:56:53][2] : APIObserver: 端口 40620 开始监听。
+[2016/01/01 20:56:53][2] : 服务 API加载器(1.0.0.0) 已加载。
+[2016/01/01 20:56:54][2] : 服务 舰船编成服务(1.0.0.0) 已加载。
+[2016/01/01 20:56:54][2] : 服务 数据发送插件(2.0.0.1) 已加载。
+[2016/01/01 20:56:54][2] : 服务 舰队配置代码提取器(&F)(1.0.0.0) 已加载。
+[2016/01/01 20:56:55][2] : 服务 侠客行(1.0.0.2) 已加载。
+[2016/01/01 20:56:55][2] : 服务 远征助手(1.0.0.3) 已加载。
+[2016/01/01 20:56:55][2] : 服务 提醒插件(1.0.0.0) 已加载。
+[2016/01/01 20:57:02][2] : 窗口布局已恢复。Settings\WindowLayout2.zip
+[2016/01/01 20:57:03][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/01 20:57:03][3] : 启动处理完毕。
+[2016/01/01 20:57:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/01 20:57:50][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/01 20:58:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/51.mp3?version=15
+[2016/01/01 20:58:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/1.mp3?version=15
+[2016/01/01 20:58:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\51.mp3.
+[2016/01/01 20:58:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\1.mp3.
+[2016/01/01 20:59:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/kspwuqsyhipy.swf?VERSION=10
+[2016/01/01 20:59:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\kspwuqsyhipy.swf.
+[2016/01/01 20:59:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qgrxbhuvtrbf.swf?VERSION=4
+[2016/01/01 20:59:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qgrxbhuvtrbf.swf.
+[2016/01/01 20:59:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/jprpbvbeillv.swf?VERSION=18
+[2016/01/01 20:59:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\jprpbvbeillv.swf.
+[2016/01/01 20:59:14][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ugxgvgtjsxud.swf?VERSION=8
+[2016/01/01 20:59:17][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ugxgvgtjsxud.swf.
+[2016/01/01 21:30:41][2] : #3「第3艦隊」的远征「37: 東京急行」已归来。
+[2016/01/01 21:30:41][2] : 遠征結果 - 成功: 弾薬x380, 鋼材x270, 家具箱（小）x1, 提督Exp+50, 艦娘Exp+65
+[2016/01/01 21:30:53][2] : #4「第4艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/01 21:30:53][2] : 遠征結果 - 成功: 燃料x420, 鋼材x200, 家具箱（小）x1, 提督Exp+50, 艦娘Exp+140
+[2016/01/01 21:30:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcidhoawqrgkqh/7.mp3?version=9
+[2016/01/01 21:30:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcidhoawqrgkqh\7.mp3.
+[2016/01/01 21:31:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcidhoawqrgkqh/27.mp3?version=9
+[2016/01/01 21:31:14][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcidhoawqrgkqh\27.mp3.
+[2016/01/01 21:31:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcexedxncqauws/13.mp3?version=10
+[2016/01/01 21:31:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcexedxncqauws\13.mp3.
+[2016/01/01 21:32:29][2] : #3「第3艦隊」已出击远征「3: 警備任務」。
+[2016/01/01 21:32:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/chmytqkkilrv.swf?VERSION=9
+[2016/01/01 21:33:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\chmytqkkilrv.swf.
+[2016/01/01 21:33:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcwjcrloeyiyxw/13.mp3?version=9
+[2016/01/01 21:33:01][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcwjcrloeyiyxw\13.mp3.
+[2016/01/01 21:33:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcwjcrloeyiyxw/26.mp3?version=9
+[2016/01/01 21:33:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcwjcrloeyiyxw\26.mp3.
+[2016/01/01 21:33:43][2] : #4「第4艦隊」已出击远征「36: 水上機基地建設」。
+[2016/01/01 21:51:49][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/01 21:51:49][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/01 21:51:58][2] : #3「第3艦隊」的远征「3: 警備任務」已归来。
+[2016/01/01 21:51:58][2] : 遠征結果 - 成功: 燃料x30, 弾薬x30, 鋼材x40, 提督Exp+30, 艦娘Exp+30
+[2016/01/01 21:52:49][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsbdfpooechyn/13.mp3?version=12
+[2016/01/01 21:52:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsbdfpooechyn\13.mp3.
+[2016/01/01 21:52:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqsnkljxqtrgb/13.mp3?version=10
+[2016/01/01 21:52:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqsnkljxqtrgb\13.mp3.
+[2016/01/01 21:52:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/xtqbjysffsvx.swf?VERSION=15
+[2016/01/01 21:52:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ohpnwjgzfesg.swf?VERSION=5
+[2016/01/01 21:52:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\xtqbjysffsvx.swf.
+[2016/01/01 21:52:59][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcohpnwjgzfesg/13.mp3?version=5
+[2016/01/01 21:52:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcohpnwjgzfesg\13.mp3.
+[2016/01/01 21:53:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ohpnwjgzfesg.swf.
+[2016/01/01 21:53:20][2] : #2「第2艦隊」已出击远征「2: 長距離練習航海」。
+[2016/01/01 21:53:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsbdfpooechyn/26.mp3?version=12
+[2016/01/01 21:53:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsbdfpooechyn\26.mp3.
+[2016/01/01 21:53:28][2] : #3「第3艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/01 22:25:50][2] : #2「第2艦隊」的远征「2: 長距離練習航海」已归来。
+[2016/01/01 22:25:50][2] : 遠征結果 - 成功: 弾薬x100, 鋼材x30, 高速修復材x1, 提督Exp+20, 艦娘Exp+15
+[2016/01/01 22:26:21][2] : #2「第2艦隊」已出击远征「2: 長距離練習航海」。
+[2016/01/01 22:47:51][2] : #1「演習反潛」出击海域「2-3 東部オリョール海」。
+[2016/01/01 22:51:23][2] : #1「演習反潛」回到母港。
+[2016/01/01 22:51:59][2] : #1「演習反潛」出击海域「2-3 東部オリョール海」。
+[2016/01/01 22:55:56][2] : #1「演習反潛」回到母港。
+[2016/01/01 22:56:04][2] : #2「第2艦隊」的远征「2: 長距離練習航海」已归来。
+[2016/01/01 22:56:04][2] : 遠征結果 - 成功: 弾薬x100, 鋼材x30, 提督Exp+20, 艦娘Exp+30
+[2016/01/01 22:57:15][2] : #2「第2艦隊」已出击远征「2: 長距離練習航海」。
+[2016/01/01 22:57:26][2] : #1「演習反潛」出击海域「2-3 東部オリョール海」。
+[2016/01/01 23:01:35][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:01:52][2] : #1「演習反潛」出击海域「2-3 東部オリョール海」。
+[2016/01/01 23:02:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcwnibjvejengh/19.mp3?version=9
+[2016/01/01 23:02:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcwnibjvejengh\19.mp3.
+[2016/01/01 23:03:03][2] : 駆逐艦「敷波」已加入队伍。
+[2016/01/01 23:03:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gcbiuhgmgjbm.swf?VERSION=11
+[2016/01/01 23:03:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gcbiuhgmgjbm.swf.
+[2016/01/01 23:03:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgcbiuhgmgjbm/1.mp3?version=11
+[2016/01/01 23:03:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgcbiuhgmgjbm\1.mp3.
+[2016/01/01 23:03:49][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:05:07][2] : #1「演習反潛」出击海域「2-3 東部オリョール海」。
+[2016/01/01 23:06:10][2] : 駆逐艦「霰」已加入队伍。
+[2016/01/01 23:06:25][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/oiknslickotp.swf?VERSION=5
+[2016/01/01 23:06:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\oiknslickotp.swf.
+[2016/01/01 23:06:32][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcoiknslickotp/1.mp3?version=5
+[2016/01/01 23:06:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcoiknslickotp\1.mp3.
+[2016/01/01 23:07:32][2] : 重巡洋艦「筑摩」已加入队伍。
+[2016/01/01 23:07:47][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gcqjowlpkbde.swf?VERSION=7
+[2016/01/01 23:07:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gcqjowlpkbde.swf.
+[2016/01/01 23:07:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgcqjowlpkbde/1.mp3?version=7
+[2016/01/01 23:07:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgcqjowlpkbde\1.mp3.
+[2016/01/01 23:07:55][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:08:26][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/01 23:10:22][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:10:56][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/01 23:11:57][2] : 駆逐艦「不知火」已加入队伍。
+[2016/01/01 23:16:07][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:16:33][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/01 23:17:56][2] : 重巡洋艦「羽黒」已加入队伍。
+[2016/01/01 23:18:18][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:18:51][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/01 23:19:59][2] : 重巡洋艦「愛宕」已加入队伍。
+[2016/01/01 23:20:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/aqpnbsizhjij.swf?VERSION=4
+[2016/01/01 23:20:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcaqpnbsizhjij/1.mp3?version=4
+[2016/01/01 23:20:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcaqpnbsizhjij\1.mp3.
+[2016/01/01 23:20:26][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:20:57][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/01 23:22:30][2] : 駆逐艦「村雨」已加入队伍。
+[2016/01/01 23:22:47][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/fhaelooubkbi.swf?VERSION=19
+[2016/01/01 23:22:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\fhaelooubkbi.swf.
+[2016/01/01 23:22:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfhaelooubkbi/1.mp3?version=19
+[2016/01/01 23:22:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfhaelooubkbi\1.mp3.
+[2016/01/01 23:23:01][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:23:05][2] : #3「第3艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/01 23:23:05][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+80
+[2016/01/01 23:23:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsbdfpooechyn/7.mp3?version=12
+[2016/01/01 23:23:07][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsbdfpooechyn\7.mp3.
+[2016/01/01 23:23:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsbdfpooechyn/27.mp3?version=12
+[2016/01/01 23:23:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsbdfpooechyn\27.mp3.
+[2016/01/01 23:24:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ttkeodhvrmog.swf?VERSION=6
+[2016/01/01 23:24:15][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ttkeodhvrmog.swf.
+[2016/01/01 23:24:29][2] : #3「第3艦隊」已出击远征「40: 水上機前線輸送」。
+[2016/01/01 23:24:39][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/01 23:25:14][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\aqpnbsizhjij.swf.
+[2016/01/01 23:25:35][2] : 駆逐艦「初霜」已加入队伍。
+[2016/01/01 23:25:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qngptlxhrwhj.swf?VERSION=8
+[2016/01/01 23:25:52][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qngptlxhrwhj.swf.
+[2016/01/01 23:25:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqngptlxhrwhj/1.mp3?version=8
+[2016/01/01 23:25:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqngptlxhrwhj\1.mp3.
+[2016/01/01 23:27:32][2] : 軽巡洋艦「由良」已加入队伍。
+[2016/01/01 23:28:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/shjlydqjdfcl.swf?VERSION=15
+[2016/01/01 23:28:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\shjlydqjdfcl.swf.
+[2016/01/01 23:28:07][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcshjlydqjdfcl/1.mp3?version=15
+[2016/01/01 23:28:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcshjlydqjdfcl\1.mp3.
+[2016/01/01 23:28:10][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:28:13][2] : #2「第2艦隊」的远征「2: 長距離練習航海」已归来。
+[2016/01/01 23:28:13][2] : 遠征結果 - 成功: 弾薬x100, 鋼材x30, 高速修復材x1, 提督Exp+20, 艦娘Exp+15
+[2016/01/01 23:30:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsxrrihbkdkjl/26.mp3?version=7
+[2016/01/01 23:30:10][2] : #2「第2艦隊」已出击远征「35: MO作戦」。
+[2016/01/01 23:30:10][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsxrrihbkdkjl\26.mp3.
+[2016/01/01 23:30:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzrjtnzguul.swf?VERSION=3
+[2016/01/01 23:30:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/13.mp3?version=3
+[2016/01/01 23:30:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\13.mp3.
+[2016/01/01 23:30:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzrjtnzguul.swf.
+[2016/01/01 23:30:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzbnbdxfioq.swf?VERSION=12
+[2016/01/01 23:30:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjprpbvbeillv/13.mp3?version=18
+[2016/01/01 23:30:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjprpbvbeillv\13.mp3.
+[2016/01/01 23:31:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzbnbdxfioq.swf.
+[2016/01/01 23:31:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ikwmknqjpvkg.swf?VERSION=11
+[2016/01/01 23:31:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcikwmknqjpvkg/13.mp3?version=11
+[2016/01/01 23:31:12][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcikwmknqjpvkg\13.mp3.
+[2016/01/01 23:31:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ikwmknqjpvkg.swf.
+[2016/01/01 23:31:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ikwmknqjpvkg.swf?VERSION=11
+[2016/01/01 23:31:15][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ikwmknqjpvkg.swf.
+[2016/01/01 23:31:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/9.mp3?version=3
+[2016/01/01 23:31:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\9.mp3.
+[2016/01/01 23:31:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/10.mp3?version=3
+[2016/01/01 23:31:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\10.mp3.
+[2016/01/01 23:31:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/26.mp3?version=3
+[2016/01/01 23:31:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\26.mp3.
+[2016/01/01 23:32:14][2] : #1「演習反潛」出击海域「1-5 鎮守府近海」。
+[2016/01/01 23:32:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/14.mp3?version=3
+[2016/01/01 23:32:17][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\14.mp3.
+[2016/01/01 23:32:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/15.mp3?version=3
+[2016/01/01 23:32:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\15.mp3.
+[2016/01/01 23:32:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjprpbvbeillv/16.mp3?version=18
+[2016/01/01 23:32:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjprpbvbeillv\16.mp3.
+[2016/01/01 23:32:55][2] : 駆逐艦「黒潮」已加入队伍。
+[2016/01/01 23:33:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjprpbvbeillv/23.mp3?version=18
+[2016/01/01 23:33:18][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjprpbvbeillv\23.mp3.
+[2016/01/01 23:33:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ihengpjwmfrt.swf?VERSION=9
+[2016/01/01 23:33:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ihengpjwmfrt.swf.
+[2016/01/01 23:33:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcihengpjwmfrt/1.mp3?version=9
+[2016/01/01 23:33:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcihengpjwmfrt\1.mp3.
+[2016/01/01 23:34:19][2] : 駆逐艦「村雨」已加入队伍。
+[2016/01/01 23:35:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjprpbvbeillv/15.mp3?version=18
+[2016/01/01 23:35:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjprpbvbeillv\15.mp3.
+[2016/01/01 23:35:25][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcikwmknqjpvkg/16.mp3?version=11
+[2016/01/01 23:35:26][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcikwmknqjpvkg\16.mp3.
+[2016/01/01 23:35:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/16.mp3?version=3
+[2016/01/01 23:35:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\16.mp3.
+[2016/01/01 23:35:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/18.mp3?version=3
+[2016/01/01 23:35:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\18.mp3.
+[2016/01/01 23:36:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjprpbvbeillv/19.mp3?version=18
+[2016/01/01 23:36:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjprpbvbeillv\19.mp3.
+[2016/01/01 23:37:18][2] : 軽巡洋艦「神通」已加入队伍。
+[2016/01/01 23:37:39][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:37:41][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/7.mp3?version=3
+[2016/01/01 23:37:41][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\7.mp3.
+[2016/01/01 23:37:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/27.mp3?version=3
+[2016/01/01 23:37:44][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\27.mp3.
+[2016/01/01 23:38:05][2] : #1「演習反潛」出击海域「1-5 鎮守府近海」。
+[2016/01/01 23:38:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjprpbvbeillv/21.mp3?version=18
+[2016/01/01 23:38:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjprpbvbeillv\21.mp3.
+[2016/01/01 23:38:50][2] : 駆逐艦「叢雲」已加入队伍。
+[2016/01/01 23:39:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/hpfcwdqxgyvl.swf?VERSION=15
+[2016/01/01 23:39:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\hpfcwdqxgyvl.swf.
+[2016/01/01 23:39:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchpfcwdqxgyvl/1.mp3?version=15
+[2016/01/01 23:39:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchpfcwdqxgyvl\1.mp3.
+[2016/01/01 23:40:02][2] : 駆逐艦「不知火」已加入队伍。
+[2016/01/01 23:41:30][2] : 駆逐艦「長月」已加入队伍。
+[2016/01/01 23:41:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/kksiqffpclxh.swf?VERSION=6
+[2016/01/01 23:41:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\kksiqffpclxh.swf.
+[2016/01/01 23:41:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckksiqffpclxh/1.mp3?version=6
+[2016/01/01 23:41:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckksiqffpclxh\1.mp3.
+[2016/01/01 23:43:09][2] : 駆逐艦「文月」已加入队伍。
+[2016/01/01 23:43:26][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/pjkwpxniwgge.swf?VERSION=9
+[2016/01/01 23:43:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\pjkwpxniwgge.swf.
+[2016/01/01 23:43:32][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcpjkwpxniwgge/1.mp3?version=9
+[2016/01/01 23:43:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcpjkwpxniwgge\1.mp3.
+[2016/01/01 23:43:34][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:44:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzmnkjkgamm.swf?VERSION=12
+[2016/01/01 23:44:14][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/13.mp3?version=12
+[2016/01/01 23:44:14][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzmnkjkgamm.swf.
+[2016/01/01 23:44:15][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\13.mp3.
+[2016/01/01 23:44:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/9.mp3?version=12
+[2016/01/01 23:44:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\9.mp3.
+[2016/01/01 23:44:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/10.mp3?version=12
+[2016/01/01 23:44:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\10.mp3.
+[2016/01/01 23:44:32][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/26.mp3?version=12
+[2016/01/01 23:44:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\26.mp3.
+[2016/01/01 23:44:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/3.mp3?version=3
+[2016/01/01 23:44:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\3.mp3.
+[2016/01/01 23:44:45][2] : #1「演習反潛」出击海域「1-5 鎮守府近海」。
+[2016/01/01 23:45:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcikwmknqjpvkg/21.mp3?version=11
+[2016/01/01 23:45:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcikwmknqjpvkg\21.mp3.
+[2016/01/01 23:45:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/15.mp3?version=12
+[2016/01/01 23:45:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\15.mp3.
+[2016/01/01 23:45:38][2] : 水上機母艦「千代田」已加入队伍。
+[2016/01/01 23:45:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/23.mp3?version=12
+[2016/01/01 23:45:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\23.mp3.
+[2016/01/01 23:46:08][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccayfwlehtvgj/1.mp3?version=5
+[2016/01/01 23:46:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccayfwlehtvgj\1.mp3.
+[2016/01/01 23:46:16][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:46:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/mbgjkzlvemui.swf?VERSION=9
+[2016/01/01 23:46:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\mbgjkzlvemui.swf.
+[2016/01/01 23:46:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmbgjkzlvemui/13.mp3?version=9
+[2016/01/01 23:46:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmbgjkzlvemui\13.mp3.
+[2016/01/01 23:46:45][2] : #1「演習反潛」出击海域「1-5 鎮守府近海」。
+[2016/01/01 23:47:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/16.mp3?version=12
+[2016/01/01 23:47:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\16.mp3.
+[2016/01/01 23:47:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmbgjkzlvemui/15.mp3?version=9
+[2016/01/01 23:47:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmbgjkzlvemui\15.mp3.
+[2016/01/01 23:47:29][2] : 水上機母艦「千代田」已加入队伍。
+[2016/01/01 23:47:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmbgjkzlvemui/23.mp3?version=9
+[2016/01/01 23:47:38][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmbgjkzlvemui\23.mp3.
+[2016/01/01 23:48:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmbgjkzlvemui/16.mp3?version=9
+[2016/01/01 23:48:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmbgjkzlvemui\16.mp3.
+[2016/01/01 23:50:08][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzrjtnzguul/23.mp3?version=3
+[2016/01/01 23:50:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzrjtnzguul\23.mp3.
+[2016/01/01 23:50:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzmnkjkgamm/19.mp3?version=12
+[2016/01/01 23:50:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzmnkjkgamm\19.mp3.
+[2016/01/01 23:51:25][2] : 軽巡洋艦「多摩」已加入队伍。
+[2016/01/01 23:51:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/jiftwdxqwtin.swf?VERSION=9
+[2016/01/01 23:51:56][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\jiftwdxqwtin.swf.
+[2016/01/01 23:52:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjiftwdxqwtin/1.mp3?version=9
+[2016/01/01 23:52:01][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjiftwdxqwtin\1.mp3.
+[2016/01/01 23:52:03][2] : #1「演習反潛」回到母港。
+[2016/01/01 23:52:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/hfhcjjdyqyzn.swf?VERSION=11
+[2016/01/01 23:52:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\hfhcjjdyqyzn.swf.
+[2016/01/01 23:52:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchfhcjjdyqyzn/13.mp3?version=11
+[2016/01/01 23:52:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchfhcjjdyqyzn\13.mp3.
+[2016/01/01 23:53:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/lvjcqqulbluo.swf?VERSION=10
+[2016/01/01 23:53:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kclvjcqqulbluo/13.mp3?version=10
+[2016/01/01 23:53:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\lvjcqqulbluo.swf.
+[2016/01/01 23:53:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kclvjcqqulbluo\13.mp3.
+[2016/01/01 23:53:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gbxvfsrqbyxg.swf?VERSION=13
+[2016/01/01 23:53:51][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gbxvfsrqbyxg.swf.
+[2016/01/01 23:53:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/13.mp3?version=8
+[2016/01/01 23:53:52][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\13.mp3.
+[2016/01/01 23:53:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/guwzhmxxnwol.swf?VERSION=11
+[2016/01/01 23:54:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\guwzhmxxnwol.swf.
+[2016/01/01 23:54:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/tiqezicxwpry.swf?VERSION=12
+[2016/01/01 23:54:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kctiqezicxwpry/13.mp3?version=12
+[2016/01/01 23:54:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kctiqezicxwpry\13.mp3.
+[2016/01/01 23:54:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\tiqezicxwpry.swf.
+[2016/01/01 23:55:29][2] : #1「演習反潛」出击海域「1-4 南西諸島防衛線」。
+[2016/01/01 23:55:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/26.mp3?version=8
+[2016/01/01 23:55:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\26.mp3.
+[2016/01/01 23:56:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kclvjcqqulbluo/15.mp3?version=10
+[2016/01/01 23:56:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kclvjcqqulbluo\15.mp3.
+[2016/01/01 23:56:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/16.mp3?version=8
+[2016/01/01 23:56:39][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\16.mp3.
+[2016/01/01 23:56:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kctiqezicxwpry/15.mp3?version=12
+[2016/01/01 23:56:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kctiqezicxwpry\15.mp3.
+[2016/01/01 23:56:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcavfbkpphumso/15.mp3?version=9
+[2016/01/01 23:56:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcavfbkpphumso\15.mp3.
+[2016/01/01 23:56:57][2] : 駆逐艦「村雨」已加入队伍。
+[2016/01/01 23:58:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcavfbkpphumso/16.mp3?version=9
+[2016/01/01 23:58:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcavfbkpphumso\16.mp3.
+[2016/01/01 23:58:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/15.mp3?version=8
+[2016/01/01 23:58:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\15.mp3.
+[2016/01/01 23:59:11][2] : 軽巡洋艦「神通」已加入队伍。
+[2016/01/01 23:59:35][2] : #1「演習反潛」回到母港。
+[2016/01/02 00:00:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/mwlzgwdjlpxx.swf?VERSION=13
+[2016/01/02 00:00:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmwlzgwdjlpxx/13.mp3?version=13
+[2016/01/02 00:00:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\mwlzgwdjlpxx.swf.
+[2016/01/02 00:00:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmwlzgwdjlpxx\13.mp3.
+[2016/01/02 00:00:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/13.mp3?version=4
+[2016/01/02 00:00:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\13.mp3.
+[2016/01/02 00:01:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcyiwwnppitqpf/13.mp3?version=8
+[2016/01/02 00:01:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcyiwwnppitqpf\13.mp3.
+[2016/01/02 00:01:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/mslkutojcolj.swf?VERSION=12
+[2016/01/02 00:01:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmslkutojcolj/13.mp3?version=12
+[2016/01/02 00:01:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\mslkutojcolj.swf.
+[2016/01/02 00:01:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmslkutojcolj\13.mp3.
+[2016/01/02 00:01:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzlngqiqvig.swf?VERSION=20
+[2016/01/02 00:01:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/13.mp3?version=20
+[2016/01/02 00:01:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\13.mp3.
+[2016/01/02 00:01:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzlngqiqvig.swf.
+[2016/01/02 00:02:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/9.mp3?version=4
+[2016/01/02 00:02:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\9.mp3.
+[2016/01/02 00:03:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/10.mp3?version=4
+[2016/01/02 00:03:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\10.mp3.
+[2016/01/02 00:03:08][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/26.mp3?version=4
+[2016/01/02 00:03:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\26.mp3.
+[2016/01/02 00:03:25][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmwlzgwdjlpxx/9.mp3?version=13
+[2016/01/02 00:03:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmwlzgwdjlpxx\9.mp3.
+[2016/01/02 00:03:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmwlzgwdjlpxx/10.mp3?version=13
+[2016/01/02 00:03:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmwlzgwdjlpxx\10.mp3.
+[2016/01/02 00:03:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmwlzgwdjlpxx/26.mp3?version=13
+[2016/01/02 00:03:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmwlzgwdjlpxx\26.mp3.
+[2016/01/02 00:03:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcyiwwnppitqpf/9.mp3?version=8
+[2016/01/02 00:03:56][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcyiwwnppitqpf\9.mp3.
+[2016/01/02 00:04:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcyiwwnppitqpf/10.mp3?version=8
+[2016/01/02 00:04:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcyiwwnppitqpf\10.mp3.
+[2016/01/02 00:04:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcyiwwnppitqpf/26.mp3?version=8
+[2016/01/02 00:04:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcyiwwnppitqpf\26.mp3.
+[2016/01/02 00:04:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmslkutojcolj/9.mp3?version=12
+[2016/01/02 00:04:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmslkutojcolj\9.mp3.
+[2016/01/02 00:04:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmslkutojcolj/10.mp3?version=12
+[2016/01/02 00:04:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmslkutojcolj\10.mp3.
+[2016/01/02 00:04:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmslkutojcolj/26.mp3?version=12
+[2016/01/02 00:04:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmslkutojcolj\26.mp3.
+[2016/01/02 00:05:00][2] : #1「演習反潛」出击海域「4-2 カレー洋制圧戦」。
+[2016/01/02 00:05:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/17.mp3?version=4
+[2016/01/02 00:05:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\17.mp3.
+[2016/01/02 00:05:48][2] : 軽巡洋艦「多摩」已加入队伍。
+[2016/01/02 00:06:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmslkutojcolj/23.mp3?version=12
+[2016/01/02 00:06:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmslkutojcolj\23.mp3.
+[2016/01/02 00:07:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmwlzgwdjlpxx/23.mp3?version=13
+[2016/01/02 00:07:21][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmwlzgwdjlpxx\23.mp3.
+[2016/01/02 00:08:14][2] : 戦艦「伊勢」已加入队伍。
+[2016/01/02 00:08:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/23.mp3?version=4
+[2016/01/02 00:08:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\23.mp3.
+[2016/01/02 00:08:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/skgpomqtcedb.swf?VERSION=10
+[2016/01/02 00:08:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\skgpomqtcedb.swf.
+[2016/01/02 00:08:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcskgpomqtcedb/1.mp3?version=10
+[2016/01/02 00:08:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcskgpomqtcedb\1.mp3.
+[2016/01/02 00:08:37][2] : #1「演習反潛」回到母港。
+[2016/01/02 00:08:50][2] : #1「演習反潛」出击海域「4-2 カレー洋制圧戦」。
+[2016/01/02 00:09:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmslkutojcolj/18.mp3?version=12
+[2016/01/02 00:09:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmslkutojcolj\18.mp3.
+[2016/01/02 00:09:44][2] : 軽巡洋艦「天龍」已加入队伍。
+[2016/01/02 00:10:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcvswgjojfoqdc/1.mp3?version=8
+[2016/01/02 00:10:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcvswgjojfoqdc\1.mp3.
+[2016/01/02 00:11:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmwlzgwdjlpxx/18.mp3?version=13
+[2016/01/02 00:11:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmwlzgwdjlpxx\18.mp3.
+[2016/01/02 00:11:08][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/16.mp3?version=20
+[2016/01/02 00:11:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\16.mp3.
+[2016/01/02 00:12:21][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmwlzgwdjlpxx/16.mp3?version=13
+[2016/01/02 00:12:21][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmwlzgwdjlpxx\16.mp3.
+[2016/01/02 00:12:42][2] : #1「演習反潛」回到母港。
+[2016/01/02 00:14:26][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/13.mp3?version=11
+[2016/01/02 00:14:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\13.mp3.
+[2016/01/02 00:14:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzgixbrtnua.swf?VERSION=13
+[2016/01/02 00:14:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzgixbrtnua.swf.
+[2016/01/02 00:14:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/13.mp3?version=13
+[2016/01/02 00:14:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\13.mp3.
+[2016/01/02 00:15:08][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/cjhtlviffiwb.swf?VERSION=8
+[2016/01/02 00:15:09][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\cjhtlviffiwb.swf.
+[2016/01/02 00:15:09][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccjhtlviffiwb/13.mp3?version=8
+[2016/01/02 00:15:09][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccjhtlviffiwb\13.mp3.
+[2016/01/02 00:15:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/9.mp3?version=8
+[2016/01/02 00:15:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\9.mp3.
+[2016/01/02 00:15:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/9.mp3?version=11
+[2016/01/02 00:15:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\9.mp3.
+[2016/01/02 00:15:49][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/10.mp3?version=11
+[2016/01/02 00:15:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\10.mp3.
+[2016/01/02 00:15:59][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/9.mp3?version=13
+[2016/01/02 00:15:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\9.mp3.
+[2016/01/02 00:16:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/10.mp3?version=13
+[2016/01/02 00:16:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\10.mp3.
+[2016/01/02 00:16:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/26.mp3?version=13
+[2016/01/02 00:16:12][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\26.mp3.
+[2016/01/02 00:19:32][2] : 天龍 Lv. 1 已解体。
+[2016/01/02 00:19:40][2] : 多摩 Lv. 1 已解体。
+[2016/01/02 00:19:46][2] : 多摩 Lv. 1 已解体。
+[2016/01/02 00:19:51][2] : 神通 Lv. 1 已解体。
+[2016/01/02 00:19:55][2] : 村雨 Lv. 1 已解体。
+[2016/01/02 00:20:01][2] : 叢雲 Lv. 1 已解体。
+[2016/01/02 00:20:06][2] : 不知火 Lv. 1 已解体。
+[2016/01/02 00:20:12][2] : 神通 Lv. 1 已解体。
+[2016/01/02 00:20:16][2] : 文月 Lv. 1 已解体。
+[2016/01/02 00:20:21][2] : 初霜 Lv. 1 已解体。
+[2016/01/02 00:20:26][2] : 由良 Lv. 1 已解体。
+[2016/01/02 00:20:30][2] : 村雨 Lv. 1 已解体。
+[2016/01/02 00:20:35][2] : 愛宕 Lv. 1 已解体。
+[2016/01/02 00:20:39][2] : 羽黒 Lv. 1 已解体。
+[2016/01/02 00:20:45][2] : 黒潮 Lv. 1 已解体。
+[2016/01/02 00:20:50][2] : 長月 Lv. 1 已解体。
+[2016/01/02 00:20:55][2] : 筑摩 Lv. 1 已解体。
+[2016/01/02 00:21:00][2] : 不知火 Lv. 1 已解体。
+[2016/01/02 00:21:04][2] : 敷波 Lv. 1 已解体。
+[2016/01/02 00:21:07][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/tyjrubumfpxy.swf?VERSION=10
+[2016/01/02 00:21:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\tyjrubumfpxy.swf.
+[2016/01/02 00:21:09][2] : 五月雨 Lv. 1 已解体。
+[2016/01/02 00:21:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/grppcbegkphv.swf?VERSION=11
+[2016/01/02 00:21:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\grppcbegkphv.swf.
+[2016/01/02 00:21:18][2] : 妙高 Lv. 1 已解体。
+[2016/01/02 00:21:23][2] : 村雨 Lv. 1 已解体。
+[2016/01/02 00:21:28][2] : 霰 Lv. 1 已解体。
+[2016/01/02 00:21:33][2] : 最上 Lv. 1 已解体。
+[2016/01/02 00:21:37][2] : 加古 Lv. 1 已解体。
+[2016/01/02 00:21:43][2] : 五月雨 Lv. 1 已解体。
+[2016/01/02 00:21:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qmmdyeprdqsu.swf?VERSION=14
+[2016/01/02 00:21:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qmmdyeprdqsu.swf.
+[2016/01/02 00:21:48][2] : 鳥海 Lv. 1 已解体。
+[2016/01/02 00:22:07][2] : #1「演習反潛」出击海域「2-5 沖ノ島沖」。
+[2016/01/02 00:22:08][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/14.mp3?version=8
+[2016/01/02 00:22:10][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\14.mp3.
+[2016/01/02 00:22:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/15.mp3?version=11
+[2016/01/02 00:22:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\15.mp3.
+[2016/01/02 00:22:44][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/16.mp3?version=13
+[2016/01/02 00:22:44][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\16.mp3.
+[2016/01/02 00:22:47][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccjhtlviffiwb/16.mp3?version=8
+[2016/01/02 00:22:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccjhtlviffiwb\16.mp3.
+[2016/01/02 00:22:51][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/15.mp3?version=20
+[2016/01/02 00:22:51][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\15.mp3.
+[2016/01/02 00:23:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/21.mp3?version=20
+[2016/01/02 00:23:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\21.mp3.
+[2016/01/02 00:23:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/23.mp3?version=20
+[2016/01/02 00:23:50][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\23.mp3.
+[2016/01/02 00:24:26][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/18.mp3?version=8
+[2016/01/02 00:24:26][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\18.mp3.
+[2016/01/02 00:24:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/17.mp3?version=8
+[2016/01/02 00:24:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\17.mp3.
+[2016/01/02 00:24:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/17.mp3?version=11
+[2016/01/02 00:24:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\17.mp3.
+[2016/01/02 00:24:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/17.mp3?version=13
+[2016/01/02 00:24:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\17.mp3.
+[2016/01/02 00:24:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/17.mp3?version=20
+[2016/01/02 00:24:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\17.mp3.
+[2016/01/02 00:24:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccjhtlviffiwb/17.mp3?version=8
+[2016/01/02 00:24:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccjhtlviffiwb\17.mp3.
+[2016/01/02 00:25:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/23.mp3?version=11
+[2016/01/02 00:25:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\23.mp3.
+[2016/01/02 00:25:16][2] : #1「演習反潛」回到母港。
+[2016/01/02 00:25:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/7.mp3?version=8
+[2016/01/02 00:25:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\7.mp3.
+[2016/01/02 00:25:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/27.mp3?version=8
+[2016/01/02 00:25:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\27.mp3.
+[2016/01/02 00:26:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/urpnkwaneqfb.swf?VERSION=5
+[2016/01/02 00:26:38][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\urpnkwaneqfb.swf.
+[2016/01/02 00:26:38][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcurpnkwaneqfb/13.mp3?version=5
+[2016/01/02 00:26:38][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcurpnkwaneqfb\13.mp3.
+[2016/01/02 00:26:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ufgydlyjdaxb.swf?VERSION=6
+[2016/01/02 00:26:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ufgydlyjdaxb.swf.
+[2016/01/02 00:26:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcufgydlyjdaxb/13.mp3?version=6
+[2016/01/02 00:26:44][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcufgydlyjdaxb\13.mp3.
+[2016/01/02 00:27:16][2] : #1「演習反潛」出击海域「2-5 沖ノ島沖」。
+[2016/01/02 00:28:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcufgydlyjdaxb/16.mp3?version=6
+[2016/01/02 00:28:01][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcufgydlyjdaxb\16.mp3.
+[2016/01/02 00:28:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcurpnkwaneqfb/15.mp3?version=5
+[2016/01/02 00:28:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcurpnkwaneqfb\15.mp3.
+[2016/01/02 00:28:29][2] : 駆逐艦「潮」已加入队伍。
+[2016/01/02 00:28:44][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzxqjemfzdb.swf?VERSION=13
+[2016/01/02 00:28:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzxqjemfzdb.swf.
+[2016/01/02 00:28:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzxqjemfzdb/1.mp3?version=13
+[2016/01/02 00:28:50][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzxqjemfzdb\1.mp3.
+[2016/01/02 00:29:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcurpnkwaneqfb/17.mp3?version=5
+[2016/01/02 00:29:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcurpnkwaneqfb\17.mp3.
+[2016/01/02 00:29:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcufgydlyjdaxb/17.mp3?version=6
+[2016/01/02 00:29:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcufgydlyjdaxb\17.mp3.
+[2016/01/02 00:30:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcufgydlyjdaxb/21.mp3?version=6
+[2016/01/02 00:30:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcufgydlyjdaxb\21.mp3.
+[2016/01/02 00:31:25][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcufgydlyjdaxb/15.mp3?version=6
+[2016/01/02 00:31:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcufgydlyjdaxb\15.mp3.
+[2016/01/02 00:31:35][2] : 重巡洋艦「筑摩」已加入队伍。
+[2016/01/02 00:32:02][2] : #1「演習反潛」回到母港。
+[2016/01/02 00:33:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gtmwrbaniaud.swf?VERSION=10
+[2016/01/02 00:33:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/13.mp3?version=10
+[2016/01/02 00:33:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gtmwrbaniaud.swf.
+[2016/01/02 00:33:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\13.mp3.
+[2016/01/02 00:33:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/uuqdlbtrkmvk.swf?VERSION=8
+[2016/01/02 00:33:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\uuqdlbtrkmvk.swf.
+[2016/01/02 00:33:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcuuqdlbtrkmvk/13.mp3?version=8
+[2016/01/02 00:33:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcuuqdlbtrkmvk\13.mp3.
+[2016/01/02 00:33:17][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/cqtlanpwihpj.swf?VERSION=11
+[2016/01/02 00:33:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/13.mp3?version=11
+[2016/01/02 00:33:18][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\cqtlanpwihpj.swf.
+[2016/01/02 00:33:18][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\13.mp3.
+[2016/01/02 00:33:32][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/13.mp3?version=10
+[2016/01/02 00:33:32][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\13.mp3.
+[2016/01/02 00:34:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/9.mp3?version=10
+[2016/01/02 00:34:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\9.mp3.
+[2016/01/02 00:34:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcuuqdlbtrkmvk/9.mp3?version=8
+[2016/01/02 00:34:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcuuqdlbtrkmvk\9.mp3.
+[2016/01/02 00:34:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcuuqdlbtrkmvk/10.mp3?version=8
+[2016/01/02 00:34:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcuuqdlbtrkmvk\10.mp3.
+[2016/01/02 00:34:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcuuqdlbtrkmvk/26.mp3?version=8
+[2016/01/02 00:34:56][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcuuqdlbtrkmvk\26.mp3.
+[2016/01/02 00:35:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/9.mp3?version=10
+[2016/01/02 00:35:17][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\9.mp3.
+[2016/01/02 00:35:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/10.mp3?version=10
+[2016/01/02 00:35:20][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\10.mp3.
+[2016/01/02 00:35:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/26.mp3?version=10
+[2016/01/02 00:35:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\26.mp3.
+[2016/01/02 00:36:00][2] : #1「演習反潛」出击海域「6-2 MS諸島沖」。
+[2016/01/02 00:36:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/16.mp3?version=11
+[2016/01/02 00:36:39][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\16.mp3.
+[2016/01/02 00:36:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/17.mp3?version=10
+[2016/01/02 00:36:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\17.mp3.
+[2016/01/02 00:37:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/16.mp3?version=10
+[2016/01/02 00:37:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\16.mp3.
+[2016/01/02 00:37:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcuuqdlbtrkmvk/18.mp3?version=8
+[2016/01/02 00:37:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcuuqdlbtrkmvk\18.mp3.
+[2016/01/02 00:37:17][2] : 重巡洋艦「鳥海」已加入队伍。
+[2016/01/02 00:37:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcuuqdlbtrkmvk/23.mp3?version=8
+[2016/01/02 00:37:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcuuqdlbtrkmvk\23.mp3.
+[2016/01/02 00:37:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqmmdyeprdqsu/1.mp3?version=14
+[2016/01/02 00:37:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqmmdyeprdqsu\1.mp3.
+[2016/01/02 00:38:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/15.mp3?version=11
+[2016/01/02 00:38:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\15.mp3.
+[2016/01/02 00:39:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcuuqdlbtrkmvk/16.mp3?version=8
+[2016/01/02 00:39:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcuuqdlbtrkmvk\16.mp3.
+[2016/01/02 00:39:08][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/18.mp3?version=10
+[2016/01/02 00:39:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\18.mp3.
+[2016/01/02 00:40:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/19.mp3?version=11
+[2016/01/02 00:40:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\19.mp3.
+[2016/01/02 00:41:12][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/26.mp3?version=13
+[2016/01/02 00:41:12][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\26.mp3.
+[2016/01/02 00:42:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/16.mp3?version=10
+[2016/01/02 00:42:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\16.mp3.
+[2016/01/02 00:42:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/21.mp3?version=11
+[2016/01/02 00:42:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\21.mp3.
+[2016/01/02 00:43:08][2] : 巡洋戦艦「榛名」已加入队伍。
+[2016/01/02 00:43:17][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/23.mp3?version=13
+[2016/01/02 00:43:17][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\23.mp3.
+[2016/01/02 00:43:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/vzgrqylbwegp.swf?VERSION=10
+[2016/01/02 00:43:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\vzgrqylbwegp.swf.
+[2016/01/02 00:43:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcvzgrqylbwegp/1.mp3?version=10
+[2016/01/02 00:43:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcvzgrqylbwegp\1.mp3.
+[2016/01/02 00:43:32][2] : #1「演習反潛」回到母港。
+[2016/01/02 00:43:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/12.mp3?version=11
+[2016/01/02 00:43:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\12.mp3.
+[2016/01/02 00:43:55][2] : #1「演習反潛」出击海域「6-2 MS諸島沖」。
+[2016/01/02 00:43:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/14.mp3?version=13
+[2016/01/02 00:43:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\14.mp3.
+[2016/01/02 00:44:57][2] : 重巡洋艦「羽黒」已加入队伍。
+[2016/01/02 00:45:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/23.mp3?version=11
+[2016/01/02 00:45:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\23.mp3.
+[2016/01/02 00:47:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/23.mp3?version=10
+[2016/01/02 00:47:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\23.mp3.
+[2016/01/02 00:48:06][2] : 重巡洋艦「羽黒」已加入队伍。
+[2016/01/02 00:49:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/21.mp3?version=13
+[2016/01/02 00:49:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\21.mp3.
+[2016/01/02 00:50:40][2] : 潜水艦「伊19」已加入队伍。
+[2016/01/02 00:51:03][2] : #1「演習反潛」回到母港。
+[2016/01/02 00:51:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/3.mp3?version=13
+[2016/01/02 00:51:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\3.mp3.
+[2016/01/02 00:52:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/12.mp3?version=13
+[2016/01/02 00:52:01][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\12.mp3.
+[2016/01/02 00:53:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcguwzhmxxnwol/13.mp3?version=11
+[2016/01/02 00:53:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcguwzhmxxnwol\13.mp3.
+[2016/01/02 00:53:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjprpbvbeillv/12.mp3?version=18
+[2016/01/02 00:53:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjprpbvbeillv\12.mp3.
+[2016/01/02 00:54:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ilxltdgucgbg.swf?VERSION=10
+[2016/01/02 00:54:01][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ilxltdgucgbg.swf.
+[2016/01/02 00:54:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilxltdgucgbg/12.mp3?version=10
+[2016/01/02 00:54:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilxltdgucgbg\12.mp3.
+[2016/01/02 00:55:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/31.mp3?version=15
+[2016/01/02 00:55:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\31.mp3.
+[2016/01/02 01:51:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/32.mp3?version=15
+[2016/01/02 01:51:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\32.mp3.
+[2016/01/02 02:31:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/33.mp3?version=15
+[2016/01/02 02:31:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\33.mp3.
+[2016/01/02 03:31:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/34.mp3?version=15
+[2016/01/02 03:31:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\34.mp3.
+[2016/01/02 04:45:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/35.mp3?version=15
+[2016/01/02 04:45:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\35.mp3.
+[2016/01/02 05:43:59][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/36.mp3?version=15
+[2016/01/02 05:43:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\36.mp3.
+[2016/01/02 06:39:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/37.mp3?version=15
+[2016/01/02 06:39:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\37.mp3.
+[2016/01/02 07:31:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/38.mp3?version=15
+[2016/01/02 07:31:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\38.mp3.
+[2016/01/02 08:50:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/39.mp3?version=15
+[2016/01/02 08:50:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\39.mp3.
+[2016/01/02 09:23:49][2] : #2「第2艦隊」的远征「35: MO作戦」已归来。
+[2016/01/02 09:23:49][2] : 遠征結果 - 成功: 鋼材x240, ボーキサイトx280, 家具箱（小）x1, 提督Exp+100, 艦娘Exp+100
+[2016/01/02 09:23:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsxrrihbkdkjl/7.mp3?version=7
+[2016/01/02 09:23:51][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsxrrihbkdkjl\7.mp3.
+[2016/01/02 09:23:58][2] : #3「第3艦隊」的远征「40: 水上機前線輸送」已归来。
+[2016/01/02 09:23:58][2] : 遠征結果 - 成功: 燃料x300, 弾薬x300, ボーキサイトx100, 提督Exp+60, 艦娘Exp+140
+[2016/01/02 09:24:09][2] : #4「第4艦隊」的远征「36: 水上機基地建設」已归来。
+[2016/01/02 09:24:09][2] : 遠征結果 - 成功: 燃料x480, 鋼材x200, ボーキサイトx200, 家具箱（中）x1, 提督Exp+100, 艦娘Exp+200
+[2016/01/02 09:24:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsxrrihbkdkjl/27.mp3?version=7
+[2016/01/02 09:24:23][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsxrrihbkdkjl\27.mp3.
+[2016/01/02 09:28:21][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/02 09:28:31][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/02 09:28:39][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/02 09:29:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/szgthkexanxl.swf?VERSION=12
+[2016/01/02 09:29:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcszgthkexanxl/13.mp3?version=12
+[2016/01/02 09:29:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\szgthkexanxl.swf.
+[2016/01/02 09:29:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcszgthkexanxl\13.mp3.
+[2016/01/02 09:29:07][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcszgthkexanxl/5.mp3?version=12
+[2016/01/02 09:29:07][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcszgthkexanxl\5.mp3.
+[2016/01/02 09:29:18][2] : 开发失败。(10/11/251/250 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:29:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcszgthkexanxl/2.mp3?version=12
+[2016/01/02 09:29:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcszgthkexanxl\2.mp3.
+[2016/01/02 09:29:49][2] : 駆逐艦「白雪」建造完毕。
+[2016/01/02 09:29:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/xqnkdultpvaf.swf?VERSION=12
+[2016/01/02 09:29:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\xqnkdultpvaf.swf.
+[2016/01/02 09:29:58][2] : 駆逐艦「曙」建造完毕。
+[2016/01/02 09:30:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/fwptxiocqkyd.swf?VERSION=14
+[2016/01/02 09:30:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\fwptxiocqkyd.swf.
+[2016/01/02 09:30:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfwptxiocqkyd/1.mp3?version=14
+[2016/01/02 09:30:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfwptxiocqkyd\1.mp3.
+[2016/01/02 09:30:09][2] : 駆逐艦「響」建造完毕。
+[2016/01/02 09:30:20][2] : 軽巡洋艦「天龍」建造完毕。
+[2016/01/02 09:30:30][2] : 工厂船坞 #1 开始建造 軽巡洋艦「五十鈴」。(30/30/30/30-1 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:30:56][2] : 追加装甲(中型)「増設バルジ(中型艦)」开发成功。(10/11/251/250 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:31:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcszgthkexanxl/26.mp3?version=12
+[2016/01/02 09:31:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcszgthkexanxl\26.mp3.
+[2016/01/02 09:31:06][2] : 开发失败。(10/11/251/250 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:31:16][2] : 开发失败。(10/11/251/250 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:31:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcszgthkexanxl/3.mp3?version=12
+[2016/01/02 09:31:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcszgthkexanxl\3.mp3.
+[2016/01/02 09:31:42][2] : 工厂船坞 #2 开始建造 軽巡洋艦「神通」。(30/30/30/30-1 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:31:45][2] : 工厂船坞 #3 开始建造 駆逐艦「皐月」。(30/30/30/30-1 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:31:47][2] : 工厂船坞 #4 开始建造 駆逐艦「白雪」。(30/30/30/30-1 秘书舰: 長門改 Lv. 120)
+[2016/01/02 09:32:17][2] : 天龍 Lv. 1 已解体。
+[2016/01/02 09:32:22][2] : 響 Lv. 1 已解体。
+[2016/01/02 09:32:36][2] : 曙 Lv. 1 已解体。
+[2016/01/02 09:32:40][2] : 白雪 Lv. 1 已解体。
+[2016/01/02 09:32:45][2] : 伊19 Lv. 1 已解体。
+[2016/01/02 09:32:50][2] : 羽黒 Lv. 1 已解体。
+[2016/01/02 09:32:55][2] : 羽黒 Lv. 1 已解体。
+[2016/01/02 09:33:00][2] : 鳥海 Lv. 1 已解体。
+[2016/01/02 09:33:05][2] : 潮 Lv. 1 已解体。
+[2016/01/02 09:33:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckspwuqsyhipy/13.mp3?version=10
+[2016/01/02 09:33:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckspwuqsyhipy\13.mp3.
+[2016/01/02 09:33:54][2] : 九一式徹甲弾+5 の改修に成功しました。
+[2016/01/02 09:33:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckspwuqsyhipy/11.mp3?version=10
+[2016/01/02 09:33:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckspwuqsyhipy\11.mp3.
+[2016/01/02 09:36:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/scenes/ItemlistMain.swf?version=2.6.11
+[2016/01/02 09:36:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\scenes\ItemlistMain.swf.
+[2016/01/02 09:38:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qjkjyqhsvcpx.swf?VERSION=11
+[2016/01/02 09:38:01][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qjkjyqhsvcpx.swf.
+[2016/01/02 09:38:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqjkjyqhsvcpx/13.mp3?version=11
+[2016/01/02 09:38:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqjkjyqhsvcpx\13.mp3.
+[2016/01/02 09:38:25][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/13.mp3?version=4
+[2016/01/02 09:38:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\13.mp3.
+[2016/01/02 09:38:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ekuxnovhattm.swf?VERSION=4
+[2016/01/02 09:38:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ekuxnovhattm.swf.
+[2016/01/02 09:38:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/13.mp3?version=4
+[2016/01/02 09:38:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\13.mp3.
+[2016/01/02 09:39:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqjkjyqhsvcpx/9.mp3?version=11
+[2016/01/02 09:39:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqjkjyqhsvcpx\9.mp3.
+[2016/01/02 09:39:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqjkjyqhsvcpx/10.mp3?version=11
+[2016/01/02 09:39:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqjkjyqhsvcpx\10.mp3.
+[2016/01/02 09:39:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqjkjyqhsvcpx/26.mp3?version=11
+[2016/01/02 09:39:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqjkjyqhsvcpx\26.mp3.
+[2016/01/02 09:39:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/9.mp3?version=4
+[2016/01/02 09:39:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\9.mp3.
+[2016/01/02 09:40:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/10.mp3?version=4
+[2016/01/02 09:40:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\10.mp3.
+[2016/01/02 09:40:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/26.mp3?version=4
+[2016/01/02 09:40:10][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\26.mp3.
+[2016/01/02 09:42:49][2] : #1「演習反潛」出击海域「6-1 中部海域哨戒線」。
+[2016/01/02 09:43:12][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqjkjyqhsvcpx/15.mp3?version=11
+[2016/01/02 09:43:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqjkjyqhsvcpx\15.mp3.
+[2016/01/02 09:43:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/17.mp3?version=4
+[2016/01/02 09:43:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\17.mp3.
+[2016/01/02 09:43:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqjkjyqhsvcpx/16.mp3?version=11
+[2016/01/02 09:43:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqjkjyqhsvcpx\16.mp3.
+[2016/01/02 09:43:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/15.mp3?version=4
+[2016/01/02 09:43:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\15.mp3.
+[2016/01/02 09:44:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/16.mp3?version=4
+[2016/01/02 09:44:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\16.mp3.
+[2016/01/02 09:44:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/23.mp3?version=4
+[2016/01/02 09:44:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\23.mp3.
+[2016/01/02 09:44:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/15.mp3?version=4
+[2016/01/02 09:44:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\15.mp3.
+[2016/01/02 09:45:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqjkjyqhsvcpx/23.mp3?version=11
+[2016/01/02 09:45:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqjkjyqhsvcpx\23.mp3.
+[2016/01/02 09:47:08][2] : 駆逐艦「望月」已加入队伍。
+[2016/01/02 09:47:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/isiuepygxdzq.swf?VERSION=11
+[2016/01/02 09:47:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\isiuepygxdzq.swf.
+[2016/01/02 09:47:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcisiuepygxdzq/1.mp3?version=11
+[2016/01/02 09:47:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcisiuepygxdzq\1.mp3.
+[2016/01/02 09:47:31][2] : #1「演習反潛」回到母港。
+[2016/01/02 09:47:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/khtgrpfyurcm.swf?VERSION=13
+[2016/01/02 09:47:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\khtgrpfyurcm.swf.
+[2016/01/02 09:47:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckhtgrpfyurcm/13.mp3?version=13
+[2016/01/02 09:47:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckhtgrpfyurcm\13.mp3.
+[2016/01/02 09:48:43][2] : #1「演習反潛」出击海域「6-1 中部海域哨戒線」。
+[2016/01/02 09:49:32][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckhtgrpfyurcm/16.mp3?version=13
+[2016/01/02 09:49:32][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckhtgrpfyurcm\16.mp3.
+[2016/01/02 09:49:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckhtgrpfyurcm/21.mp3?version=13
+[2016/01/02 09:49:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckhtgrpfyurcm\21.mp3.
+[2016/01/02 09:49:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckhtgrpfyurcm/15.mp3?version=13
+[2016/01/02 09:49:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckhtgrpfyurcm\15.mp3.
+[2016/01/02 09:50:02][2] : 駆逐艦「三日月」已加入队伍。
+[2016/01/02 09:50:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ujhxqqlcorxv.swf?VERSION=7
+[2016/01/02 09:50:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ujhxqqlcorxv.swf.
+[2016/01/02 09:50:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcujhxqqlcorxv/1.mp3?version=7
+[2016/01/02 09:50:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcujhxqqlcorxv\1.mp3.
+[2016/01/02 09:53:33][2] : 重巡洋艦「羽黒」已加入队伍。
+[2016/01/02 09:53:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckhtgrpfyurcm/23.mp3?version=13
+[2016/01/02 09:53:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckhtgrpfyurcm\23.mp3.
+[2016/01/02 09:55:35][2] : 戦艦「伊勢」已加入队伍。
+[2016/01/02 09:56:00][2] : #1「演習反潛」回到母港。
+[2016/01/02 09:57:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gpfqngdreebe.swf?VERSION=11
+[2016/01/02 09:57:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgpfqngdreebe/13.mp3?version=11
+[2016/01/02 09:57:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gpfqngdreebe.swf.
+[2016/01/02 09:57:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgpfqngdreebe\13.mp3.
+[2016/01/02 09:57:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gpfqngdreebe.swf?VERSION=11
+[2016/01/02 09:57:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gpfqngdreebe.swf.
+[2016/01/02 09:58:56][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:01:04][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:02:00][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:03:00][2] : 軽巡洋艦「木曾」已加入队伍。
+[2016/01/02 10:03:25][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:03:42][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:05:27][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:07:12][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:07:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjdsszkolhitg/15.mp3?version=4
+[2016/01/02 10:07:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjdsszkolhitg\15.mp3.
+[2016/01/02 10:09:39][2] : 軽空母「祥鳳」已加入队伍。
+[2016/01/02 10:09:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qihrkkfwekpo.swf?VERSION=12
+[2016/01/02 10:09:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qihrkkfwekpo.swf.
+[2016/01/02 10:09:59][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqihrkkfwekpo/1.mp3?version=12
+[2016/01/02 10:10:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqihrkkfwekpo\1.mp3.
+[2016/01/02 10:10:01][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:11:34][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:12:55][2] : 戦艦「扶桑」已加入队伍。
+[2016/01/02 10:13:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzubntuiyur.swf?VERSION=12
+[2016/01/02 10:13:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzubntuiyur.swf.
+[2016/01/02 10:13:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzubntuiyur/1.mp3?version=12
+[2016/01/02 10:13:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzubntuiyur\1.mp3.
+[2016/01/02 10:13:23][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:13:50][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:14:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczoaptkoerfpv/15.mp3?version=4
+[2016/01/02 10:14:10][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczoaptkoerfpv\15.mp3.
+[2016/01/02 10:15:45][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:16:19][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:18:07][2] : 駆逐艦「白雪」已加入队伍。
+[2016/01/02 10:18:26][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxqnkdultpvaf/1.mp3?version=12
+[2016/01/02 10:18:26][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxqnkdultpvaf\1.mp3.
+[2016/01/02 10:19:01][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:19:26][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/02 10:21:29][2] : 駆逐艦「暁」已加入队伍。
+[2016/01/02 10:21:57][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:22:46][2] : #1「演習反潛」出击海域「6-1 中部海域哨戒線」。
+[2016/01/02 10:23:41][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgpfqngdreebe/15.mp3?version=11
+[2016/01/02 10:23:42][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgpfqngdreebe\15.mp3.
+[2016/01/02 10:23:49][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgpfqngdreebe/21.mp3?version=11
+[2016/01/02 10:23:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgpfqngdreebe\21.mp3.
+[2016/01/02 10:23:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgpfqngdreebe/16.mp3?version=11
+[2016/01/02 10:23:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgpfqngdreebe\16.mp3.
+[2016/01/02 10:24:07][2] : 駆逐艦「菊月」已加入队伍。
+[2016/01/02 10:24:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/jatvhskutlck.swf?VERSION=6
+[2016/01/02 10:24:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\jatvhskutlck.swf.
+[2016/01/02 10:24:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjatvhskutlck/1.mp3?version=6
+[2016/01/02 10:24:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjatvhskutlck\1.mp3.
+[2016/01/02 10:25:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfggcskrfkpnr/21.mp3?version=4
+[2016/01/02 10:25:18][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfggcskrfkpnr\21.mp3.
+[2016/01/02 10:25:35][2] : 駆逐艦「涼風」已加入队伍。
+[2016/01/02 10:25:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qaryaychpubb.swf?VERSION=9
+[2016/01/02 10:25:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qaryaychpubb.swf.
+[2016/01/02 10:26:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqaryaychpubb/1.mp3?version=9
+[2016/01/02 10:26:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqaryaychpubb\1.mp3.
+[2016/01/02 10:27:14][2] : 重巡洋艦「高雄」已加入队伍。
+[2016/01/02 10:27:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/eqpvjbnbjlhy.swf?VERSION=5
+[2016/01/02 10:27:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\eqpvjbnbjlhy.swf.
+[2016/01/02 10:27:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kceqpvjbnbjlhy/1.mp3?version=5
+[2016/01/02 10:27:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kceqpvjbnbjlhy\1.mp3.
+[2016/01/02 10:29:13][2] : 重巡洋艦「熊野」已加入队伍。
+[2016/01/02 10:29:38][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:29:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgpfqngdreebe/12.mp3?version=11
+[2016/01/02 10:29:56][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgpfqngdreebe\12.mp3.
+[2016/01/02 10:31:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/fgyvwqymkekn.swf?VERSION=5
+[2016/01/02 10:31:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\fgyvwqymkekn.swf.
+[2016/01/02 10:31:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfgyvwqymkekn/13.mp3?version=5
+[2016/01/02 10:31:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfgyvwqymkekn\13.mp3.
+[2016/01/02 10:31:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfgyvwqymkekn/9.mp3?version=5
+[2016/01/02 10:31:20][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfgyvwqymkekn\9.mp3.
+[2016/01/02 10:31:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfgyvwqymkekn/10.mp3?version=5
+[2016/01/02 10:31:23][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfgyvwqymkekn\10.mp3.
+[2016/01/02 10:31:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfgyvwqymkekn/26.mp3?version=5
+[2016/01/02 10:31:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfgyvwqymkekn\26.mp3.
+[2016/01/02 10:32:05][2] : #1「演習反潛」出击海域「6-1 中部海域哨戒線」。
+[2016/01/02 10:35:16][2] : #1「演習反潛」回到母港。
+[2016/01/02 10:36:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzkexcbmpnm.swf?VERSION=10
+[2016/01/02 10:36:14][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzkexcbmpnm.swf.
+[2016/01/02 10:36:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzbnbdxfioq/13.mp3?version=12
+[2016/01/02 10:36:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzbnbdxfioq\13.mp3.
+[2016/01/02 11:31:24][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/02 11:31:24][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/02 11:31:44][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/02 12:12:46][2] : #3「第3艦隊」的远征「37: 東京急行」已归来。
+[2016/01/02 12:12:46][2] : 遠征結果 - 大成功: 弾薬x570, 鋼材x405, 提督Exp+100, 艦娘Exp+130
+[2016/01/02 12:13:17][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/02 12:22:52][2] : #4「第4艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/02 12:22:52][2] : 遠征結果 - 成功: 燃料x420, 鋼材x200, 家具箱（小）x1, 提督Exp+50, 艦娘Exp+70
+[2016/01/02 12:23:18][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/02 13:01:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/4.mp3?version=15
+[2016/01/02 13:01:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\4.mp3.
+[2016/01/02 13:01:02][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/02 13:01:02][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/02 13:01:25][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/02 13:06:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/dufziinsornt.swf?VERSION=16
+[2016/01/02 13:06:07][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\dufziinsornt.swf.
+[2016/01/02 13:06:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzfsgwccpes.swf?VERSION=13
+[2016/01/02 13:06:12][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzfsgwccpes.swf.
+[2016/01/02 13:06:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxljtrrmemnon/16.mp3?version=10
+[2016/01/02 13:06:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxljtrrmemnon\16.mp3.
+[2016/01/02 13:07:19][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcmhpalcnpxmgz/23.mp3?version=10
+[2016/01/02 13:07:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcmhpalcnpxmgz\23.mp3.
+[2016/01/02 13:07:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzxumujwygr.swf?VERSION=2
+[2016/01/02 13:07:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzxumujwygr.swf?VERSION=2
+[2016/01/02 13:07:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzxumujwygr.swf.
+[2016/01/02 13:08:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzgmnsxwkds.swf?VERSION=12
+[2016/01/02 13:08:56][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzgmnsxwkds.swf.
+[2016/01/02 13:08:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzxjsgvmgfl.swf?VERSION=12
+[2016/01/02 13:08:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/wugwvdccggcp.swf?VERSION=14
+[2016/01/02 13:08:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzxjsgvmgfl.swf.
+[2016/01/02 13:09:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\wugwvdccggcp.swf.
+[2016/01/02 13:09:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/giytrybpknos.swf?VERSION=4
+[2016/01/02 13:09:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/feyfhhruhjse.swf?VERSION=9
+[2016/01/02 13:09:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\feyfhhruhjse.swf.
+[2016/01/02 13:09:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gyywcqqfnjkc.swf?VERSION=10
+[2016/01/02 13:09:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\giytrybpknos.swf.
+[2016/01/02 13:09:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gyywcqqfnjkc.swf.
+[2016/01/02 13:10:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/4.mp3?version=13
+[2016/01/02 13:10:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\4.mp3.
+[2016/01/02 13:17:23][2] : 窗口布局已保存。Settings\WindowLayout2.zip
+[2016/01/02 13:17:23][2] : 七四式電子観測儀 即将结束…
+[2016/01/02 13:17:24][2] : APIObserver: 监听终止。
+[2016/01/02 13:17:24][2] : 缓存列表已保存。
+[2016/01/02 13:17:24][2] : 记录已保存。
+[2016/01/02 13:17:25][2] : 结束处理完毕。
+[2016/01/03 01:15:44][2] : 缓存列表载入完毕。
+[2016/01/03 01:15:44][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/03 01:15:44][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/03 01:15:44][2] : 七四式電子観測儀 开始启动…
+[2016/01/03 01:15:45][2] : 记录已读取。
+[2016/01/03 01:15:45][2] : APIObserver: 端口 40620 开始监听。
+[2016/01/03 01:15:46][2] : 服务 API加载器(1.0.0.0) 已加载。
+[2016/01/03 01:15:47][2] : 服务 舰船编成服务(1.0.0.0) 已加载。
+[2016/01/03 01:15:47][2] : 服务 数据发送插件(2.0.0.1) 已加载。
+[2016/01/03 01:15:47][2] : 服务 舰队配置代码提取器(&F)(1.0.0.0) 已加载。
+[2016/01/03 01:15:47][2] : 服务 侠客行(1.0.0.2) 已加载。
+[2016/01/03 01:15:47][2] : 服务 远征助手(1.0.0.3) 已加载。
+[2016/01/03 01:15:47][2] : 服务 提醒插件(1.0.0.0) 已加载。
+[2016/01/03 01:15:54][2] : 窗口布局已恢复。Settings\WindowLayout2.zip
+[2016/01/03 01:15:55][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/03 01:15:56][3] : 启动处理完毕。
+[2016/01/03 01:17:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/03 01:17:15][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/03 01:17:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/bpegnatlfibc.swf?VERSION=10
+[2016/01/03 01:17:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\bpegnatlfibc.swf.
+[2016/01/03 01:17:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfggcskrfkpnr/12.mp3?version=4
+[2016/01/03 01:17:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfggcskrfkpnr\12.mp3.
+[2016/01/03 01:18:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/13.mp3?version=13
+[2016/01/03 01:18:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\13.mp3.
+[2016/01/03 09:42:29][2] : #2「第2艦隊」的远征「35: MO作戦」已归来。
+[2016/01/03 09:42:29][2] : 遠征結果 - 成功: 鋼材x240, ボーキサイトx280, 家具箱（小）x2, 提督Exp+100, 艦娘Exp+200
+[2016/01/03 09:42:40][2] : #3「第3艦隊」的远征「40: 水上機前線輸送」已归来。
+[2016/01/03 09:42:40][2] : 遠征結果 - 成功: 燃料x300, 弾薬x300, ボーキサイトx100, 提督Exp+60, 艦娘Exp+70
+[2016/01/03 09:42:51][2] : #4「第4艦隊」的远征「36: 水上機基地建設」已归来。
+[2016/01/03 09:42:51][2] : 遠征結果 - 成功: 燃料x480, 鋼材x200, ボーキサイトx200, 家具箱（中）x2, 提督Exp+100, 艦娘Exp+200
+[2016/01/03 09:45:34][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/03 09:45:44][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/03 09:45:51][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcygqdfllpkbee/26.mp3?version=10
+[2016/01/03 09:45:52][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcygqdfllpkbee\26.mp3.
+[2016/01/03 09:45:52][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/03 09:48:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzztuvoqtqrd.swf?VERSION=2
+[2016/01/03 09:48:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzztuvoqtqrd.swf.
+[2016/01/03 09:48:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilxltdgucgbg/17.mp3?version=10
+[2016/01/03 09:48:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilxltdgucgbg\17.mp3.
+[2016/01/03 09:49:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/21.mp3?version=4
+[2016/01/03 09:49:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\21.mp3.
+[2016/01/03 09:49:44][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgrgeljjshnfk/16.mp3?version=5
+[2016/01/03 09:49:44][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgrgeljjshnfk\16.mp3.
+[2016/01/03 09:50:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/hujriolkmhzy.swf?VERSION=7
+[2016/01/03 09:50:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\hujriolkmhzy.swf.
+[2016/01/03 09:53:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilxltdgucgbg/23.mp3?version=10
+[2016/01/03 09:53:50][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilxltdgucgbg\23.mp3.
+[2016/01/03 09:55:12][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/19.mp3?version=11
+[2016/01/03 09:55:12][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\19.mp3.
+[2016/01/03 09:55:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccmmiahpwdamx/40.mp3?version=13
+[2016/01/03 09:55:56][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccmmiahpwdamx\40.mp3.
+[2016/01/03 09:57:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/21.mp3?version=13
+[2016/01/03 09:57:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzgixbrtnua/15.mp3?version=13
+[2016/01/03 09:57:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\15.mp3.
+[2016/01/03 09:57:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgrgeljjshnfk/23.mp3?version=5
+[2016/01/03 09:57:39][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgrgeljjshnfk\23.mp3.
+[2016/01/03 09:58:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchfhcjjdyqyzn/15.mp3?version=11
+[2016/01/03 09:59:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/5.mp3?version=10
+[2016/01/03 09:59:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\5.mp3.
+[2016/01/03 09:59:51][2] : 开发失败。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:00:15][2] : 戦艦「陸奥」建造完毕。
+[2016/01/03 10:00:21][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/jkjqeleyhbus.swf?VERSION=7
+[2016/01/03 10:00:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\jkjqeleyhbus.swf.
+[2016/01/03 10:00:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjkjqeleyhbus/1.mp3?version=7
+[2016/01/03 10:00:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjkjqeleyhbus\1.mp3.
+[2016/01/03 10:00:27][2] : 軽巡洋艦「神通」建造完毕。
+[2016/01/03 10:00:36][2] : 駆逐艦「皐月」建造完毕。
+[2016/01/03 10:00:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qvmfwjitflgw.swf?VERSION=9
+[2016/01/03 10:00:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qvmfwjitflgw.swf.
+[2016/01/03 10:00:46][2] : 駆逐艦「白雪」建造完毕。
+[2016/01/03 10:00:58][2] : 工厂船坞 #1 开始建造 駆逐艦「大潮」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:01:12][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/3.mp3?version=10
+[2016/01/03 10:01:24][2] : 大型電探「14号対空電探」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:01:34][2] : 小型電探「13号対空電探」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:01:44][2] : 开发失败。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:02:08][2] : 工厂船坞 #2 开始建造 駆逐艦「初雪」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:02:12][2] : 工厂船坞 #3 开始建造 軽巡洋艦「那珂」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:02:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzgixbrtnua\21.mp3.
+[2016/01/03 10:02:14][2] : 工厂船坞 #4 开始建造 駆逐艦「五月雨」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/03 10:02:42][2] : 白雪 Lv. 1 已解体。
+[2016/01/03 10:02:46][2] : 皐月 Lv. 1 已解体。
+[2016/01/03 10:03:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchfhcjjdyqyzn\15.mp3.
+[2016/01/03 10:03:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfeyfhhruhjse/13.mp3?version=9
+[2016/01/03 10:03:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfeyfhhruhjse\13.mp3.
+[2016/01/03 10:03:55][2] : 381mm/50 三連装砲改+5 の改修に成功しました。
+[2016/01/03 10:03:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfeyfhhruhjse/10.mp3?version=9
+[2016/01/03 10:03:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfeyfhhruhjse\10.mp3.
+[2016/01/03 10:06:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\3.mp3.
+[2016/01/03 11:52:10][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/03 11:52:10][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/03 11:52:33][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/03 11:53:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchujriolkmhzy/13.mp3?version=7
+[2016/01/03 11:53:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchujriolkmhzy\13.mp3.
+[2016/01/03 12:10:47][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/9.mp3?version=4
+[2016/01/03 12:10:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\9.mp3.
+[2016/01/03 12:10:54][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/10.mp3?version=4
+[2016/01/03 12:10:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\10.mp3.
+[2016/01/03 12:11:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/26.mp3?version=4
+[2016/01/03 12:11:23][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\26.mp3.
+[2016/01/03 12:11:58][2] : #1「第1艦隊」出击海域「6-1 中部海域哨戒線」。
+[2016/01/03 12:12:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/15.mp3?version=4
+[2016/01/03 12:12:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\15.mp3.
+[2016/01/03 12:13:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccqtlanpwihpj/20.mp3?version=11
+[2016/01/03 12:13:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccqtlanpwihpj\20.mp3.
+[2016/01/03 12:13:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/23.mp3?version=4
+[2016/01/03 12:13:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\23.mp3.
+[2016/01/03 12:14:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/17.mp3?version=4
+[2016/01/03 12:14:07][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\17.mp3.
+[2016/01/03 12:16:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/19.mp3?version=4
+[2016/01/03 12:16:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\19.mp3.
+[2016/01/03 12:17:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/16.mp3?version=4
+[2016/01/03 12:17:17][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\16.mp3.
+[2016/01/03 12:17:49][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/21.mp3?version=4
+[2016/01/03 12:17:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\21.mp3.
+[2016/01/03 12:18:25][2] : 軽空母「龍驤」已加入队伍。
+[2016/01/03 12:18:41][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/iyondwbusgym.swf?VERSION=10
+[2016/01/03 12:18:51][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kciyondwbusgym/1.mp3?version=10
+[2016/01/03 12:18:52][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kciyondwbusgym\1.mp3.
+[2016/01/03 12:18:53][2] : #1「第1艦隊」回到母港。
+[2016/01/03 12:23:41][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\iyondwbusgym.swf.
+[2016/01/03 12:25:39][2] : #1「第1艦隊」出击海域「6-1 中部海域哨戒線」。
+[2016/01/03 12:28:13][2] : 駆逐艦「三日月」已加入队伍。
+[2016/01/03 12:29:07][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/03 12:29:20][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/03 12:29:25][2] : #1「第1艦隊」回到母港。
+[2016/01/03 12:29:50][2] : #3「第3艦隊」的远征「37: 東京急行」已归来。
+[2016/01/03 12:29:50][2] : 遠征結果 - 大成功: 弾薬x570, 鋼材x405, 提督Exp+100, 艦娘Exp+130
+[2016/01/03 12:30:20][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/03 12:30:34][2] : #1「第1艦隊」出击海域「6-1 中部海域哨戒線」。
+[2016/01/03 12:32:22][2] : #1「第1艦隊」回到母港。
+[2016/01/03 12:39:58][2] : #4「第4艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/03 12:39:58][2] : 遠征結果 - 成功: 燃料x420, 鋼材x200, 提督Exp+50, 艦娘Exp+70
+[2016/01/03 12:40:28][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/03 12:41:17][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/9.mp3?version=13
+[2016/01/03 12:41:18][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\9.mp3.
+[2016/01/03 12:41:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/10.mp3?version=13
+[2016/01/03 12:41:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\10.mp3.
+[2016/01/03 12:41:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/26.mp3?version=13
+[2016/01/03 12:41:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\26.mp3.
+[2016/01/03 12:42:11][2] : #1「第1艦隊」出击海域「6-1 中部海域哨戒線」。
+[2016/01/03 12:43:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/16.mp3?version=13
+[2016/01/03 12:43:17][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\16.mp3.
+[2016/01/03 12:43:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/18.mp3?version=13
+[2016/01/03 12:43:42][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\18.mp3.
+[2016/01/03 12:44:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/23.mp3?version=13
+[2016/01/03 12:44:10][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\23.mp3.
+[2016/01/03 12:44:20][2] : #1「第1艦隊」回到母港。
+[2016/01/03 13:01:49][2] : #1「第1艦隊」出击海域「6-1 中部海域哨戒線」。
+[2016/01/03 13:02:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgbxvfsrqbyxg/17.mp3?version=13
+[2016/01/03 13:02:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgbxvfsrqbyxg\17.mp3.
+[2016/01/03 13:05:56][2] : 軽巡洋艦「那珂」已加入队伍。
+[2016/01/03 13:06:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/vopfxipptsrt.swf?VERSION=11
+[2016/01/03 13:06:14][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\vopfxipptsrt.swf.
+[2016/01/03 13:06:19][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcvopfxipptsrt/1.mp3?version=11
+[2016/01/03 13:06:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcvopfxipptsrt\1.mp3.
+[2016/01/03 13:06:22][2] : #1「第1艦隊」回到母港。
+[2016/01/03 13:09:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckhtgrpfyurcm/12.mp3?version=13
+[2016/01/03 13:09:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckhtgrpfyurcm\12.mp3.
+[2016/01/03 13:24:41][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/03 13:24:41][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/03 13:25:02][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/03 13:26:45][2] : 窗口布局已保存。Settings\WindowLayout2.zip
+[2016/01/03 13:26:45][2] : 七四式電子観測儀 即将结束…
+[2016/01/03 13:26:46][2] : APIObserver: 监听终止。
+[2016/01/03 13:26:46][2] : 缓存列表已保存。
+[2016/01/03 13:26:46][2] : 记录已保存。
+[2016/01/03 13:26:46][2] : 结束处理完毕。
+[2016/01/03 14:31:39][2] : 缓存列表载入完毕。
+[2016/01/03 14:31:39][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/03 14:31:40][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/03 14:31:40][2] : 七四式電子観測儀 开始启动…
+[2016/01/03 14:31:40][2] : 记录已读取。
+[2016/01/03 14:31:41][2] : APIObserver: 端口 40620 开始监听。
+[2016/01/03 14:31:43][2] : 服务 API加载器(1.0.0.0) 已加载。
+[2016/01/03 14:31:43][2] : 服务 舰船编成服务(1.0.0.0) 已加载。
+[2016/01/03 14:31:43][2] : 服务 数据发送插件(2.0.0.1) 已加载。
+[2016/01/03 14:31:43][2] : 服务 舰队配置代码提取器(&F)(1.0.0.0) 已加载。
+[2016/01/03 14:31:44][2] : 服务 侠客行(1.0.0.2) 已加载。
+[2016/01/03 14:31:44][2] : 服务 远征助手(1.0.0.3) 已加载。
+[2016/01/03 14:31:44][2] : 服务 提醒插件(1.0.0.0) 已加载。
+[2016/01/03 14:31:52][2] : 窗口布局已恢复。Settings\WindowLayout2.zip
+[2016/01/03 14:31:53][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/03 14:31:54][3] : 启动处理完毕。
+[2016/01/03 14:32:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/03 14:32:22][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/03 14:34:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/45.mp3?version=15
+[2016/01/03 14:34:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\45.mp3.
+[2016/01/03 14:55:12][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/03 14:55:12][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/03 14:55:43][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/03 17:19:45][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/03 17:19:45][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+80
+[2016/01/03 17:19:55][2] : #3「第3艦隊」的远征「37: 東京急行」已归来。
+[2016/01/03 17:19:55][2] : 遠征結果 - 大成功: 弾薬x570, 鋼材x405, 提督Exp+100, 艦娘Exp+130
+[2016/01/03 17:20:15][2] : #4「第4艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/03 17:20:15][2] : 遠征結果 - 成功: 燃料x420, 鋼材x200, 提督Exp+50, 艦娘Exp+140
+[2016/01/03 17:21:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcwnocckxgfmnh/27.mp3?version=14
+[2016/01/03 17:21:08][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcwnocckxgfmnh\27.mp3.
+[2016/01/03 17:21:39][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/03 17:21:50][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/03 17:22:01][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/03 17:22:41][2] : 窗口布局已保存。Settings\WindowLayout2.zip
+[2016/01/03 17:22:41][2] : 七四式電子観測儀 即将结束…
+[2016/01/03 17:22:42][2] : APIObserver: 监听终止。
+[2016/01/03 17:22:42][2] : 缓存列表已保存。
+[2016/01/03 17:22:42][2] : 记录已保存。
+[2016/01/03 17:22:42][2] : 结束处理完毕。
+[2016/01/04 09:31:17][2] : 缓存列表载入完毕。
+[2016/01/04 09:31:17][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/04 09:31:17][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/04 09:31:17][2] : 七四式電子観測儀 开始启动…
+[2016/01/04 09:31:18][2] : 记录已读取。
+[2016/01/04 09:31:19][2] : APIObserver: 端口 40620 开始监听。
+[2016/01/04 09:31:20][2] : 服务 API加载器(1.0.0.0) 已加载。
+[2016/01/04 09:31:21][2] : 服务 舰船编成服务(1.0.0.0) 已加载。
+[2016/01/04 09:31:21][2] : 服务 数据发送插件(2.0.0.1) 已加载。
+[2016/01/04 09:31:21][2] : 服务 舰队配置代码提取器(&F)(1.0.0.0) 已加载。
+[2016/01/04 09:31:22][2] : 服务 侠客行(1.0.0.2) 已加载。
+[2016/01/04 09:31:22][2] : 服务 远征助手(1.0.0.3) 已加载。
+[2016/01/04 09:31:22][2] : 服务 提醒插件(1.0.0.0) 已加载。
+[2016/01/04 09:31:31][2] : 窗口布局已恢复。Settings\WindowLayout2.zip
+[2016/01/04 09:31:33][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/04 09:31:33][3] : 启动处理完毕。
+[2016/01/04 09:31:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/04 09:32:07][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/04 09:32:15][2] : #2「第2艦隊」的远征「35: MO作戦」已归来。
+[2016/01/04 09:32:15][2] : 遠征結果 - 成功: 鋼材x240, ボーキサイトx280, 家具箱（小）x2, 提督Exp+100, 艦娘Exp+100
+[2016/01/04 09:32:26][2] : #3「第3艦隊」的远征「36: 水上機基地建設」已归来。
+[2016/01/04 09:32:26][2] : 遠征結果 - 成功: 燃料x480, 鋼材x200, ボーキサイトx200, 家具箱（中）x1, 提督Exp+100, 艦娘Exp+200
+[2016/01/04 09:32:39][2] : #4「第4艦隊」的远征「40: 水上機前線輸送」已归来。
+[2016/01/04 09:32:39][2] : 遠征結果 - 成功: 燃料x300, 弾薬x300, ボーキサイトx100, 家具箱（小）x3, 提督Exp+60, 艦娘Exp+70
+[2016/01/04 09:34:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/oxttbkywusfp.swf?VERSION=4
+[2016/01/04 09:34:39][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\oxttbkywusfp.swf.
+[2016/01/04 09:34:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcoxttbkywusfp/13.mp3?version=4
+[2016/01/04 09:34:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcoxttbkywusfp\13.mp3.
+[2016/01/04 09:35:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/svglgiwjfyxn.swf?VERSION=11
+[2016/01/04 09:35:56][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\svglgiwjfyxn.swf.
+[2016/01/04 09:36:26][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/04 09:36:36][2] : #3「第3艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/04 09:36:50][2] : #3「第3艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/04 09:36:50][2] : 遠征結果 - 失敗: 獲得資源なし
+[2016/01/04 09:37:14][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/04 09:37:23][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/04 09:38:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/nppdykjbwmkx.swf?VERSION=13
+[2016/01/04 09:38:21][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\nppdykjbwmkx.swf.
+[2016/01/04 09:38:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/yfpnftpuwkrx.swf?VERSION=10
+[2016/01/04 09:38:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\yfpnftpuwkrx.swf.
+[2016/01/04 09:40:09][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilxltdgucgbg/16.mp3?version=10
+[2016/01/04 09:40:09][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilxltdgucgbg\16.mp3.
+[2016/01/04 09:41:41][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxljtrrmemnon/23.mp3?version=10
+[2016/01/04 09:41:41][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxljtrrmemnon\23.mp3.
+[2016/01/04 09:42:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/kavryopoywwx.swf?VERSION=6
+[2016/01/04 09:42:14][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\kavryopoywwx.swf.
+[2016/01/04 09:42:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kculjlkucfqqcc/20.mp3?version=4
+[2016/01/04 09:42:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kculjlkucfqqcc\20.mp3.
+[2016/01/04 09:42:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilxltdgucgbg/15.mp3?version=10
+[2016/01/04 09:42:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilxltdgucgbg\15.mp3.
+[2016/01/04 09:44:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/fhpgicaysllm.swf?VERSION=7
+[2016/01/04 09:44:41][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\fhpgicaysllm.swf.
+[2016/01/04 09:46:59][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/pmjnkqodgjpo.swf?VERSION=5
+[2016/01/04 09:47:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\pmjnkqodgjpo.swf.
+[2016/01/04 09:47:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcpmjnkqodgjpo/13.mp3?version=5
+[2016/01/04 09:47:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcpmjnkqodgjpo\13.mp3.
+[2016/01/04 09:51:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcugxgvgtjsxud/23.mp3?version=8
+[2016/01/04 09:51:29][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcugxgvgtjsxud\23.mp3.
+[2016/01/04 09:52:27][2] : 水上偵察機「零式水上偵察機」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:52:51][2] : 駆逐艦「大潮」建造完毕。
+[2016/01/04 09:52:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/svcuufdqcqmy.swf?VERSION=7
+[2016/01/04 09:52:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\svcuufdqcqmy.swf.
+[2016/01/04 09:53:00][2] : 駆逐艦「初雪」建造完毕。
+[2016/01/04 09:53:09][2] : 軽巡洋艦「那珂」建造完毕。
+[2016/01/04 09:53:18][2] : 駆逐艦「五月雨」建造完毕。
+[2016/01/04 09:53:28][2] : 工厂船坞 #1 开始建造 軽巡洋艦「北上」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:53:50][2] : 开发失败。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:54:00][2] : 対空機銃「7.7mm機銃」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:54:10][2] : 副砲「12.7cm連装高角砲」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:54:39][2] : 工厂船坞 #2 开始建造 軽巡洋艦「北上」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:54:42][2] : 工厂船坞 #3 开始建造 駆逐艦「望月」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:54:45][2] : 工厂船坞 #4 开始建造 軽巡洋艦「球磨」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/04 09:54:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcgtmwrbaniaud/2.mp3?version=10
+[2016/01/04 09:54:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcgtmwrbaniaud\2.mp3.
+[2016/01/04 09:55:05][2] : 五月雨 Lv. 1 已解体。
+[2016/01/04 09:55:10][2] : 初雪 Lv. 1 已解体。
+[2016/01/04 09:55:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/40.mp3?version=15
+[2016/01/04 09:55:53][2] : 九一式徹甲弾+6 の改修に成功しました。
+[2016/01/04 09:56:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/40.mp3?version=15
+[2016/01/04 09:56:26][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/40.mp3?version=15
+[2016/01/04 09:56:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\40.mp3.
+[2016/01/04 10:49:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/41.mp3?version=15
+[2016/01/04 10:49:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\41.mp3.
+[2016/01/04 11:20:08][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/04 11:20:08][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/04 11:20:39][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/04 12:22:40][2] : #3「第3艦隊」的远征「37: 東京急行」已归来。
+[2016/01/04 12:22:40][2] : 遠征結果 - 成功: 弾薬x380, 鋼材x270, 家具箱（小）x1, 提督Exp+50, 艦娘Exp+130
+[2016/01/04 12:23:08][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/04 12:23:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcrjggwwmmppth/13.mp3?version=8
+[2016/01/04 12:23:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcrjggwwmmppth\13.mp3.
+[2016/01/04 12:31:37][2] : #4「第4艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/04 12:31:37][2] : 遠征結果 - 成功: 燃料x420, 鋼材x200, 提督Exp+50, 艦娘Exp+70
+[2016/01/04 12:32:06][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/04 12:49:50][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/04 12:49:50][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+80
+[2016/01/04 12:50:12][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/04 12:50:31][2] : 窗口布局已保存。Settings\WindowLayout2.zip
+[2016/01/04 12:50:31][2] : 七四式電子観測儀 即将结束…
+[2016/01/04 12:50:32][2] : APIObserver: 监听终止。
+[2016/01/04 12:50:32][2] : 缓存列表已保存。
+[2016/01/04 12:50:33][2] : 记录已保存。
+[2016/01/04 12:50:33][2] : 结束处理完毕。
+[2016/01/04 23:36:46][2] : 缓存列表载入完毕。
+[2016/01/04 23:36:46][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/04 23:36:47][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/04 23:36:47][2] : 七四式電子観測儀 开始启动…
+[2016/01/04 23:36:47][2] : 记录已读取。
+[2016/01/04 23:36:48][2] : APIObserver: 端口 40620 开始监听。
+[2016/01/04 23:36:50][2] : 服务 API加载器(1.0.0.0) 已加载。
+[2016/01/04 23:36:50][2] : 服务 舰船编成服务(1.0.0.0) 已加载。
+[2016/01/04 23:36:50][2] : 服务 数据发送插件(2.0.0.1) 已加载。
+[2016/01/04 23:36:50][2] : 服务 舰队配置代码提取器(&F)(1.0.0.0) 已加载。
+[2016/01/04 23:36:51][2] : 服务 侠客行(1.0.0.2) 已加载。
+[2016/01/04 23:36:51][2] : 服务 远征助手(1.0.0.3) 已加载。
+[2016/01/04 23:36:51][2] : 服务 提醒插件(1.0.0.0) 已加载。
+[2016/01/04 23:37:00][2] : 窗口布局已恢复。Settings\WindowLayout2.zip
+[2016/01/04 23:37:01][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/04 23:37:02][3] : 启动处理完毕。
+[2016/01/04 23:37:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/04 23:37:56][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/04 23:38:07][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/04 23:38:07][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/04 23:38:18][2] : #3「第3艦隊」的远征「3: 警備任務」已归来。
+[2016/01/04 23:38:18][2] : 遠征結果 - 成功: 燃料x30, 弾薬x30, 鋼材x40, 提督Exp+30, 艦娘Exp+60
+[2016/01/04 23:38:29][2] : #4「第4艦隊」的远征「2: 長距離練習航海」已归来。
+[2016/01/04 23:38:29][2] : 遠征結果 - 成功: 弾薬x100, 鋼材x30, 提督Exp+20, 艦娘Exp+30
+[2016/01/04 23:38:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ngcxxfxovpmn.swf?VERSION=7
+[2016/01/04 23:38:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ngcxxfxovpmn.swf.
+[2016/01/04 23:38:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/xbbfxeemifpv.swf?VERSION=6
+[2016/01/04 23:38:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\xbbfxeemifpv.swf.
+[2016/01/04 23:38:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/jukighzxmudn.swf?VERSION=9
+[2016/01/04 23:38:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\jukighzxmudn.swf.
+[2016/01/04 23:38:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/rtkekdbkqrkg.swf?VERSION=13
+[2016/01/04 23:38:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\rtkekdbkqrkg.swf.
+[2016/01/04 23:39:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ofneitwqroxe.swf?VERSION=10
+[2016/01/04 23:39:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ofneitwqroxe.swf.
+[2016/01/04 23:39:04][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcofneitwqroxe/13.mp3?version=10
+[2016/01/04 23:39:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcofneitwqroxe\13.mp3.
+[2016/01/04 23:39:41][2] : #2「第2艦隊」已出击远征「2: 長距離練習航海」。
+[2016/01/04 23:39:49][2] : #3「第3艦隊」已出击远征「3: 警備任務」。
+[2016/01/04 23:39:59][2] : #4「第4艦隊」已出击远征「36: 水上機基地建設」。
+[2016/01/04 23:40:28][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/dfrmfmjvschh.swf?VERSION=5
+[2016/01/04 23:40:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\dfrmfmjvschh.swf.
+[2016/01/04 23:42:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/hkhkiqkleprp.swf?VERSION=9
+[2016/01/04 23:42:39][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\hkhkiqkleprp.swf.
+[2016/01/04 23:48:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchfhcjjdyqyzn/9.mp3?version=11
+[2016/01/04 23:48:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchfhcjjdyqyzn\9.mp3.
+[2016/01/04 23:48:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchfhcjjdyqyzn/10.mp3?version=11
+[2016/01/04 23:48:15][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchfhcjjdyqyzn\10.mp3.
+[2016/01/04 23:48:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchfhcjjdyqyzn/26.mp3?version=11
+[2016/01/04 23:48:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchfhcjjdyqyzn\26.mp3.
+[2016/01/04 23:50:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcdkmxevqgbxmr/3.mp3?version=5
+[2016/01/04 23:50:23][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcdkmxevqgbxmr\3.mp3.
+[2016/01/04 23:50:28][2] : #1「演習反潛」出击海域「1-1 鎮守府正面海域」。
+[2016/01/04 23:51:05][2] : 駆逐艦「荒潮」已加入队伍。
+[2016/01/04 23:51:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/vksjkggcuvik.swf?VERSION=5
+[2016/01/04 23:51:21][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\vksjkggcuvik.swf.
+[2016/01/04 23:51:26][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcvksjkggcuvik/1.mp3?version=5
+[2016/01/04 23:51:26][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcvksjkggcuvik\1.mp3.
+[2016/01/04 23:52:22][2] : 駆逐艦「満潮」已加入队伍。
+[2016/01/04 23:52:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfhpgicaysllm/1.mp3?version=7
+[2016/01/04 23:52:44][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfhpgicaysllm\1.mp3.
+[2016/01/04 23:52:45][2] : #1「演習反潛」回到母港。
+[2016/01/04 23:53:20][2] : #1「演習反潛」出击海域「1-1 鎮守府正面海域」。
+[2016/01/04 23:53:58][2] : 駆逐艦「深雪」已加入队伍。
+[2016/01/04 23:54:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/cdidanqovcfr.swf?VERSION=10
+[2016/01/04 23:54:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\cdidanqovcfr.swf.
+[2016/01/04 23:54:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccdidanqovcfr/1.mp3?version=10
+[2016/01/04 23:54:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccdidanqovcfr\1.mp3.
+[2016/01/04 23:55:27][2] : 駆逐艦「朧」已加入队伍。
+[2016/01/04 23:55:52][2] : #1「演習反潛」回到母港。
+[2016/01/04 23:56:32][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccayfwlehtvgj/2.mp3?version=5
+[2016/01/04 23:56:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccayfwlehtvgj\2.mp3.
+[2016/01/04 23:58:29][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/04 23:58:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/14.mp3?version=4
+[2016/01/04 23:58:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\14.mp3.
+[2016/01/04 23:59:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/23.mp3?version=4
+[2016/01/04 23:59:42][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\23.mp3.
+[2016/01/05 00:00:38][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczoaptkoerfpv/20.mp3?version=4
+[2016/01/05 00:00:39][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczoaptkoerfpv\20.mp3.
+[2016/01/05 00:00:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/16.mp3?version=4
+[2016/01/05 00:00:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\16.mp3.
+[2016/01/05 00:01:00][2] : 軽空母「飛鷹」已加入队伍。
+[2016/01/05 00:01:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/sdiauxhgyfkj.swf?VERSION=7
+[2016/01/05 00:01:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\sdiauxhgyfkj.swf.
+[2016/01/05 00:01:21][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsdiauxhgyfkj/1.mp3?version=7
+[2016/01/05 00:01:21][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsdiauxhgyfkj\1.mp3.
+[2016/01/05 00:01:23][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:01:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/7.mp3?version=4
+[2016/01/05 00:01:25][2] : #3「第3艦隊」的远征「3: 警備任務」已归来。
+[2016/01/05 00:01:25][2] : 遠征結果 - 成功: 燃料x30, 弾薬x30, 鋼材x40, 提督Exp+30, 艦娘Exp+60
+[2016/01/05 00:01:26][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\7.mp3.
+[2016/01/05 00:01:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/27.mp3?version=4
+[2016/01/05 00:01:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\27.mp3.
+[2016/01/05 00:02:28][2] : #3「第3艦隊」已出击远征「3: 警備任務」。
+[2016/01/05 00:02:37][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/05 00:02:49][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/26.mp3?version=4
+[2016/01/05 00:02:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\26.mp3.
+[2016/01/05 00:03:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/18.mp3?version=4
+[2016/01/05 00:03:53][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\18.mp3.
+[2016/01/05 00:04:10][2] : 駆逐艦「初春」已加入队伍。
+[2016/01/05 00:04:25][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/nlobofyxzvku.swf?VERSION=12
+[2016/01/05 00:04:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\nlobofyxzvku.swf.
+[2016/01/05 00:04:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcnlobofyxzvku/1.mp3?version=12
+[2016/01/05 00:04:33][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcnlobofyxzvku\1.mp3.
+[2016/01/05 00:04:34][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:05:12][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/05 00:06:37][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:07:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjwrlielrnfpr/2.mp3?version=4
+[2016/01/05 00:07:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjwrlielrnfpr\2.mp3.
+[2016/01/05 00:07:21][2] : #1「演習反潛」出击海域「2-2 バシー島沖」。
+[2016/01/05 00:10:05][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:10:08][2] : #2「第2艦隊」的远征「2: 長距離練習航海」已归来。
+[2016/01/05 00:10:08][2] : 遠征結果 - 成功: 弾薬x100, 鋼材x30, 提督Exp+20, 艦娘Exp+30
+[2016/01/05 00:10:29][2] : #2「第2艦隊」已出击远征「2: 長距離練習航海」。
+[2016/01/05 00:11:07][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/litugbpkilsf.swf?VERSION=7
+[2016/01/05 00:11:07][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\litugbpkilsf.swf.
+[2016/01/05 00:11:09][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/qegrehgswrpg.swf?VERSION=13
+[2016/01/05 00:11:09][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\qegrehgswrpg.swf.
+[2016/01/05 00:11:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ojkgkujsenly.swf?VERSION=16
+[2016/01/05 00:11:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ojkgkujsenly.swf.
+[2016/01/05 00:11:31][2] : 伊168 Lv. 1 を除籍しました。
+[2016/01/05 00:11:31][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:11:42][2] : 満潮 Lv. 1 を除籍しました。
+[2016/01/05 00:11:42][2] : 荒潮 Lv. 1 を除籍しました。
+[2016/01/05 00:11:42][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:12:19][2] : 涼風 Lv. 1 を除籍しました。
+[2016/01/05 00:12:19][2] : 初春 Lv. 1 を除籍しました。
+[2016/01/05 00:12:19][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:12:32][2] : 初春 Lv. 1 を除籍しました。
+[2016/01/05 00:12:32][2] : 暁 Lv. 1 を除籍しました。
+[2016/01/05 00:12:32][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:12:44][2] : 朧 Lv. 1 を除籍しました。
+[2016/01/05 00:12:44][2] : 大潮 Lv. 1 を除籍しました。
+[2016/01/05 00:12:44][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:12:55][2] : 羽黒 Lv. 1 を除籍しました。
+[2016/01/05 00:12:55][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:13:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/opprvckvhrkv.swf?VERSION=10
+[2016/01/05 00:13:03][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\opprvckvhrkv.swf.
+[2016/01/05 00:13:05][2] : 足柄 Lv. 1 を除籍しました。
+[2016/01/05 00:13:05][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:13:17][2] : 那珂 Lv. 1 を除籍しました。
+[2016/01/05 00:13:17][2] : 川内 Lv. 1 を除籍しました。
+[2016/01/05 00:13:17][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:13:27][2] : 那珂 Lv. 1 を除籍しました。
+[2016/01/05 00:13:27][2] : 五十鈴 Lv. 1 を除籍しました。
+[2016/01/05 00:13:27][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:13:40][2] : 神通 Lv. 1 を除籍しました。
+[2016/01/05 00:13:40][2] : 木曾 Lv. 1 を除籍しました。
+[2016/01/05 00:13:40][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:13:51][2] : 那珂 Lv. 1 を除籍しました。
+[2016/01/05 00:13:51][2] : 木曾 Lv. 1 を除籍しました。
+[2016/01/05 00:13:51][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:14:07][2] : 文月 Lv. 1 を除籍しました。
+[2016/01/05 00:14:07][2] : 白雪 Lv. 1 を除籍しました。
+[2016/01/05 00:14:07][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:14:21][2] : 由良 Lv. 1 を除籍しました。
+[2016/01/05 00:14:21][2] : 深雪 Lv. 1 を除籍しました。
+[2016/01/05 00:14:21][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:14:32][2] : 高雄 Lv. 1 を除籍しました。
+[2016/01/05 00:14:32][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:14:41][2] : 那智 Lv. 1 を除籍しました。
+[2016/01/05 00:14:41][2] : 熊野 Lv. 1 の近代化改修に成功しました。
+[2016/01/05 00:15:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcwugwvdccggcp/13.mp3?version=14
+[2016/01/05 00:15:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcwugwvdccggcp\13.mp3.
+[2016/01/05 00:16:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfeyfhhruhjse/9.mp3?version=9
+[2016/01/05 00:16:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfeyfhhruhjse\9.mp3.
+[2016/01/05 00:17:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckspwuqsyhipy/9.mp3?version=10
+[2016/01/05 00:17:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckspwuqsyhipy\9.mp3.
+[2016/01/05 00:17:12][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckspwuqsyhipy/10.mp3?version=10
+[2016/01/05 00:17:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckspwuqsyhipy\10.mp3.
+[2016/01/05 00:17:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/numjsnomjspr.swf?VERSION=12
+[2016/01/05 00:17:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\numjsnomjspr.swf.
+[2016/01/05 00:17:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckspwuqsyhipy/26.mp3?version=10
+[2016/01/05 00:17:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckspwuqsyhipy\26.mp3.
+[2016/01/05 00:18:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/gbkqnzirjyid.swf?VERSION=4
+[2016/01/05 00:18:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\gbkqnzirjyid.swf.
+[2016/01/05 00:22:59][2] : #3「第3艦隊」的远征「3: 警備任務」已归来。
+[2016/01/05 00:22:59][2] : 遠征結果 - 成功: 燃料x30, 弾薬x30, 鋼材x40, 提督Exp+30, 艦娘Exp+30
+[2016/01/05 00:23:24][2] : #3「第3艦隊」已出击远征「3: 警備任務」。
+[2016/01/05 00:23:57][2] : #1「演習反潛」出击海域「5-5 サーモン海域北方」。
+[2016/01/05 00:24:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckspwuqsyhipy/17.mp3?version=10
+[2016/01/05 00:24:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckspwuqsyhipy\17.mp3.
+[2016/01/05 00:25:20][2] : 重巡洋艦「羽黒」已加入队伍。
+[2016/01/05 00:28:41][2] : 軽巡洋艦「長良」已加入队伍。
+[2016/01/05 00:29:20][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:30:05][2] : #1「演習反潛」出击海域「5-5 サーモン海域北方」。
+[2016/01/05 00:31:25][2] : 重巡洋艦「筑摩」已加入队伍。
+[2016/01/05 00:33:20][2] : 巡洋戦艦「比叡」已加入队伍。
+[2016/01/05 00:33:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/bxzhnjffdppv.swf?VERSION=10
+[2016/01/05 00:33:41][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\bxzhnjffdppv.swf.
+[2016/01/05 00:33:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcbxzhnjffdppv/1.mp3?version=10
+[2016/01/05 00:33:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcbxzhnjffdppv\1.mp3.
+[2016/01/05 00:34:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/21.mp3?version=4
+[2016/01/05 00:34:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\21.mp3.
+[2016/01/05 00:35:45][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:35:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/12.mp3?version=4
+[2016/01/05 00:35:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\12.mp3.
+[2016/01/05 00:36:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcfeyfhhruhjse/11.mp3?version=9
+[2016/01/05 00:36:12][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcfeyfhhruhjse\11.mp3.
+[2016/01/05 00:36:38][2] : #1「演習反潛」出击海域「5-5 サーモン海域北方」。
+[2016/01/05 00:38:19][2] : 軽巡洋艦「神通」已加入队伍。
+[2016/01/05 00:39:56][2] : 水上機母艦「千歳」已加入队伍。
+[2016/01/05 00:42:25][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:42:28][2] : #2「第2艦隊」的远征「2: 長距離練習航海」已归来。
+[2016/01/05 00:42:28][2] : 遠征結果 - 成功: 弾薬x100, 鋼材x30, 高速修復材x1, 提督Exp+20, 艦娘Exp+30
+[2016/01/05 00:42:44][2] : #3「第3艦隊」的远征「3: 警備任務」已归来。
+[2016/01/05 00:42:44][2] : 遠征結果 - 成功: 燃料x30, 弾薬x30, 鋼材x40, 提督Exp+30, 艦娘Exp+30
+[2016/01/05 00:43:12][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcqgrxbhuvtrbf/12.mp3?version=4
+[2016/01/05 00:43:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcqgrxbhuvtrbf\12.mp3.
+[2016/01/05 00:43:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcekuxnovhattm/11.mp3?version=4
+[2016/01/05 00:43:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcekuxnovhattm\11.mp3.
+[2016/01/05 00:43:43][2] : #1「演習反潛」出击海域「5-5 サーモン海域北方」。
+[2016/01/05 00:46:57][2] : 巡洋戦艦「比叡」已加入队伍。
+[2016/01/05 00:48:50][2] : 駆逐艦「巻雲」已加入队伍。
+[2016/01/05 00:49:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzpiobwloef.swf?VERSION=2
+[2016/01/05 00:49:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzpiobwloef.swf.
+[2016/01/05 00:49:11][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzpiobwloef/1.mp3?version=2
+[2016/01/05 00:49:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzpiobwloef\1.mp3.
+[2016/01/05 00:49:16][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:51:07][2] : #2「第2艦隊」已出击远征「35: MO作戦」。
+[2016/01/05 00:51:15][2] : #3「第3艦隊」已出击远征「40: 水上機前線輸送」。
+[2016/01/05 00:52:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxtqbjysffsvx/13.mp3?version=15
+[2016/01/05 00:52:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxtqbjysffsvx\13.mp3.
+[2016/01/05 00:52:26][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/cxhxktltjtbg.swf?VERSION=9
+[2016/01/05 00:52:26][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\cxhxktltjtbg.swf.
+[2016/01/05 00:52:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccxhxktltjtbg/13.mp3?version=9
+[2016/01/05 00:52:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccxhxktltjtbg\13.mp3.
+[2016/01/05 00:52:44][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/niuenzxpukjq.swf?VERSION=5
+[2016/01/05 00:52:44][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\niuenzxpukjq.swf.
+[2016/01/05 00:53:13][2] : #1「演習反潛」出击海域「1-5 鎮守府近海」。
+[2016/01/05 00:53:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxtqbjysffsvx/15.mp3?version=15
+[2016/01/05 00:53:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxtqbjysffsvx\15.mp3.
+[2016/01/05 00:53:50][2] : 駆逐艦「荒潮」已加入队伍。
+[2016/01/05 00:53:59][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxtqbjysffsvx/23.mp3?version=15
+[2016/01/05 00:53:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxtqbjysffsvx\23.mp3.
+[2016/01/05 00:54:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccxhxktltjtbg/16.mp3?version=9
+[2016/01/05 00:54:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccxhxktltjtbg\16.mp3.
+[2016/01/05 00:54:52][2] : 軽巡洋艦「名取」已加入队伍。
+[2016/01/05 00:55:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxtqbjysffsvx/16.mp3?version=15
+[2016/01/05 00:55:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxtqbjysffsvx\16.mp3.
+[2016/01/05 00:55:49][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccxhxktltjtbg/15.mp3?version=9
+[2016/01/05 00:55:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccxhxktltjtbg\15.mp3.
+[2016/01/05 00:56:07][2] : 駆逐艦「不知火」已加入队伍。
+[2016/01/05 00:56:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccxhxktltjtbg/23.mp3?version=9
+[2016/01/05 00:56:17][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccxhxktltjtbg\23.mp3.
+[2016/01/05 00:56:35][2] : #1「演習反潛」回到母港。
+[2016/01/05 00:56:53][2] : #1「演習反潛」出击海域「1-5 鎮守府近海」。
+[2016/01/05 00:59:50][2] : 駆逐艦「如月」已加入队伍。
+[2016/01/05 01:00:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/wujywbyjntbp.swf?VERSION=16
+[2016/01/05 01:00:07][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\wujywbyjntbp.swf.
+[2016/01/05 01:00:12][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcwujywbyjntbp/1.mp3?version=16
+[2016/01/05 01:00:12][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcwujywbyjntbp\1.mp3.
+[2016/01/05 01:00:15][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:01:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzycgllqsxw.swf?VERSION=6
+[2016/01/05 01:01:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzycgllqsxw.swf.
+[2016/01/05 01:01:16][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/13.mp3?version=6
+[2016/01/05 01:01:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\13.mp3.
+[2016/01/05 01:01:51][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcrtkekdbkqrkg/13.mp3?version=13
+[2016/01/05 01:01:52][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcrtkekdbkqrkg\13.mp3.
+[2016/01/05 01:01:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ogkwigciybxf.swf?VERSION=21
+[2016/01/05 01:01:57][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ogkwigciybxf.swf.
+[2016/01/05 01:02:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/9.mp3?version=20
+[2016/01/05 01:02:20][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\9.mp3.
+[2016/01/05 01:02:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/9.mp3?version=6
+[2016/01/05 01:02:28][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\9.mp3.
+[2016/01/05 01:02:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/10.mp3?version=6
+[2016/01/05 01:02:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\10.mp3.
+[2016/01/05 01:02:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/3.mp3?version=6
+[2016/01/05 01:02:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\3.mp3.
+[2016/01/05 01:02:41][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:03:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/15.mp3?version=6
+[2016/01/05 01:03:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\15.mp3.
+[2016/01/05 01:03:33][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcrtkekdbkqrkg/15.mp3?version=13
+[2016/01/05 01:03:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcrtkekdbkqrkg\15.mp3.
+[2016/01/05 01:03:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/16.mp3?version=6
+[2016/01/05 01:03:46][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\16.mp3.
+[2016/01/05 01:04:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/23.mp3?version=6
+[2016/01/05 01:04:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\23.mp3.
+[2016/01/05 01:04:48][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/17.mp3?version=6
+[2016/01/05 01:04:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\17.mp3.
+[2016/01/05 01:05:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/20.mp3?version=20
+[2016/01/05 01:05:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\20.mp3.
+[2016/01/05 01:05:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcrtkekdbkqrkg/16.mp3?version=13
+[2016/01/05 01:05:16][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcrtkekdbkqrkg\16.mp3.
+[2016/01/05 01:06:03][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/26.mp3?version=6
+[2016/01/05 01:06:04][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\26.mp3.
+[2016/01/05 01:06:47][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kccjhtlviffiwb/21.mp3?version=8
+[2016/01/05 01:06:48][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kccjhtlviffiwb\21.mp3.
+[2016/01/05 01:07:01][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcrtkekdbkqrkg/20.mp3?version=13
+[2016/01/05 01:07:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcrtkekdbkqrkg\20.mp3.
+[2016/01/05 01:07:35][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/18.mp3?version=6
+[2016/01/05 01:07:35][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\18.mp3.
+[2016/01/05 01:07:50][2] : 軽空母「隼鷹」已加入队伍。
+[2016/01/05 01:08:13][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:08:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/7.mp3?version=6
+[2016/01/05 01:08:15][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\7.mp3.
+[2016/01/05 01:08:21][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/27.mp3?version=6
+[2016/01/05 01:08:21][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\27.mp3.
+[2016/01/05 01:08:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/xoiprnaxqxbj.swf?VERSION=13
+[2016/01/05 01:08:51][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxoiprnaxqxbj/13.mp3?version=13
+[2016/01/05 01:08:51][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\xoiprnaxqxbj.swf.
+[2016/01/05 01:08:51][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxoiprnaxqxbj\13.mp3.
+[2016/01/05 01:09:08][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:10:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxoiprnaxqxbj/16.mp3?version=13
+[2016/01/05 01:10:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxoiprnaxqxbj\16.mp3.
+[2016/01/05 01:11:43][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcurpnkwaneqfb/16.mp3?version=5
+[2016/01/05 01:11:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcurpnkwaneqfb\16.mp3.
+[2016/01/05 01:12:29][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:13:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzfsgwccpes/13.mp3?version=13
+[2016/01/05 01:13:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzfsgwccpes\13.mp3.
+[2016/01/05 01:13:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcogkwigciybxf/13.mp3?version=21
+[2016/01/05 01:13:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcogkwigciybxf\13.mp3.
+[2016/01/05 01:13:38][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/pyfdxrfqwldn.swf?VERSION=8
+[2016/01/05 01:13:38][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\pyfdxrfqwldn.swf.
+[2016/01/05 01:14:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/4.mp3?version=6
+[2016/01/05 01:14:01][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\4.mp3.
+[2016/01/05 01:14:09][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:15:02][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcogkwigciybxf/15.mp3?version=21
+[2016/01/05 01:15:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcogkwigciybxf\15.mp3.
+[2016/01/05 01:15:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzfsgwccpes/16.mp3?version=13
+[2016/01/05 01:15:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzfsgwccpes\16.mp3.
+[2016/01/05 01:15:19][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxoiprnaxqxbj/21.mp3?version=13
+[2016/01/05 01:15:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxoiprnaxqxbj\21.mp3.
+[2016/01/05 01:16:54][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:17:56][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:17:56][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/14.mp3?version=6
+[2016/01/05 01:17:59][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\14.mp3.
+[2016/01/05 01:19:05][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzfsgwccpes/21.mp3?version=13
+[2016/01/05 01:19:05][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzfsgwccpes\21.mp3.
+[2016/01/05 01:20:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcogkwigciybxf/16.mp3?version=21
+[2016/01/05 01:20:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcogkwigciybxf\16.mp3.
+[2016/01/05 01:20:37][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzfsgwccpes/15.mp3?version=13
+[2016/01/05 01:20:37][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzfsgwccpes\15.mp3.
+[2016/01/05 01:22:19][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/21.mp3?version=6
+[2016/01/05 01:22:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\21.mp3.
+[2016/01/05 01:22:36][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kctiqezicxwpry/16.mp3?version=12
+[2016/01/05 01:22:36][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kctiqezicxwpry\16.mp3.
+[2016/01/05 01:23:32][2] : 戦艦「扶桑」已加入队伍。
+[2016/01/05 01:23:54][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:25:14][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:26:23][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcavfbkpphumso/21.mp3?version=9
+[2016/01/05 01:26:23][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcavfbkpphumso\21.mp3.
+[2016/01/05 01:28:43][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:29:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/kkpwecgmftci.swf?VERSION=13
+[2016/01/05 01:29:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\kkpwecgmftci.swf.
+[2016/01/05 01:29:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/sejqtlkfjwkc.swf?VERSION=14
+[2016/01/05 01:29:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\sejqtlkfjwkc.swf.
+[2016/01/05 01:29:29][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/eypcwtnjgoyb.swf?VERSION=7
+[2016/01/05 01:29:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\eypcwtnjgoyb.swf.
+[2016/01/05 01:29:44][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:35:02][2] : 重巡洋艦「加古」已加入队伍。
+[2016/01/05 01:35:26][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:36:21][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzznkrmsykdo.swf?VERSION=12
+[2016/01/05 01:36:21][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzznkrmsykdo.swf?VERSION=12
+[2016/01/05 01:36:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/cmpqwemjahur.swf?VERSION=5
+[2016/01/05 01:36:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\cmpqwemjahur.swf.
+[2016/01/05 01:36:23][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzznkrmsykdo.swf.
+[2016/01/05 01:37:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzbbgkikxpp/9.mp3?version=2
+[2016/01/05 01:37:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzbbgkikxpp\9.mp3.
+[2016/01/05 01:37:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzbbgkikxpp/10.mp3?version=2
+[2016/01/05 01:37:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzbbgkikxpp\10.mp3.
+[2016/01/05 01:37:42][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzbbgkikxpp/26.mp3?version=2
+[2016/01/05 01:37:43][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzbbgkikxpp\26.mp3.
+[2016/01/05 01:37:56][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:38:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzbbgkikxpp/15.mp3?version=2
+[2016/01/05 01:38:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzbbgkikxpp\15.mp3.
+[2016/01/05 01:40:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kclvjcqqulbluo/16.mp3?version=10
+[2016/01/05 01:40:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kclvjcqqulbluo\16.mp3.
+[2016/01/05 01:40:38][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzbbgkikxpp/21.mp3?version=2
+[2016/01/05 01:40:38][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzbbgkikxpp\21.mp3.
+[2016/01/05 01:41:13][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:41:55][2] : #1「演習反潛」出击海域「3-5 北方AL海域」。
+[2016/01/05 01:44:41][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcurpnkwaneqfb/21.mp3?version=5
+[2016/01/05 01:44:41][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcurpnkwaneqfb\21.mp3.
+[2016/01/05 01:45:36][2] : #1「演習反潛」回到母港。
+[2016/01/05 01:45:58][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcavfbkpphumso/12.mp3?version=9
+[2016/01/05 01:45:58][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcavfbkpphumso\12.mp3.
+[2016/01/05 10:06:59][2] : #2「第2艦隊」的远征「35: MO作戦」已归来。
+[2016/01/05 10:06:59][2] : 遠征結果 - 成功: 鋼材x240, ボーキサイトx280, 提督Exp+100, 艦娘Exp+100
+[2016/01/05 10:07:11][2] : #3「第3艦隊」的远征「40: 水上機前線輸送」已归来。
+[2016/01/05 10:07:11][2] : 遠征結果 - 成功: 燃料x300, 弾薬x300, ボーキサイトx100, 提督Exp+60, 艦娘Exp+140
+[2016/01/05 10:07:21][2] : #4「第4艦隊」的远征「36: 水上機基地建設」已归来。
+[2016/01/05 10:07:21][2] : 遠征結果 - 成功: 燃料x480, 鋼材x200, ボーキサイトx200, 家具箱（中）x1, 提督Exp+100, 艦娘Exp+100
+[2016/01/05 10:07:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcufgydlyjdaxb/12.mp3?version=6
+[2016/01/05 10:07:50][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcufgydlyjdaxb\12.mp3.
+[2016/01/05 10:08:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzlngqiqvig/12.mp3?version=20
+[2016/01/05 10:08:18][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzlngqiqvig\12.mp3.
+[2016/01/05 10:09:15][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ssvrjquubpim.swf?VERSION=10
+[2016/01/05 10:09:15][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ssvrjquubpim.swf.
+[2016/01/05 10:10:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcngcxxfxovpmn/13.mp3?version=7
+[2016/01/05 10:10:20][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcngcxxfxovpmn\13.mp3.
+[2016/01/05 10:10:39][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/05 10:10:50][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/05 10:10:59][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/05 10:11:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcxljtrrmemnon/9.mp3?version=10
+[2016/01/05 10:11:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcxljtrrmemnon\9.mp3.
+[2016/01/05 10:13:46][2] : 零式艦戦21型 已废弃。
+[2016/01/05 10:13:52][2] : 零式艦戦21型 已废弃。
+[2016/01/05 10:13:58][2] : 九六式艦戦 已废弃。
+[2016/01/05 10:14:49][2] : 12cm単装砲 已废弃。
+[2016/01/05 10:15:06][2] : 12.7cm連装高角砲 已废弃。
+[2016/01/05 10:15:42][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:15:47][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:15:53][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:15:59][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:04][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:10][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:16][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:21][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:27][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:34][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:39][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:45][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:16:51][2] : 7.7mm機銃 已废弃。
+[2016/01/05 10:17:10][2] : 12.7mm単装機銃 已废弃。
+[2016/01/05 10:17:15][2] : 12.7mm単装機銃 已废弃。
+[2016/01/05 10:17:22][2] : 12.7mm単装機銃 已废弃。
+[2016/01/05 10:17:28][2] : 12.7mm単装機銃 已废弃。
+[2016/01/05 10:17:33][2] : 12.7mm単装機銃 已废弃。
+[2016/01/05 10:17:41][2] : 25mm連装機銃 已废弃。
+[2016/01/05 10:18:24][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zzzhmiwrqvij.swf?VERSION=2
+[2016/01/05 10:18:25][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zzzhmiwrqvij.swf.
+[2016/01/05 10:27:52][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchfhcjjdyqyzn/16.mp3?version=11
+[2016/01/05 10:27:52][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchfhcjjdyqyzn\16.mp3.
+[2016/01/05 10:28:13][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kchfhcjjdyqyzn/23.mp3?version=11
+[2016/01/05 10:28:13][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kchfhcjjdyqyzn\23.mp3.
+[2016/01/05 10:30:18][2] : 小型電探「22号対水上電探」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:30:58][2] : 軽巡洋艦「北上」建造完毕。
+[2016/01/05 10:31:07][2] : 軽巡洋艦「北上」建造完毕。
+[2016/01/05 10:31:16][2] : 駆逐艦「望月」建造完毕。
+[2016/01/05 10:31:25][2] : 軽巡洋艦「球磨」建造完毕。
+[2016/01/05 10:31:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zrmviexnupjy.swf?VERSION=9
+[2016/01/05 10:31:32][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zrmviexnupjy.swf.
+[2016/01/05 10:31:37][2] : 工厂船坞 #1 开始建造 駆逐艦「初春」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:32:01][2] : 対空機銃「7.7mm機銃」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:32:12][2] : 対空機銃「12.7mm単装機銃」开发成功。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:32:21][2] : 开发失败。(20/20/250/250 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:32:46][2] : 工厂船坞 #2 开始建造 駆逐艦「満潮」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:32:49][2] : 工厂船坞 #3 开始建造 駆逐艦「如月」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:32:52][2] : 工厂船坞 #4 开始建造 駆逐艦「電」。(30/30/30/30-1 秘书舰: 赤城改 Lv. 113)
+[2016/01/05 10:33:13][2] : 望月 Lv. 1 已解体。
+[2016/01/05 10:33:19][2] : 如月 Lv. 1 已解体。
+[2016/01/05 10:34:07][2] : OTO 152mm三連装速射砲+3 の改修に成功しました。
+[2016/01/05 11:40:57][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/05 11:40:57][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+80
+[2016/01/05 11:41:18][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/05 12:24:30][2] : 窗口布局已保存。Settings\WindowLayout2.zip
+[2016/01/05 12:24:30][2] : 七四式電子観測儀 即将结束…
+[2016/01/05 12:24:32][2] : APIObserver: 监听终止。
+[2016/01/05 12:24:32][2] : 缓存列表已保存。
+[2016/01/05 12:24:33][2] : 记录已保存。
+[2016/01/05 12:24:33][2] : 结束处理完毕。
+[2016/01/06 11:57:02][2] : 缓存列表载入完毕。
+[2016/01/06 11:57:02][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/06 11:57:02][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/06 11:57:02][2] : 七四式電子観測儀 开始启动…
+[2016/01/06 11:57:03][2] : 记录已读取。
+[2016/01/06 11:57:04][2] : APIObserver: 端口 40620 开始监听。
+[2016/01/06 11:57:06][2] : 服务 API加载器(1.0.0.0) 已加载。
+[2016/01/06 11:57:06][2] : 服务 舰船编成服务(1.0.0.0) 已加载。
+[2016/01/06 11:57:06][2] : 服务 数据发送插件(2.0.0.1) 已加载。
+[2016/01/06 11:57:07][2] : 服务 舰队配置代码提取器(&F)(1.0.0.0) 已加载。
+[2016/01/06 11:57:07][2] : 服务 侠客行(1.0.0.2) 已加载。
+[2016/01/06 11:57:07][2] : 服务 远征助手(1.0.0.3) 已加载。
+[2016/01/06 11:57:07][2] : 服务 提醒插件(1.0.0.0) 已加载。
+[2016/01/06 11:57:18][2] : 窗口布局已恢复。Settings\WindowLayout2.zip
+[2016/01/06 11:57:19][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/06 11:57:19][3] : 启动处理完毕。
+[2016/01/06 11:58:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/06 11:58:10][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/06 11:58:19][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzscobmrrdb/42.mp3?version=15
+[2016/01/06 11:58:24][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzscobmrrdb\42.mp3.
+[2016/01/06 11:58:27][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/06 11:58:27][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+80
+[2016/01/06 11:59:22][2] : #3「第3艦隊」的远征「37: 東京急行」已归来。
+[2016/01/06 11:59:22][2] : 遠征結果 - 大成功: 弾薬x570, 鋼材x405, 提督Exp+100, 艦娘Exp+260
+[2016/01/06 11:59:40][2] : #4「第4艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/06 11:59:40][2] : 遠征結果 - 成功: 燃料x420, 鋼材x200, 提督Exp+50, 艦娘Exp+70
+[2016/01/06 12:00:12][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/06 12:00:50][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/06 12:00:59][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/06 12:01:24][2] : 窗口布局已保存。Settings\WindowLayout2.zip
+[2016/01/06 12:01:24][2] : 七四式電子観測儀 即将结束…
+[2016/01/06 12:01:26][2] : APIObserver: 监听终止。
+[2016/01/06 12:01:26][2] : 缓存列表已保存。
+[2016/01/06 12:01:27][2] : 记录已保存。
+[2016/01/06 12:01:27][2] : 结束处理完毕。
+[2016/01/06 12:05:46][2] : 缓存列表载入完毕。
+[2016/01/06 12:05:47][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/06 12:05:47][2] : CacheCore: 缓存设置载入。“C:\Users\mache_000\Documents\Kancolle\cache”
+[2016/01/06 12:05:47][2] : 七四式電子観測儀 开始启动…
+[2016/01/06 12:05:48][2] : 记录已读取。
+[2016/01/06 12:05:48][2] : APIObserver: 端口 40620 开始监听。
+[2016/01/06 12:05:50][2] : 服务 API加载器(1.0.0.0) 已加载。
+[2016/01/06 12:05:51][2] : 服务 舰船编成服务(1.0.0.0) 已加载。
+[2016/01/06 12:05:51][2] : 服务 数据发送插件(2.0.0.1) 已加载。
+[2016/01/06 12:05:51][2] : 服务 舰队配置代码提取器(&F)(1.0.0.0) 已加载。
+[2016/01/06 12:05:52][2] : 服务 侠客行(1.0.0.2) 已加载。
+[2016/01/06 12:05:52][2] : 服务 远征助手(1.0.0.3) 已加载。
+[2016/01/06 12:05:52][2] : 服务 提醒插件(1.0.0.0) 已加载。
+[2016/01/06 12:06:01][2] : 窗口布局已恢复。Settings\WindowLayout2.zip
+[2016/01/06 12:06:02][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/06 12:06:03][3] : 启动处理完毕。
+[2016/01/06 12:06:18][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/06 12:06:28][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/06 12:10:39][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczzzycgllqsxw/12.mp3?version=6
+[2016/01/06 12:10:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczzzycgllqsxw\12.mp3.
+[2016/01/06 13:04:10][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/13.mp3?version=8
+[2016/01/06 13:04:11][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\13.mp3.
+[2016/01/06 13:04:55][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/zlshfpystoqp.swf?VERSION=10
+[2016/01/06 13:04:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\zlshfpystoqp.swf.
+[2016/01/06 13:05:22][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/10.mp3?version=10
+[2016/01/06 13:05:22][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\10.mp3.
+[2016/01/06 13:05:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/26.mp3?version=10
+[2016/01/06 13:05:31][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\26.mp3.
+[2016/01/06 13:05:46][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/9.mp3?version=8
+[2016/01/06 13:05:47][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\9.mp3.
+[2016/01/06 13:05:51][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/10.mp3?version=8
+[2016/01/06 13:05:51][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\10.mp3.
+[2016/01/06 13:06:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/26.mp3?version=8
+[2016/01/06 13:06:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\26.mp3.
+[2016/01/06 13:08:45][2] : #1「第1艦隊」出击海域「4-5 カレー洋リランカ島沖」。
+[2016/01/06 13:09:27][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/17.mp3?version=8
+[2016/01/06 13:09:27][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\17.mp3.
+[2016/01/06 13:09:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/15.mp3?version=8
+[2016/01/06 13:09:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\15.mp3.
+[2016/01/06 13:09:49][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/21.mp3?version=10
+[2016/01/06 13:09:49][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\21.mp3.
+[2016/01/06 13:11:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/16.mp3?version=8
+[2016/01/06 13:11:07][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\16.mp3.
+[2016/01/06 13:11:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/23.mp3?version=8
+[2016/01/06 13:11:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\23.mp3.
+[2016/01/06 13:13:11][2] : 駆逐艦「磯波」已加入队伍。
+[2016/01/06 13:13:50][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/ljesxnctkmmf.swf?VERSION=9
+[2016/01/06 13:13:55][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\ljesxnctkmmf.swf.
+[2016/01/06 13:14:00][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcljesxnctkmmf/1.mp3?version=9
+[2016/01/06 13:14:00][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcljesxnctkmmf\1.mp3.
+[2016/01/06 13:15:35][2] : 駆逐艦「朝霜」已加入队伍。
+[2016/01/06 13:15:57][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/cdsgjcufyxlz.swf?VERSION=7
+[2016/01/06 13:16:02][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\cdsgjcufyxlz.swf.
+[2016/01/06 13:16:15][2] : #1「第1艦隊」回到母港。
+[2016/01/06 13:18:46][2] : #1「第1艦隊」出击海域「5-5 サーモン海域北方」。
+[2016/01/06 13:19:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/Core.swf?version=drnqclocqniv
+[2016/01/06 13:19:15][2] : 提督が鎮守府に着任しました。これより艦隊の指揮を執ります。
+[2016/01/06 13:19:20][2] : #1「第1艦隊」回到母港。
+[2016/01/06 13:19:38][2] : #1「第1艦隊」出击海域「4-5 カレー洋リランカ島沖」。
+[2016/01/06 13:20:45][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/15.mp3?version=10
+[2016/01/06 13:20:45][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\15.mp3.
+[2016/01/06 13:21:31][2] : 軽巡洋艦「名取」已加入队伍。
+[2016/01/06 13:21:54][2] : #1「第1艦隊」回到母港。
+[2016/01/06 13:22:06][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/12.mp3?version=11
+[2016/01/06 13:22:06][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\12.mp3.
+[2016/01/06 16:05:33][2] : #2「第2艦隊」的远征「5: 海上護衛任務」已归来。
+[2016/01/06 16:05:33][2] : 遠征結果 - 成功: 燃料x200, 弾薬x200, 鋼材x20, ボーキサイトx20, 提督Exp+40, 艦娘Exp+40
+[2016/01/06 16:05:44][2] : #3「第3艦隊」的远征「37: 東京急行」已归来。
+[2016/01/06 16:05:44][2] : 遠征結果 - 大成功: 弾薬x570, 鋼材x405, 家具箱（小）x1, 提督Exp+100, 艦娘Exp+260
+[2016/01/06 16:05:56][2] : #4「第4艦隊」的远征「38: 東京急行(弐)」已归来。
+[2016/01/06 16:05:56][2] : 遠征結果 - 成功: 燃料x420, 鋼材x200, 家具箱（小）x1, 提督Exp+50, 艦娘Exp+70
+[2016/01/06 16:06:24][2] : #2「第2艦隊」已出击远征「5: 海上護衛任務」。
+[2016/01/06 16:06:38][2] : #3「第3艦隊」已出击远征「37: 東京急行」。
+[2016/01/06 16:06:47][2] : #4「第4艦隊」已出击远征「38: 東京急行(弐)」。
+[2016/01/06 16:07:39][2] : #1「第1艦隊」出击海域「4-5 カレー洋リランカ島沖」。
+[2016/01/06 16:09:00][2] : 駆逐艦「雷」已加入队伍。
+[2016/01/06 16:12:47][2] : 巡洋戦艦「榛名」已加入队伍。
+[2016/01/06 16:15:37][2] : 重巡洋艦「高雄」已加入队伍。
+[2016/01/06 16:15:53][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcecwgnneuzbcv/23.mp3?version=10
+[2016/01/06 16:15:54][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcecwgnneuzbcv\23.mp3.
+[2016/01/06 16:16:11][2] : #1「第1艦隊」回到母港。
+[2016/01/06 16:17:24][2] : #1「第1艦隊」出击海域「4-5 カレー洋リランカ島沖」。
+[2016/01/06 16:18:47][2] : 駆逐艦「雷」已加入队伍。
+[2016/01/06 16:22:01][2] : 軽空母「鳳翔」已加入队伍。
+[2016/01/06 16:23:31][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/21.mp3?version=8
+[2016/01/06 16:23:32][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\21.mp3.
+[2016/01/06 16:24:32][2] : 戦艦「伊勢」已加入队伍。
+[2016/01/06 16:24:55][2] : #1「第1艦隊」回到母港。
+[2016/01/06 16:25:19][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kckadfixosusrf/27.mp3?version=11
+[2016/01/06 16:25:19][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kckadfixosusrf\27.mp3.
+[2016/01/06 16:28:04][2] : #1「第1艦隊」出击海域「4-5 カレー洋リランカ島沖」。
+[2016/01/06 16:32:29][2] : 重巡洋艦「足柄」已加入队伍。
+[2016/01/06 16:32:51][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcopprvckvhrkv/1.mp3?version=10
+[2016/01/06 16:32:52][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcopprvckvhrkv\1.mp3.
+[2016/01/06 16:34:30][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcilnimhfcivpt/20.mp3?version=8
+[2016/01/06 16:34:30][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcilnimhfcivpt\20.mp3.
+[2016/01/06 16:35:03][2] : 重巡洋艦「青葉」已加入队伍。
+[2016/01/06 16:35:52][2] : #1「第1艦隊」回到母港。
+[2016/01/06 16:42:14][2] : #1「第1艦隊」出击海域「4-5 カレー洋リランカ島沖」。
+[2016/01/06 16:49:19][2] : 重巡洋艦「古鷹」已加入队伍。
+[2016/01/06 16:49:34][2] : 重新下载缓存文件: http://203.104.209.55/kcs/resources/swf/ships/sfbwblstvfmw.swf?VERSION=13
+[2016/01/06 16:49:34][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\resources\swf\ships\sfbwblstvfmw.swf.
+[2016/01/06 16:49:40][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcsfbwblstvfmw/1.mp3?version=13
+[2016/01/06 16:49:40][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcsfbwblstvfmw\1.mp3.
+[2016/01/06 16:49:49][2] : #1「第1艦隊」回到母港。
+[2016/01/06 16:52:47][2] : #1「第1艦隊」出击海域「4-2 カレー洋制圧戦」。
+[2016/01/06 16:56:17][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kczoaptkoerfpv/19.mp3?version=4
+[2016/01/06 16:56:18][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kczoaptkoerfpv\19.mp3.
+[2016/01/06 16:56:20][2] : 重新下载缓存文件: http://203.104.209.55/kcs/sound/kcjdsszkolhitg/19.mp3?version=4
+[2016/01/06 16:56:21][2] : 更新缓存文件： C:\Users\mache_000\Documents\Kancolle\cache\kcs\sound\kcjdsszkolhitg\19.mp3.
+[2016/01/06 16:56:36][2] : 重巡洋艦「鳥海」已加入队伍。
+[2016/01/06 16:57:02][2] : #1「第1艦隊」回到母港。
+[2016/01/06 16:58:04][2] : #1「第1艦隊」出击海域「4-2 カレー洋制圧戦」。
+[2016/01/06 17:01:53][2] : 軽空母「祥鳳」已加入队伍。
+[2016/01/06 17:02:15][2] : #1「第1艦隊」回到母港。
+[2016/01/06 17:15:57][2] : 窗口布局已保存。Settings\WindowLayout2.zip
+[2016/01/06 17:15:57][2] : 七四式電子観測儀 即将结束…
+[2016/01/06 17:15:59][2] : APIObserver: 监听终止。
+[2016/01/06 17:15:59][2] : 缓存列表已保存。
+[2016/01/06 17:15:59][2] : 记录已保存。
+[2016/01/06 17:16:00][2] : 结束处理完毕。
