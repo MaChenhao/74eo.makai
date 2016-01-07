@@ -1,5 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Configuration xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility">
+	<BGMPlayer>
+		<Enabled>false</Enabled>
+		<Handles>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>Port</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>Sortie</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>BattleDay</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>BattleNight</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>BattleAir</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>BattleBoss</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>BattlePracticeDay</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>BattlePracticeNight</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>ResultWin</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>ResultLose</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>ResultBossWin</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>Record</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>Item</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>Quest</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>Album</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+			<SoundHandle>
+				<Enabled>true</Enabled>
+				<HandleID>ImprovementArsenal</HandleID>
+				<IsLoop>true</IsLoop>
+				<LoopHeadPosition>0</LoopHeadPosition>
+				<Path></Path>
+				<Volume>100</Volume>
+			</SoundHandle>
+		</Handles>
+	</BGMPlayer>
 	<CacheSettings>
 		<CacheEnabled>true</CacheEnabled>
 		<CacheEntryFiles>2</CacheEntryFiles>
@@ -20,7 +153,6 @@
 		<EnableSslUpstreamProxy>true</EnableSslUpstreamProxy>
 		<Port>40620</Port>
 		<RegisterAsSystemProxy>false</RegisterAsSystemProxy>
-		<SaveDataFilter></SaveDataFilter>
 		<SaveDataPath>KCAPI</SaveDataPath>
 		<SaveOtherFile>false</SaveOtherFile>
 		<SaveReceivedData>false</SaveReceivedData>
@@ -36,6 +168,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<RecordAutoSaving>1</RecordAutoSaving>
+		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
 	<Debug>
 		<APIListPath></APIListPath>
@@ -101,7 +234,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,333,166</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,319,159</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
@@ -116,11 +249,13 @@ body {
 		<SplitterDistance>40</SplitterDistance>
 	</FormShipGroup>
 	<Life>
+		<CanCloseFloatWindowInLock>false</CanCloseFloatWindowInLock>
 		<CheckUpdateInformation>true</CheckUpdateInformation>
 		<ClockFormat>0</ClockFormat>
 		<ConfirmOnClosing>true</ConfirmOnClosing>
 		<IsLocked>true</IsLocked>
 		<LayoutFilePath>Settings\WindowLayout.zip</LayoutFilePath>
+		<LockLayout>false</LockLayout>
 		<ShowStatusBar>true</ShowStatusBar>
 		<TopMost>false</TopMost>
 	</Life>
@@ -157,10 +292,12 @@ body {
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
+		<LoopsSound>false</LoopsSound>
 		<PlaysSound>true</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath>poi.wav</SoundPath>
+		<SoundVolume>100</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierCondition>
 	<NotifierConstruction>
@@ -184,10 +321,12 @@ body {
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
+		<LoopsSound>false</LoopsSound>
 		<PlaysSound>false</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath></SoundPath>
+		<SoundVolume>100</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierConstruction>
 	<NotifierDamage>
@@ -211,10 +350,12 @@ body {
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
+		<LoopsSound>false</LoopsSound>
 		<PlaysSound>false</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath></SoundPath>
+		<SoundVolume>100</SoundVolume>
 		<TopMost>true</TopMost>
 		<ContainsFlagship>true</ContainsFlagship>
 		<ContainsNotLockedShip>true</ContainsNotLockedShip>
@@ -246,10 +387,12 @@ body {
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
+		<LoopsSound>false</LoopsSound>
 		<PlaysSound>true</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath>poi.wav</SoundPath>
+		<SoundVolume>100</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierExpedition>
 	<NotifierRepair>
@@ -273,10 +416,12 @@ body {
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
+		<LoopsSound>false</LoopsSound>
 		<PlaysSound>true</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath>poi.wav</SoundPath>
+		<SoundVolume>100</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierRepair>
 	<UI>
@@ -284,6 +429,45 @@ body {
 		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializedColor>FFF5F5F5</d3p1:SerializedColor>
 		</BackColor>
+		<BarColorMorphing>false</BarColorMorphing>
+		<BarColorScheme xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FFFF0000</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FFFF0000</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FFFF8800</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FFFF8800</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FFFFCC00</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FFFFCC00</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FF00CC00</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FF00CC00</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FF0044CC</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FF44FF00</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FF882222</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+			<d3p1:SerializableColor>
+				<d3p1:SerializedColor>FF888888</d3p1:SerializedColor>
+			</d3p1:SerializableColor>
+		</BarColorScheme>
 		<ButtonBackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializedColor>FFF0F0F0</d3p1:SerializedColor>
 		</ButtonBackColor>
@@ -388,8 +572,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.0.3</Version>
-	<VersionUpdateTime>2015/12/10 01:00:00</VersionUpdateTime>
+	<Version>2.1.0</Version>
+	<VersionUpdateTime>2016/01/02 12:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
