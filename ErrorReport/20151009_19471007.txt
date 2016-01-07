@@ -1,9 +1,0 @@
-错误报告日期 : 2015/10/9 PM 7:47:10
-错误 : Exception
-http://203.104.209.55/kcs/sound/titlecall/a/10.mp3
-追加信息 : 返回错误状态码：500
-堆栈信息：
-
-
-通信内容 : http://203.104.209.55/kcs/sound/titlecall/a/10.mp3
-无法连接到 http://acgpower.blob.core.chinacloudapi.cn/kcs/sound/titlecall/a/10.mp3

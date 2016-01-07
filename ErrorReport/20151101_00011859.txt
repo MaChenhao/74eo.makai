@@ -1,7 +1,0 @@
-错误报告日期 : 11/1/2015 12:01:18 AM
-错误 : WebException
-The remote server returned an error: (502) Bad Gateway.
-追加信息 : 送信至 poi-statistics 失败
-堆栈信息：
-   at System.Net.HttpWebRequest.GetResponse()
-   at ElectronicObserver.Observer.APIPoiSender.Report(String data, String apiname)
