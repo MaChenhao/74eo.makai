@@ -234,7 +234,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,236,114</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,331,168</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
@@ -297,7 +297,7 @@ body {
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath>poi.wav</SoundPath>
-		<SoundVolume>100</SoundVolume>
+		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierCondition>
 	<NotifierConstruction>
@@ -326,7 +326,7 @@ body {
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath></SoundPath>
-		<SoundVolume>100</SoundVolume>
+		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierConstruction>
 	<NotifierDamage>
@@ -392,7 +392,7 @@ body {
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath>poi.wav</SoundPath>
-		<SoundVolume>100</SoundVolume>
+		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierExpedition>
 	<NotifierRepair>
@@ -421,7 +421,7 @@ body {
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
 		<SoundPath>poi.wav</SoundPath>
-		<SoundVolume>100</SoundVolume>
+		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierRepair>
 	<UI>
