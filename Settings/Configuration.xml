@@ -132,6 +132,7 @@
 				<Volume>100</Volume>
 			</SoundHandle>
 		</Handles>
+		<SyncBrowserMute>false</SyncBrowserMute>
 	</BGMPlayer>
 	<CacheSettings>
 		<CacheEnabled>true</CacheEnabled>
@@ -167,6 +168,8 @@
 	</Connection>
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
+		<LastIsMute>false</LastIsMute>
+		<LastVolume>0.5</LastVolume>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
@@ -215,8 +218,7 @@ body {
 	</FormBrowser>
 	<FormFleet>
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
-		<BarColorMorphing>false</BarColorMorphing>
-		<FixShipNameWidth>true</FixShipNameWidth>
+		<FixShipNameWidth>false</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
 		<SearchingAbilityMethod>1</SearchingAbilityMethod>
 		<ShortenHPBar>true</ShortenHPBar>
@@ -234,7 +236,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,245,122</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,319,159</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
@@ -246,7 +248,6 @@ body {
 	<FormShipGroup>
 		<AutoUpdate>true</AutoUpdate>
 		<ShowStatusBar>true</ShowStatusBar>
-		<SplitterDistance>40</SplitterDistance>
 	</FormShipGroup>
 	<Life>
 		<CanCloseFloatWindowInLock>false</CanCloseFloatWindowInLock>
@@ -572,8 +573,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.1.0</Version>
-	<VersionUpdateTime>2016/01/02 12:00:00</VersionUpdateTime>
+	<Version>2.1.2</Version>
+	<VersionUpdateTime>2016/01/17 23:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
