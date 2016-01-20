@@ -67,7 +67,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>201,316,199,83,82,337,1,335,6971,6,30,5170,348,12392,10724,6688,39,6697,179,914,86,617,875,1818,1075,7716,897,6548,8747,5847,5941,1565,1581,5463,5169,6734</d4p1:SerializedList>
+				<d4p1:SerializedList>201,316,199,83,82,337,335,6971,6,30,5170,348,12392,10724,6688,39,6697,179,914,86,617,875,1818,1075,7716,897,6548,8747,5847,5941,1565,1581,5463,5169,6734</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>入渠</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -559,7 +559,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>70,1410,27,59,10,6719,80,13,938,525,28,795,6749</d4p1:SerializedList>
+				<d4p1:SerializedList>70,1410,27,59,32,80,13,938,525,28,795,6749</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>明石</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -2083,7 +2083,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>900,1247,298</d4p1:SerializedList>
+				<d4p1:SerializedList>2924,2472,795,900,938,1247,682,298</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>潜艇</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -4063,7 +4063,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>715</d4p1:SerializedList>
+				<d4p1:SerializedList>3496,715</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>轻母</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>

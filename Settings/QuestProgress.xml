@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-01-20T17:05:57.4357409+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-01-20T18:38:20.526042+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressExpedition">
 			<Progress>5</Progress>
