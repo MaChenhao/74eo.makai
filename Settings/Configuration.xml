@@ -135,7 +135,7 @@
 		<SyncBrowserMute>false</SyncBrowserMute>
 	</BGMPlayer>
 	<CacheSettings>
-		<CacheEnabled>true</CacheEnabled>
+		<CacheEnabled>false</CacheEnabled>
 		<CacheEntryFiles>2</CacheEntryFiles>
 		<CacheFolder>C:\Users\mache_000\Documents\Kancolle\cache</CacheFolder>
 		<CachePortFiles>2</CachePortFiles>
@@ -218,7 +218,7 @@ body {
 	</FormBrowser>
 	<FormFleet>
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
-		<FixShipNameWidth>false</FixShipNameWidth>
+		<FixShipNameWidth>true</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
 		<SearchingAbilityMethod>1</SearchingAbilityMethod>
 		<ShortenHPBar>true</ShortenHPBar>
@@ -236,7 +236,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,319,159</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,225,112</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
