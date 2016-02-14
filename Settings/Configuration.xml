@@ -216,6 +216,9 @@ body {
 		<ZoomFit>true</ZoomFit>
 		<ZoomRate>150</ZoomRate>
 	</FormBrowser>
+	<FormCompass>
+		<CandidateDisplayCount>4</CandidateDisplayCount>
+	</FormCompass>
 	<FormFleet>
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
 		<FixShipNameWidth>false</FixShipNameWidth>
@@ -573,8 +576,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.1.2</Version>
-	<VersionUpdateTime>2016/01/17 23:00:00</VersionUpdateTime>
+	<Version>2.1.4</Version>
+	<VersionUpdateTime>2016/02/11 02:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
