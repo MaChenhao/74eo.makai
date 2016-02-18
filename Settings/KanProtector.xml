@@ -130,5 +130,7 @@
     <Equipment EquipmentID="149" />
     <Equipment EquipmentID="150" />
     <Equipment EquipmentID="57" />
+    <Equipment EquipmentID="44" />
+    <Equipment EquipmentID="46" />
   </EquipmentProtection>
 </Config>
