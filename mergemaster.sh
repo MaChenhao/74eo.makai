@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 git add -A
-git commit
+git commit -m Backup
 git co master
 git pull
 git co tablet
