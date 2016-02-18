@@ -135,9 +135,9 @@
 		<SyncBrowserMute>false</SyncBrowserMute>
 	</BGMPlayer>
 	<CacheSettings>
-		<CacheEnabled>false</CacheEnabled>
+		<CacheEnabled>true</CacheEnabled>
 		<CacheEntryFiles>2</CacheEntryFiles>
-		<CacheFolder>E:\3136\Kancolle\Cache</CacheFolder>
+		<CacheFolder>C:\Users\mch\Documents\3136\Kancolle\Cache</CacheFolder>
 		<CachePortFiles>2</CachePortFiles>
 		<CacheResourceFiles>2</CacheResourceFiles>
 		<CacheSceneFiles>2</CacheSceneFiles>
@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
@@ -239,7 +239,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,319,159</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,331,168</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
