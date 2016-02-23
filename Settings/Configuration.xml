@@ -240,7 +240,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,30,40,236,118</d3p1:SerializedList>
+			<d3p1:SerializedList>24,30,40,333,166</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
@@ -538,6 +538,12 @@ body {
 		<LateModelColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializedColor>FF0088FF</d3p1:SerializedColor>
 		</LateModelColor>
+		<LateModelEliteColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF880000</d3p1:SerializedColor>
+		</LateModelEliteColor>
+		<LateModelFlagshipColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF884400</d3p1:SerializedColor>
+		</LateModelFlagshipColor>
 		<LineColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializedColor>FFA0A0A0</d3p1:SerializedColor>
 		</LineColor>
