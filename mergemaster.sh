@@ -1,8 +1,7 @@
 #!/usr/bin/bash
 
 cd ~/Kancolle/74eo.makai
-git add -A
-git commit -m Backup
+git commit -a -m Backup
 git co master
 git pull
 git co tablet
