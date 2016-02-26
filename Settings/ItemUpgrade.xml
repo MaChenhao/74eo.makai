@@ -26,7 +26,7 @@
   <Filter EquipmentName="61cm三連装(酸素)魚雷" Disabled="True" />
   <Filter EquipmentName="61cm四連装魚雷" Disabled="True" />
   <Filter EquipmentName="61cm四連装(酸素)魚雷" Disabled="True" />
-  <Filter EquipmentName="61cm五連装(酸素)魚雷" Disabled="False" />
+  <Filter EquipmentName="61cm五連装(酸素)魚雷" Disabled="True" />
   <Filter EquipmentName="13号対空電探" Disabled="True" />
   <Filter EquipmentName="13号対空電探改" Disabled="True" />
   <Filter EquipmentName="22号対水上電探" Disabled="True" />
@@ -39,9 +39,9 @@
   <Filter EquipmentName="三式水中探信儀" Disabled="False" />
   <Filter EquipmentName="四式水中聴音機" Disabled="True" />
   <Filter EquipmentName="九四式爆雷投射機" Disabled="True" />
-  <Filter EquipmentName="三式爆雷投射機" Disabled="False" />
-  <Filter EquipmentName="九一式徹甲弾" Disabled="False" />
-  <Filter EquipmentName="一式徹甲弾" Disabled="True" />
+  <Filter EquipmentName="三式爆雷投射機" Disabled="True" />
+  <Filter EquipmentName="九一式徹甲弾" Disabled="True" />
+  <Filter EquipmentName="一式徹甲弾" Disabled="False" />
   <Filter EquipmentName="25mm連装機銃" Disabled="True" />
   <Filter EquipmentName="25mm三連装機銃" Disabled="True" />
   <Filter EquipmentName="91式高射装置" Disabled="True" />

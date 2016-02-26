@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-02-26T06:58:51.1645629+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-02-26T17:38:48.2067647+08:00</LastUpdateTime>
 	<SerializedProgresses>
-		<ProgressData i:type="ProgressModernization">
+		<ProgressData i:type="ProgressBattle">
 			<Progress>0</Progress>
-			<ProgressMax>2</ProgressMax>
-			<QuestID>702</QuestID>
-			<QuestType>2</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635920666110480573</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>2</Type>
-		</ProgressData>
-		<ProgressData i:type="ProgressDevelopment">
-			<Progress>0</Progress>
-			<ProgressMax>1</ProgressMax>
-			<QuestID>605</QuestID>
-			<QuestType>2</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635920666110480573</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>2</Type>
-		</ProgressData>
-		<ProgressData i:type="ProgressDocking">
-			<Progress>4</Progress>
 			<ProgressMax>5</ProgressMax>
 			<QuestID>503</QuestID>
 			<QuestType>2</QuestType>
@@ -60,7 +40,7 @@
 			<QuestID>201</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635920665926424917</StartTimeTicks>
+			<StartTimeTicks>635921051282067647</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>false</IsBossOnly>
