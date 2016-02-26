@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
