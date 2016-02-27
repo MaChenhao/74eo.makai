@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-02-27T10:10:02.24506+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-02-27T20:13:46.1968945+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressDocking">
 			<Progress>2</Progress>
@@ -35,12 +35,12 @@
 			<WinOnly>true</WinOnly>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
-			<Progress>0</Progress>
-			<ProgressMax>1</ProgressMax>
-			<QuestID>201</QuestID>
+			<Progress>1</Progress>
+			<ProgressMax>5</ProgressMax>
+			<QuestID>226</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635921589724869793</StartTimeTicks>
+			<StartTimeTicks>635921872820941818</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>false</IsBossOnly>
