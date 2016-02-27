@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-02-26T17:38:48.2067647+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-02-27T10:10:02.24506+08:00</LastUpdateTime>
 	<SerializedProgresses>
-		<ProgressData i:type="ProgressBattle">
-			<Progress>0</Progress>
+		<ProgressData i:type="ProgressDocking">
+			<Progress>2</Progress>
 			<ProgressMax>5</ProgressMax>
 			<QuestID>503</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635920666110480573</StartTimeTicks>
+			<StartTimeTicks>635921589792288813</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 		</ProgressData>
 		<ProgressData i:type="ProgressExpedition">
-			<Progress>0</Progress>
-			<ProgressMax>10</ProgressMax>
-			<QuestID>403</QuestID>
+			<Progress>3</Progress>
+			<ProgressMax>3</ProgressMax>
+			<QuestID>402</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635920667265689926</StartTimeTicks>
-			<TemporaryProgress>3</TemporaryProgress>
+			<StartTimeTicks>635921589724939996</StartTimeTicks>
+			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
 		</ProgressData>
 		<ProgressData i:type="ProgressPractice">
-			<Progress>0</Progress>
-			<ProgressMax>3</ProgressMax>
-			<QuestID>303</QuestID>
+			<Progress>2</Progress>
+			<ProgressMax>5</ProgressMax>
+			<QuestID>304</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635920665926505058</StartTimeTicks>
+			<StartTimeTicks>635921639596681644</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
-			<WinOnly>false</WinOnly>
+			<WinOnly>true</WinOnly>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>0</Progress>
@@ -40,7 +40,7 @@
 			<QuestID>201</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635921051282067647</StartTimeTicks>
+			<StartTimeTicks>635921589724869793</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>false</IsBossOnly>
