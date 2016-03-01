@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>1</LastVolume>
+		<LastVolume>0.5</LastVolume>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
@@ -240,7 +240,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,203,279</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,339</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
@@ -583,8 +583,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.1.5.1</Version>
-	<VersionUpdateTime>2016/02/20 13:00:00</VersionUpdateTime>
+	<Version>2.1.6</Version>
+	<VersionUpdateTime>2016/02/29 22:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
