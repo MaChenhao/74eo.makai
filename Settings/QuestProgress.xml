@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-03-03T21:36:28.85856+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-03-06T19:39:06.8908234+08:00</LastUpdateTime>
 	<SerializedProgresses>
-		<ProgressData i:type="ProgressBattle">
-			<Progress>1</Progress>
-			<ProgressMax>3</ProgressMax>
-			<QuestID>261</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635926368642742903</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<IsBossOnly>true</IsBossOnly>
-			<LowestRank>5</LowestRank>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>15</d4p1:int>
-			</TargetArea>
-		</ProgressData>
-		<ProgressData i:type="ProgressBattle">
-			<Progress>2</Progress>
-			<ProgressMax>5</ProgressMax>
-			<QuestID>241</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635923761732639665</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<IsBossOnly>true</IsBossOnly>
-			<LowestRank>4</LowestRank>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>33</d4p1:int>
-				<d4p1:int>34</d4p1:int>
-				<d4p1:int>35</d4p1:int>
-			</TargetArea>
-		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>0</Progress>
 			<ProgressMax>3</ProgressMax>
@@ -50,25 +18,6 @@
 			</TargetArea>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
-			<Progress>2</Progress>
-			<ProgressMax>5</ProgressMax>
-			<QuestID>226</QuestID>
-			<QuestType>2</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635926339995869340</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>2</Type>
-			<IsBossOnly>true</IsBossOnly>
-			<LowestRank>4</LowestRank>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>21</d4p1:int>
-				<d4p1:int>22</d4p1:int>
-				<d4p1:int>23</d4p1:int>
-				<d4p1:int>24</d4p1:int>
-				<d4p1:int>25</d4p1:int>
-			</TargetArea>
-		</ProgressData>
-		<ProgressData i:type="ProgressBattle">
 			<Progress>1</Progress>
 			<ProgressMax>10</ProgressMax>
 			<QuestID>265</QuestID>
@@ -81,6 +30,25 @@
 			<LowestRank>5</LowestRank>
 			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
 				<d4p1:int>15</d4p1:int>
+			</TargetArea>
+		</ProgressData>
+		<ProgressData i:type="ProgressBattle">
+			<Progress>0</Progress>
+			<ProgressMax>5</ProgressMax>
+			<QuestID>226</QuestID>
+			<QuestType>2</QuestType>
+			<SharedCounterShift>0</SharedCounterShift>
+			<StartTimeTicks>635928899298303013</StartTimeTicks>
+			<TemporaryProgress>0</TemporaryProgress>
+			<Type>2</Type>
+			<IsBossOnly>true</IsBossOnly>
+			<LowestRank>4</LowestRank>
+			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:int>21</d4p1:int>
+				<d4p1:int>22</d4p1:int>
+				<d4p1:int>23</d4p1:int>
+				<d4p1:int>24</d4p1:int>
+				<d4p1:int>25</d4p1:int>
 			</TargetArea>
 		</ProgressData>
 	</SerializedProgresses>
