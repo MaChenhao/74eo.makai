@@ -8,14 +8,17 @@
   <Filter EquipmentName="15.2cm連装砲改" Disabled="True" />
   <Filter EquipmentName="15.5cm三連装砲" Disabled="True" />
   <Filter EquipmentName="20.3cm連装砲" Disabled="True" />
-  <Filter EquipmentName="20.3cm(2号)連装砲" Disabled="False" />
+  <Filter EquipmentName="20.3cm(2号)連装砲" Disabled="True" />
   <Filter EquipmentName="20.3cm(3号)連装砲" Disabled="True" />
   <Filter EquipmentName="35.6cm連装砲" Disabled="True" />
+  <Filter EquipmentName="試製35.6cm三連装砲" Disabled="False" />
+  <Filter EquipmentName="35.6cm連装砲(ダズル迷彩)" Disabled="True" />
   <Filter EquipmentName="38cm連装砲" Disabled="True" />
   <Filter EquipmentName="38cm連装砲改" Disabled="True" />
   <Filter EquipmentName="381mm/50 三連装砲" Disabled="True" />
   <Filter EquipmentName="381mm/50 三連装砲改" Disabled="False" />
   <Filter EquipmentName="41cm連装砲" Disabled="True" />
+  <Filter EquipmentName="試製41cm三連装砲" Disabled="False" />
   <Filter EquipmentName="試製46cm連装砲" Disabled="False" />
   <Filter EquipmentName="46cm三連装砲" Disabled="False" />
   <Filter EquipmentName="試製51cm連装砲" Disabled="False" />
@@ -36,7 +39,7 @@
   <Filter EquipmentName="32号対水上電探" Disabled="True" />
   <Filter EquipmentName="32号対水上電探改" Disabled="True" />
   <Filter EquipmentName="九三式水中聴音機" Disabled="True" />
-  <Filter EquipmentName="三式水中探信儀" Disabled="False" />
+  <Filter EquipmentName="三式水中探信儀" Disabled="True" />
   <Filter EquipmentName="四式水中聴音機" Disabled="True" />
   <Filter EquipmentName="九四式爆雷投射機" Disabled="True" />
   <Filter EquipmentName="三式爆雷投射機" Disabled="True" />
@@ -48,4 +51,6 @@
   <Filter EquipmentName="94式高射装置" Disabled="True" />
   <Filter EquipmentName="探照灯" Disabled="True" />
   <Filter EquipmentName="96式150cm探照灯" Disabled="True" />
+  <Filter EquipmentName="零式水上観測機" Disabled="True" />
+  <Filter EquipmentName="Ro.43水偵" Disabled="True" />
 </Config>
