@@ -135,7 +135,7 @@
 		<SyncBrowserMute>false</SyncBrowserMute>
 	</BGMPlayer>
 	<CacheSettings>
-		<CacheEnabled>false</CacheEnabled>
+		<CacheEnabled>true</CacheEnabled>
 		<CacheEntryFiles>2</CacheEntryFiles>
 		<CacheFolder>C:\Users\mache_000\Documents\Kancolle\cache</CacheFolder>
 		<CachePortFiles>2</CachePortFiles>
