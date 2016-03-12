@@ -163,7 +163,9 @@
 		<SendDataToKancolleDB>false</SendDataToKancolleDB>
 		<SendKancolleOAuth></SendKancolleOAuth>
 		<UpstreamProxyAddress>127.0.0.1</UpstreamProxyAddress>
+		<UpstreamProxyAddressSSL>127.0.0.1</UpstreamProxyAddressSSL>
 		<UpstreamProxyPort>8123</UpstreamProxyPort>
+		<UpstreamProxyPortSSL>0</UpstreamProxyPortSSL>
 		<UseUpstreamProxy>true</UseUpstreamProxy>
 	</Connection>
 	<Control>
