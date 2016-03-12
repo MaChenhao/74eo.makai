@@ -163,13 +163,15 @@
 		<SendDataToKancolleDB>false</SendDataToKancolleDB>
 		<SendKancolleOAuth></SendKancolleOAuth>
 		<UpstreamProxyAddress>127.0.0.1</UpstreamProxyAddress>
+		<UpstreamProxyAddressSSL>127.0.0.1</UpstreamProxyAddressSSL>
 		<UpstreamProxyPort>8123</UpstreamProxyPort>
+		<UpstreamProxyPortSSL>0</UpstreamProxyPortSSL>
 		<UseUpstreamProxy>true</UseUpstreamProxy>
 	</Connection>
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
