@@ -226,6 +226,7 @@ body {
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
 		<FixShipNameWidth>false</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
+		<SearchingAbilities>33式;2-5式(秋);2-5新秋簡易式;(旧)2-5式</SearchingAbilities>
 		<SearchingAbilityMethod>1</SearchingAbilityMethod>
 		<ShortenHPBar>false</ShortenHPBar>
 		<ShowAircraft>true</ShowAircraft>
