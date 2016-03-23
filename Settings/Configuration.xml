@@ -182,6 +182,7 @@
 		<LoadAPIListOnLoad>false</LoadAPIListOnLoad>
 	</Debug>
 	<FormArsenal>
+		<BlinkAtCompletion>true</BlinkAtCompletion>
 		<ShowShipName>true</ShowShipName>
 	</FormArsenal>
 	<FormBattle>
@@ -222,9 +223,13 @@ body {
 	<FormCompass>
 		<CandidateDisplayCount>4</CandidateDisplayCount>
 	</FormCompass>
+	<FormDock>
+		<BlinkAtCompletion>true</BlinkAtCompletion>
+	</FormDock>
 	<FormFleet>
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
-		<FixShipNameWidth>true</FixShipNameWidth>
+		<BlinkAtCompletion>true</BlinkAtCompletion>
+		<FixShipNameWidth>false</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
 		<SearchingAbilities>33式;2-5式(秋);2-5新秋簡易式;(旧)2-5式</SearchingAbilities>
 		<SearchingAbilityMethod>1</SearchingAbilityMethod>
@@ -243,7 +248,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,215</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,360</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
@@ -586,8 +591,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.1.6</Version>
-	<VersionUpdateTime>2016/02/29 22:00:00</VersionUpdateTime>
+	<Version>2.1.7</Version>
+	<VersionUpdateTime>2016/03/21 21:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
