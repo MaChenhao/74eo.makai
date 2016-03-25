@@ -165,13 +165,13 @@
 		<UpstreamProxyAddress>127.0.0.1</UpstreamProxyAddress>
 		<UpstreamProxyAddressSSL>127.0.0.1</UpstreamProxyAddressSSL>
 		<UpstreamProxyPort>8123</UpstreamProxyPort>
-		<UpstreamProxyPortSSL>0</UpstreamProxyPortSSL>
+		<UpstreamProxyPortSSL>8123</UpstreamProxyPortSSL>
 		<UseUpstreamProxy>true</UseUpstreamProxy>
 	</Connection>
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
@@ -229,7 +229,7 @@ body {
 	<FormFleet>
 		<AirSuperiorityMethod>1</AirSuperiorityMethod>
 		<BlinkAtCompletion>true</BlinkAtCompletion>
-		<FixShipNameWidth>false</FixShipNameWidth>
+		<FixShipNameWidth>true</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
 		<SearchingAbilities>33式;2-5式(秋);2-5新秋簡易式;(旧)2-5式</SearchingAbilities>
 		<SearchingAbilityMethod>1</SearchingAbilityMethod>
@@ -248,7 +248,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,360</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,215</d3p1:SerializedList>
 		</ColumnWidth>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
