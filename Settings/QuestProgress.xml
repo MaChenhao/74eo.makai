@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-03-31T19:17:52.0183313+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-04-02T19:33:45.8982716+08:00</LastUpdateTime>
 	<SerializedProgresses>
-		<ProgressData i:type="ProgressSlaughter">
-			<Progress>40</Progress>
-			<ProgressMax>50</ProgressMax>
-			<QuestID>221</QuestID>
-			<QuestType>3</QuestType>
+		<ProgressData i:type="ProgressBattle">
+			<Progress>0</Progress>
+			<ProgressMax>10</ProgressMax>
+			<QuestID>265</QuestID>
+			<QuestType>6</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635948753725652335</StartTimeTicks>
+			<StartTimeTicks>635951387329717609</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<TargetShipType xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+			<Type>6</Type>
+			<IsBossOnly>true</IsBossOnly>
+			<LowestRank>5</LowestRank>
+			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
 				<d4p1:int>15</d4p1:int>
-			</TargetShipType>
+			</TargetArea>
+		</ProgressData>
+		<ProgressData i:type="ProgressBattle">
+			<Progress>2</Progress>
+			<ProgressMax>3</ProgressMax>
+			<QuestID>256</QuestID>
+			<QuestType>6</QuestType>
+			<SharedCounterShift>0</SharedCounterShift>
+			<StartTimeTicks>635951356785979273</StartTimeTicks>
+			<TemporaryProgress>0</TemporaryProgress>
+			<Type>6</Type>
+			<IsBossOnly>true</IsBossOnly>
+			<LowestRank>6</LowestRank>
+			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:int>61</d4p1:int>
+			</TargetArea>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>0</Progress>
@@ -21,7 +38,7 @@
 			<QuestID>226</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635950213199801377</StartTimeTicks>
+			<StartTimeTicks>635951996194081053</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>true</IsBossOnly>
