@@ -1075,7 +1075,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>83,82,316,38,6628,337,3611,16,6971,335,2,576,36,89,32,695,1,13847,260,29,4,6718,13812,35,5170,4216,47,80,30,10724,4359,448,3,10589,61,10895,853,525,6697,6,10,742,86,15186</d4p1:SerializedList>
+				<d4p1:SerializedList>38,6628,337,3611,6971,335,2,576,36,89,32,695,1,13847,260,29,4,6718,13812,35,5170,4216,47,80,30,10724,4359,448,3,10589,61,10895,853,525,6697,6,10,742,86,15186</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>入渠</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -1555,7 +1555,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>11085,371,3496,201,11126</d4p1:SerializedList>
+				<d4p1:SerializedList>11085,371,3496</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>明石</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
