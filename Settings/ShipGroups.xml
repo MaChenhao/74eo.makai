@@ -1075,7 +1075,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>95,201,38,6628,337,3611,32,4,6718,13812,35,5170,4216,47,80,30,10724,4359,448,3,10589,61,853,10895,525,6697,6,10,86,742,8747,13530,14918,14922,14906,15186</d4p1:SerializedList>
+				<d4p1:SerializedList>15186</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>入渠</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -1555,7 +1555,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>257,83,11,298,5463,348,137,6734,5941,14962,14733,14958,15102,15499</d4p1:SerializedList>
+				<d4p1:SerializedList>257,83,15499</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>明石</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -4651,7 +4651,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>95,100,229,96,1527,78,94,140,266,299,861,10905,158,256,905,6970,13835,73</d4p1:SerializedList>
+				<d4p1:SerializedList>100,88,229,93,96,1527,78,94,140,266,299,861,158,256,905,6970,13835,73</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>重航巡</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
