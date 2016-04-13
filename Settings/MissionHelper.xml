@@ -58,7 +58,7 @@
       <Width ColName="colTime" ColWidth="50" />
       <Width ColName="colLevel" ColWidth="50" />
       <Width ColName="colCount" ColWidth="40" />
-      <Width ColName="colText" ColWidth="110" />
+      <Width ColName="colText" ColWidth="172" />
       <Width ColName="colFuel" ColWidth="35" />
       <Width ColName="colAmmo" ColWidth="35" />
       <Width ColName="colSteel" ColWidth="35" />
