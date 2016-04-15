@@ -4,7 +4,7 @@
 		<ShipGroupData>
 			<AutoSortEnabled>true</AutoSortEnabled>
 			<ExclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList></d4p1:SerializedList>
+				<d4p1:SerializedList>11085,140</d4p1:SerializedList>
 			</ExclusionFilterSerializer>
 			<Expressions xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.ShipGroup">
 				<d4p1:Expressions>
@@ -44,10 +44,10 @@
 			</Expressions>
 			<GroupID>1</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>88,11085,93,140,257,281</d4p1:SerializedList>
+				<d4p1:SerializedList>88,93,257,281,96,6697</d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>257,11085,88,281,140,93</d4p1:SerializedList>
+				<d4p1:SerializedList>257,88,281,93,96,6697</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>练级</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -689,35 +689,35 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>13</DisplayIndex>
 					<Name>ShipView_Slot1</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>14</DisplayIndex>
 					<Name>ShipView_Slot2</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>15</DisplayIndex>
 					<Name>ShipView_Slot3</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>16</DisplayIndex>
 					<Name>ShipView_Slot4</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>17</DisplayIndex>
 					<Name>ShipView_Slot5</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -1068,6 +1068,20 @@
 						<d4p1:InternalAnd>false</d4p1:InternalAnd>
 						<d4p1:Inverse>false</d4p1:Inverse>
 					</d4p1:ExpressionList>
+					<d4p1:ExpressionList>
+						<d4p1:Enabled>true</d4p1:Enabled>
+						<d4p1:Expressions>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.MasterShip.ShipType</d4p1:LeftOperand>
+								<d4p1:Operator>NotEqual</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">13</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+						</d4p1:Expressions>
+						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
+						<d4p1:InternalAnd>true</d4p1:InternalAnd>
+						<d4p1:Inverse>false</d4p1:Inverse>
+					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
 			<GroupID>3</GroupID>
@@ -1075,7 +1089,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>4220,336,137,3611,133,2</d4p1:SerializedList>
+				<d4p1:SerializedList>497,70,335,36,133,32,2,13847,103</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>入渠</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -1189,35 +1203,35 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>13</DisplayIndex>
 					<Name>ShipView_Slot1</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>14</DisplayIndex>
 					<Name>ShipView_Slot2</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>15</DisplayIndex>
 					<Name>ShipView_Slot3</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>16</DisplayIndex>
 					<Name>ShipView_Slot4</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>17</DisplayIndex>
 					<Name>ShipView_Slot5</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -1555,7 +1569,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList></d4p1:SerializedList>
+				<d4p1:SerializedList>1410,1343,371,682,11126,113,337,4665,15844,617,1406,1075,5941</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>明石</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -2075,7 +2089,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>448,179,34,1406,113,103,6970,14052,15630,13827,9928,5812,6730</d4p1:SerializedList>
+				<d4p1:SerializedList>34,103,1406,113,6970,14052,15630,13827,9928,5812,6730,9951,9623</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>改修</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -2597,7 +2611,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>15499,15844,14906,13876,13530,7716,8747,5463,5941,5847,6734,5169,2924,1581,2472,1565,875,897,1818,1075,795,900,938,1247,914,298,348,682,617</d4p1:SerializedList>
+				<d4p1:SerializedList>15447,15499,15102,14922,14918,14958,14906,14733,14962,15186,15844,14576,13876,13530,7716,6548,8747,5463,5941,5847,5169,6734,2924,1581,2472,1565,875,897,1818,1075,795,900,938,1247,914,298,348,682,617</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>潜艇</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -2805,7 +2819,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>27</DisplayIndex>
 					<Name>ShipView_Firepower</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -2826,7 +2840,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>30</DisplayIndex>
 					<Name>ShipView_Torpedo</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -2847,7 +2861,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>33</DisplayIndex>
 					<Name>ShipView_AA</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -2868,7 +2882,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>36</DisplayIndex>
 					<Name>ShipView_Armor</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -2889,7 +2903,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>39</DisplayIndex>
 					<Name>ShipView_ASW</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -2903,7 +2917,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>41</DisplayIndex>
 					<Name>ShipView_Evasion</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -2917,7 +2931,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>43</DisplayIndex>
 					<Name>ShipView_LOS</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -2931,7 +2945,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>45</DisplayIndex>
 					<Name>ShipView_Luck</Name>
-					<Visible>false</Visible>
+					<Visible>true</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -3107,7 +3121,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>70,497,702,11085,1410,748,5069,13806</d4p1:SerializedList>
+				<d4p1:SerializedList>748,5069,13806,11085</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>航母</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -3294,7 +3308,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -3336,7 +3350,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>30</DisplayIndex>
 					<Name>ShipView_Torpedo</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -3399,7 +3413,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>39</DisplayIndex>
 					<Name>ShipView_ASW</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -3623,7 +3637,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>489,5192,1343,259,1644,363,322,368,257,281,582</d4p1:SerializedList>
+				<d4p1:SerializedList>259,1644,363,322,368,257,281,582,5192</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>战舰</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -3838,7 +3852,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -4155,7 +4169,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>199,83</d4p1:SerializedList>
+				<d4p1:SerializedList>199,201,83,316,82,27,3496,337</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>轻母</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -4290,28 +4304,28 @@
 					<Width>150</Width>
 				</ViewColumnData>
 				<ViewColumnData>
-					<AutoSize>false</AutoSize>
+					<AutoSize>true</AutoSize>
 					<DisplayIndex>17</DisplayIndex>
 					<Name>ShipView_Aircraft1</Name>
 					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
-					<AutoSize>false</AutoSize>
+					<AutoSize>true</AutoSize>
 					<DisplayIndex>18</DisplayIndex>
 					<Name>ShipView_Aircraft2</Name>
 					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
-					<AutoSize>false</AutoSize>
+					<AutoSize>true</AutoSize>
 					<DisplayIndex>19</DisplayIndex>
 					<Name>ShipView_Aircraft3</Name>
 					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
-					<AutoSize>false</AutoSize>
+					<AutoSize>true</AutoSize>
 					<DisplayIndex>20</DisplayIndex>
 					<Name>ShipView_Aircraft4</Name>
 					<Visible>false</Visible>
@@ -4325,7 +4339,7 @@
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
-					<AutoSize>false</AutoSize>
+					<AutoSize>true</AutoSize>
 					<DisplayIndex>22</DisplayIndex>
 					<Name>ShipView_AircraftTotal</Name>
 					<Visible>false</Visible>
@@ -4342,7 +4356,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -4384,7 +4398,7 @@
 					<AutoSize>false</AutoSize>
 					<DisplayIndex>30</DisplayIndex>
 					<Name>ShipView_Torpedo</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -4665,7 +4679,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>95,100,229,93,96,1527,78,94,140,266,299,861,10905,158,256,905,6970,13835,73</d4p1:SerializedList>
+				<d4p1:SerializedList>100,88,229,93,96,1527,78,94,140,266,299,861,10905,158,256,905,6970,13835,73</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>重航巡</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -4880,7 +4894,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -5404,7 +5418,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -5932,7 +5946,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -6249,7 +6263,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>4665</d4p1:SerializedList>
+				<d4p1:SerializedList>57,4681,1695,44,4665</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>雷巡</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -6452,7 +6466,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -6767,7 +6781,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>371,695,448,34,145,14,10869,3251,177,103,113,1406,11,24,6628</d4p1:SerializedList>
+				<d4p1:SerializedList>38,695,448,34,145,14,10869,3251,548,177,11,24,6628,371</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>轻巡</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -6982,7 +6996,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -7291,7 +7305,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>335,576,6971,1,13847,16,29,36,10589,89,4216,10724,4359,853,6718,5170,12392,6697,6719,525,742,80,35,86,6,3,61,10,13815,4,30,47,179,98,13,79,15,9,5,33,28,59,39,6688,7528,3045,5196,4202,851,10877,549,6749,12797,3545,23,125,523,8,51,167</d4p1:SerializedList>
+				<d4p1:SerializedList>1,16,29,10589,89,4216,10724,4359,853,6718,5170,12392,6697,6719,525,742,80,35,86,6,3,61,10,13815,4,30,47,179,98,13,79,15,9,5,33,28,59,39,6688,7528,3045,5196,4202,851,10877,549,6749,12797,3545,523</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>驱逐</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -7510,7 +7524,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -7851,7 +7865,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>914,682,348,617,298,795,875,1565,8747,6548</d4p1:SerializedList>
+				<d4p1:SerializedList>914,348,298,795,875,1565,8747,617,15844,682</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>主力潜艇</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -7861,11 +7875,11 @@
 					<d4p1:Value>Ascending</d4p1:Value>
 				</d4p1:SerializableKeyValuePair>
 				<d4p1:SerializableKeyValuePair>
-					<d4p1:Key>ShipView_Torpedo</d4p1:Key>
+					<d4p1:Key>ShipView_Firepower</d4p1:Key>
 					<d4p1:Value>Descending</d4p1:Value>
 				</d4p1:SerializableKeyValuePair>
 				<d4p1:SerializableKeyValuePair>
-					<d4p1:Key>ShipView_Firepower</d4p1:Key>
+					<d4p1:Key>ShipView_Torpedo</d4p1:Key>
 					<d4p1:Value>Descending</d4p1:Value>
 				</d4p1:SerializableKeyValuePair>
 				<d4p1:SerializableKeyValuePair>
@@ -8062,7 +8076,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -9538,7 +9552,7 @@
 					<AutoSize>true</AutoSize>
 					<DisplayIndex>24</DisplayIndex>
 					<Name>ShipView_RepairTime</Name>
-					<Visible>true</Visible>
+					<Visible>false</Visible>
 					<Width>60</Width>
 				</ViewColumnData>
 				<ViewColumnData>
@@ -9794,7 +9808,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>6730,703,10612,5812,15630,716,14052,4220,702,9928,8642,9601,8766,9951,9623,248,378,13827,11126,348,682,914,1247,1075,2472,5847,6734,13876,14906,14918,15186,14733,14958,15102,15499,15447,938,897,1581,5941,5463,13530,900,1818,2924,5169,7716,14576,14962,14922,13830,12342,617,298,795,875,1565,8747,6548,5260,1410,748,13806,5069,70,497,11085,257,281,259,582,1343,1644,363,322,368,489,3048,5192,15720,15709,15719,3496,199,201,82,715,83,27,316,337,256,6970,905,158,140,94,15724,15727,15723,15728,15735,15722,15737,1527,10905,229,93,88,100,861,96,95,78,73,299,266,13835,1695,4665,57,4681,44,8696,15721,15736,8966,2165,177,145,38,14,371,11,24,448,113,695,103,34,1406,548,3251,10869,6628,15699,15731,15733,15729,15734,15732,15730,15726,15725,137,2,16,3045,3545,260,32,29,89,40,36,1,576,125,23,133,336,4,30,20,7,47,35,86,80,335,3611,179,98,13,79,15,9,5,33,28,59,39,3,6,61,10,51,8,167,50,17,742,525,523,4359,853,4216,3040,541,4202,12392,851,5196,549,6688,6718,10724,13815,7528,10877,13847,12797,5170,6971,6749,10589,6719,6697,10895,13812</d4p1:SerializedList>
+				<d4p1:SerializedList>1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20,23,24,27,28,29,30,32,33,34,35,36,38,39,40,44,47,50,51,57,59,61,70,73,78,79,80,82,83,86,88,89,93,94,95,96,98,100,103,113,125,133,137,140,145,158,167,177,179,199,201,229,248,256,257,259,260,266,281,298,299,316,322,335,336,337,348,363,368,371,378,448,489,497,523,525,541,548,549,576,582,617,682,695,702,703,715,716,742,748,795,851,853,861,875,897,900,905,914,938,1075,1247,1343,1406,1410,1527,1565,1581,1644,1695,1818,2165,2472,2924,3040,3045,3048,3251,3496,3545,3611,4202,4216,4220,4359,4665,4681,5069,5169,5170,5192,5196,5260,5463,5812,5847,5941,6548,6628,6688,6697,6718,6719,6730,6734,6749,6970,6971,7528,7716,8642,8696,8747,8766,8966,9601,9623,9928,9951,10589,10612,10724,10869,10877,10895,10905,11085,11126,12342,12392,12797,13530,13806,13812,13815,13827,13830,13835,13847,13876,14052,14576,14733,14906,14918,14922,14958,14962,15102,15186,15447,15499,15630,15801,15812,15814,15844,15845,15847,15848,15851,15852,15853,15855,15856,15857,15858,15859,15860,15861,15862,15863,15864,15865,15866,15867,15868,15869,15870,15871,15872,15873,15874,15875,15876,15877,15878,15879,15880,15881,15882,15883,15884,15885,15886,15887,15888,15889,15890,15891,15892,15893,15894,15895</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>全所属艦</Name>
 			<ScrollLockColumnCount>4</ScrollLockColumnCount>
