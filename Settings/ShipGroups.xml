@@ -575,7 +575,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>15844,617,795,1247,938,1581,1818,875,6548,2472,5463,5941,2924,14576,13530,14962,15186,13876,14906,14733,14958,15102,15499</d4p1:SerializedList>
+				<d4p1:SerializedList></d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>先修</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -1089,7 +1089,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>4220,70,82,336,576,335,2,137,13847,4359</d4p1:SerializedList>
+				<d4p1:SerializedList>70,3611,260,336,2,137</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>入渠</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -1569,7 +1569,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>201,371,281,6628,3496,682,715,548,260,1,1565,15844,795,875,348,14918,15186,6548,8747,14958</d4p1:SerializedList>
+				<d4p1:SerializedList>795,1075,8747,15186,1247,2472,6734,15499,1565,5847,14733,14922,14958,15102,15447</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>明石</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -2007,530 +2007,6 @@
 						<d4p1:Expressions>
 							<d4p1:ExpressionData>
 								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.IsLocked</d4p1:LeftOperand>
-								<d4p1:Operator>Equal</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:boolean">true</d4p1:RightOperand>
-							</d4p1:ExpressionData>
-						</d4p1:Expressions>
-						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
-						<d4p1:InternalAnd>false</d4p1:InternalAnd>
-						<d4p1:Inverse>false</d4p1:Inverse>
-					</d4p1:ExpressionList>
-					<d4p1:ExpressionList>
-						<d4p1:Enabled>true</d4p1:Enabled>
-						<d4p1:Expressions>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.FleetWithIndex</d4p1:LeftOperand>
-								<d4p1:Operator>Equal</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:string"></d4p1:RightOperand>
-							</d4p1:ExpressionData>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.FleetWithIndex</d4p1:LeftOperand>
-								<d4p1:Operator>BeginWith</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:string">1</d4p1:RightOperand>
-							</d4p1:ExpressionData>
-						</d4p1:Expressions>
-						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
-						<d4p1:InternalAnd>false</d4p1:InternalAnd>
-						<d4p1:Inverse>false</d4p1:Inverse>
-					</d4p1:ExpressionList>
-					<d4p1:ExpressionList>
-						<d4p1:Enabled>true</d4p1:Enabled>
-						<d4p1:Expressions>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.FirepowerRemain</d4p1:LeftOperand>
-								<d4p1:Operator>GreaterThan</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
-							</d4p1:ExpressionData>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.TorpedoRemain</d4p1:LeftOperand>
-								<d4p1:Operator>GreaterThan</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
-							</d4p1:ExpressionData>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.AARemain</d4p1:LeftOperand>
-								<d4p1:Operator>GreaterThan</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
-							</d4p1:ExpressionData>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.ArmorRemain</d4p1:LeftOperand>
-								<d4p1:Operator>GreaterThan</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
-							</d4p1:ExpressionData>
-						</d4p1:Expressions>
-						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
-						<d4p1:InternalAnd>false</d4p1:InternalAnd>
-						<d4p1:Inverse>false</d4p1:Inverse>
-					</d4p1:ExpressionList>
-					<d4p1:ExpressionList>
-						<d4p1:Enabled>true</d4p1:Enabled>
-						<d4p1:Expressions>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
-								<d4p1:LeftOperand>.RepairingDockID</d4p1:LeftOperand>
-								<d4p1:Operator>Equal</d4p1:Operator>
-								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">-1</d4p1:RightOperand>
-							</d4p1:ExpressionData>
-						</d4p1:Expressions>
-						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
-						<d4p1:InternalAnd>true</d4p1:InternalAnd>
-						<d4p1:Inverse>false</d4p1:Inverse>
-					</d4p1:ExpressionList>
-				</d4p1:Expressions>
-			</Expressions>
-			<GroupID>5</GroupID>
-			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList></d4p1:SerializedList>
-			</InclusionFilterSerializer>
-			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>34,113,103,1406,6970,14052,15630,13827,9928,5812,6730,9951,9623</d4p1:SerializedList>
-			</MembersSerializer>
-			<Name>改修</Name>
-			<ScrollLockColumnCount>0</ScrollLockColumnCount>
-			<SortOrderSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializableKeyValuePair>
-					<d4p1:Key>ShipView_Level</d4p1:Key>
-					<d4p1:Value>Descending</d4p1:Value>
-				</d4p1:SerializableKeyValuePair>
-				<d4p1:SerializableKeyValuePair>
-					<d4p1:Key>ShipView_Name</d4p1:Key>
-					<d4p1:Value>Ascending</d4p1:Value>
-				</d4p1:SerializableKeyValuePair>
-			</SortOrderSerializer>
-			<ViewColumnsSerializer>
-				<ViewColumnData>
-					<AutoSize>true</AutoSize>
-					<DisplayIndex>0</DisplayIndex>
-					<Name>ShipView_ID</Name>
-					<Visible>false</Visible>
-					<Width>50</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>true</AutoSize>
-					<DisplayIndex>1</DisplayIndex>
-					<Name>ShipView_ShipType</Name>
-					<Visible>false</Visible>
-					<Width>80</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>true</AutoSize>
-					<DisplayIndex>2</DisplayIndex>
-					<Name>ShipView_Name</Name>
-					<Visible>true</Visible>
-					<Width>100</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>true</AutoSize>
-					<DisplayIndex>3</DisplayIndex>
-					<Name>ShipView_Level</Name>
-					<Visible>true</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>4</DisplayIndex>
-					<Name>ShipView_Exp</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>5</DisplayIndex>
-					<Name>ShipView_Next</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>6</DisplayIndex>
-					<Name>ShipView_NextRemodel</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>7</DisplayIndex>
-					<Name>ShipView_HP</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>8</DisplayIndex>
-					<Name>ShipView_Condition</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>9</DisplayIndex>
-					<Name>ShipView_Fuel</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>10</DisplayIndex>
-					<Name>ShipView_Ammo</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>11</DisplayIndex>
-					<Name>ShipView_Slot1</Name>
-					<Visible>false</Visible>
-					<Width>150</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>12</DisplayIndex>
-					<Name>ShipView_Slot2</Name>
-					<Visible>false</Visible>
-					<Width>150</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>13</DisplayIndex>
-					<Name>ShipView_Slot3</Name>
-					<Visible>false</Visible>
-					<Width>150</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>14</DisplayIndex>
-					<Name>ShipView_Slot4</Name>
-					<Visible>false</Visible>
-					<Width>150</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>15</DisplayIndex>
-					<Name>ShipView_Slot5</Name>
-					<Visible>false</Visible>
-					<Width>150</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>16</DisplayIndex>
-					<Name>ShipView_ExpansionSlot</Name>
-					<Visible>false</Visible>
-					<Width>150</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>17</DisplayIndex>
-					<Name>ShipView_Aircraft1</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>18</DisplayIndex>
-					<Name>ShipView_Aircraft2</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>19</DisplayIndex>
-					<Name>ShipView_Aircraft3</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>20</DisplayIndex>
-					<Name>ShipView_Aircraft4</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>21</DisplayIndex>
-					<Name>ShipView_Aircraft5</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>22</DisplayIndex>
-					<Name>ShipView_AircraftTotal</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>true</AutoSize>
-					<DisplayIndex>23</DisplayIndex>
-					<Name>ShipView_Fleet</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>24</DisplayIndex>
-					<Name>ShipView_RepairTime</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>25</DisplayIndex>
-					<Name>ShipView_RepairSteel</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>26</DisplayIndex>
-					<Name>ShipView_RepairFuel</Name>
-					<Visible>false</Visible>
-					<Width>60</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>27</DisplayIndex>
-					<Name>ShipView_Firepower</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>28</DisplayIndex>
-					<Name>ShipView_FirepowerRemain</Name>
-					<Visible>true</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>29</DisplayIndex>
-					<Name>ShipView_FirepowerTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>30</DisplayIndex>
-					<Name>ShipView_Torpedo</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>31</DisplayIndex>
-					<Name>ShipView_TorpedoRemain</Name>
-					<Visible>true</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>32</DisplayIndex>
-					<Name>ShipView_TorpedoTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>33</DisplayIndex>
-					<Name>ShipView_AA</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>34</DisplayIndex>
-					<Name>ShipView_AARemain</Name>
-					<Visible>true</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>35</DisplayIndex>
-					<Name>ShipView_AATotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>36</DisplayIndex>
-					<Name>ShipView_Armor</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>37</DisplayIndex>
-					<Name>ShipView_ArmorRemain</Name>
-					<Visible>true</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>38</DisplayIndex>
-					<Name>ShipView_ArmorTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>39</DisplayIndex>
-					<Name>ShipView_ASW</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>40</DisplayIndex>
-					<Name>ShipView_ASWTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>41</DisplayIndex>
-					<Name>ShipView_Evasion</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>42</DisplayIndex>
-					<Name>ShipView_EvasionTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>43</DisplayIndex>
-					<Name>ShipView_LOS</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>44</DisplayIndex>
-					<Name>ShipView_LOSTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>45</DisplayIndex>
-					<Name>ShipView_Luck</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>46</DisplayIndex>
-					<Name>ShipView_LuckRemain</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>47</DisplayIndex>
-					<Name>ShipView_LuckTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>48</DisplayIndex>
-					<Name>ShipView_BomberTotal</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>49</DisplayIndex>
-					<Name>ShipView_Speed</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>50</DisplayIndex>
-					<Name>ShipView_Range</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>51</DisplayIndex>
-					<Name>ShipView_AirBattlePower</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>52</DisplayIndex>
-					<Name>ShipView_ShellingPower</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>53</DisplayIndex>
-					<Name>ShipView_AircraftPower</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>54</DisplayIndex>
-					<Name>ShipView_AntiSubmarinePower</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>55</DisplayIndex>
-					<Name>ShipView_TorpedoPower</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>56</DisplayIndex>
-					<Name>ShipView_NightBattlePower</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>57</DisplayIndex>
-					<Name>ShipView_Locked</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-				<ViewColumnData>
-					<AutoSize>false</AutoSize>
-					<DisplayIndex>58</DisplayIndex>
-					<Name>ShipView_SallyArea</Name>
-					<Visible>false</Visible>
-					<Width>40</Width>
-				</ViewColumnData>
-			</ViewColumnsSerializer>
-		</ShipGroupData>
-		<ShipGroupData>
-			<AutoSortEnabled>true</AutoSortEnabled>
-			<ExclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList></d4p1:SerializedList>
-			</ExclusionFilterSerializer>
-			<Expressions xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.ShipGroup">
-				<d4p1:Expressions>
-					<d4p1:ExpressionList>
-						<d4p1:Enabled>true</d4p1:Enabled>
-						<d4p1:Expressions>
-							<d4p1:ExpressionData>
-								<d4p1:Enabled>true</d4p1:Enabled>
 								<d4p1:LeftOperand>.MasterShip.ShipType</d4p1:LeftOperand>
 								<d4p1:Operator>Equal</d4p1:Operator>
 								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">13</d4p1:RightOperand>
@@ -2606,12 +2082,12 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>6</GroupID>
+			<GroupID>5</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>5847,914</d4p1:SerializedList>
+				<d4p1:SerializedList>15102,14958,14918,14733,14922,14906,14962,14576,13876,13530,15844,7716,6548,5463,5941,5847,5169,6734,2924,1581,2472,1565,875,897,1818,900,938,914,298,617</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>潜艇</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -3116,12 +2592,12 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>7</GroupID>
+			<GroupID>6</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>497,702,11085,748,5069,13806</d4p1:SerializedList>
+				<d4p1:SerializedList>702,11085,1410,748,5069,13806</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>航母</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -3632,7 +3108,7 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>8</GroupID>
+			<GroupID>7</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
@@ -4164,7 +3640,7 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>9</GroupID>
+			<GroupID>8</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
@@ -4674,7 +4150,7 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>10</GroupID>
+			<GroupID>9</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
@@ -5206,7 +4682,7 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>11</GroupID>
+			<GroupID>10</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
@@ -5730,7 +5206,7 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>12</GroupID>
+			<GroupID>11</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
@@ -6258,7 +5734,7 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>13</GroupID>
+			<GroupID>12</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
@@ -6776,12 +6252,12 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>14</GroupID>
+			<GroupID>13</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>695,448,34,145,14,10869,3251,548,177,103,113,1406,11,24,6628</d4p1:SerializedList>
+				<d4p1:SerializedList>695,448,34,145,14,10869,3251,177,103,113,1406,11,24,548,6628</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>轻巡</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -7300,12 +6776,12 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>15</GroupID>
+			<GroupID>14</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>16,29,10589,4216,10724,853,6718,5170,10895,12392,6697,525,742,80,35,86,6,3,61,10,13815,4,30,47,20,7,179,98,13,79,15,9,5,33,28,59,39,6688,3045,5196,4202,851,549,12797,3545,523,1,260,36</d4p1:SerializedList>
+				<d4p1:SerializedList>12392,6697,525,742,80,35,86,6,3,61,10,13815,4,30,47,20,7,179,98,13,79,15,9,5,33,28,59,39,6688,7528,3045,5196,4202,851,549,12797,3545,523</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>驱逐</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
@@ -7860,12 +7336,12 @@
 					</d4p1:ExpressionList>
 				</d4p1:Expressions>
 			</Expressions>
-			<GroupID>16</GroupID>
+			<GroupID>15</GroupID>
 			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>914,682,348,15844,617,298,795,875,1565,8747,6548</d4p1:SerializedList>
+				<d4p1:SerializedList>15844,682,617,914,348,298,795,875,1565,8747,6548</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>主力潜艇</Name>
 			<ScrollLockColumnCount>3</ScrollLockColumnCount>
@@ -8315,6 +7791,530 @@
 					<DisplayIndex>58</DisplayIndex>
 					<Name>ShipView_SallyArea</Name>
 					<Visible>true</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+			</ViewColumnsSerializer>
+		</ShipGroupData>
+		<ShipGroupData>
+			<AutoSortEnabled>true</AutoSortEnabled>
+			<ExclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+				<d4p1:SerializedList></d4p1:SerializedList>
+			</ExclusionFilterSerializer>
+			<Expressions xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.ShipGroup">
+				<d4p1:Expressions>
+					<d4p1:ExpressionList>
+						<d4p1:Enabled>true</d4p1:Enabled>
+						<d4p1:Expressions>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.IsLocked</d4p1:LeftOperand>
+								<d4p1:Operator>Equal</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:boolean">true</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+						</d4p1:Expressions>
+						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
+						<d4p1:InternalAnd>false</d4p1:InternalAnd>
+						<d4p1:Inverse>false</d4p1:Inverse>
+					</d4p1:ExpressionList>
+					<d4p1:ExpressionList>
+						<d4p1:Enabled>true</d4p1:Enabled>
+						<d4p1:Expressions>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.FleetWithIndex</d4p1:LeftOperand>
+								<d4p1:Operator>Equal</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:string"></d4p1:RightOperand>
+							</d4p1:ExpressionData>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.FleetWithIndex</d4p1:LeftOperand>
+								<d4p1:Operator>BeginWith</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:string">1</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+						</d4p1:Expressions>
+						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
+						<d4p1:InternalAnd>false</d4p1:InternalAnd>
+						<d4p1:Inverse>false</d4p1:Inverse>
+					</d4p1:ExpressionList>
+					<d4p1:ExpressionList>
+						<d4p1:Enabled>true</d4p1:Enabled>
+						<d4p1:Expressions>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.FirepowerRemain</d4p1:LeftOperand>
+								<d4p1:Operator>GreaterThan</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.TorpedoRemain</d4p1:LeftOperand>
+								<d4p1:Operator>GreaterThan</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.AARemain</d4p1:LeftOperand>
+								<d4p1:Operator>GreaterThan</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.ArmorRemain</d4p1:LeftOperand>
+								<d4p1:Operator>GreaterThan</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">0</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+						</d4p1:Expressions>
+						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
+						<d4p1:InternalAnd>false</d4p1:InternalAnd>
+						<d4p1:Inverse>false</d4p1:Inverse>
+					</d4p1:ExpressionList>
+					<d4p1:ExpressionList>
+						<d4p1:Enabled>true</d4p1:Enabled>
+						<d4p1:Expressions>
+							<d4p1:ExpressionData>
+								<d4p1:Enabled>true</d4p1:Enabled>
+								<d4p1:LeftOperand>.RepairingDockID</d4p1:LeftOperand>
+								<d4p1:Operator>Equal</d4p1:Operator>
+								<d4p1:RightOperand xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">-1</d4p1:RightOperand>
+							</d4p1:ExpressionData>
+						</d4p1:Expressions>
+						<d4p1:ExternalAnd>true</d4p1:ExternalAnd>
+						<d4p1:InternalAnd>true</d4p1:InternalAnd>
+						<d4p1:Inverse>false</d4p1:Inverse>
+					</d4p1:ExpressionList>
+				</d4p1:Expressions>
+			</Expressions>
+			<GroupID>16</GroupID>
+			<InclusionFilterSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+				<d4p1:SerializedList></d4p1:SerializedList>
+			</InclusionFilterSerializer>
+			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+				<d4p1:SerializedList>113,103,1406,6970,14052,15630,13827,9928,9951,5812,6730,9623</d4p1:SerializedList>
+			</MembersSerializer>
+			<Name>改修</Name>
+			<ScrollLockColumnCount>0</ScrollLockColumnCount>
+			<SortOrderSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+				<d4p1:SerializableKeyValuePair>
+					<d4p1:Key>ShipView_Level</d4p1:Key>
+					<d4p1:Value>Descending</d4p1:Value>
+				</d4p1:SerializableKeyValuePair>
+				<d4p1:SerializableKeyValuePair>
+					<d4p1:Key>ShipView_Name</d4p1:Key>
+					<d4p1:Value>Ascending</d4p1:Value>
+				</d4p1:SerializableKeyValuePair>
+			</SortOrderSerializer>
+			<ViewColumnsSerializer>
+				<ViewColumnData>
+					<AutoSize>true</AutoSize>
+					<DisplayIndex>0</DisplayIndex>
+					<Name>ShipView_ID</Name>
+					<Visible>false</Visible>
+					<Width>50</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>true</AutoSize>
+					<DisplayIndex>1</DisplayIndex>
+					<Name>ShipView_ShipType</Name>
+					<Visible>false</Visible>
+					<Width>80</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>true</AutoSize>
+					<DisplayIndex>2</DisplayIndex>
+					<Name>ShipView_Name</Name>
+					<Visible>true</Visible>
+					<Width>100</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>true</AutoSize>
+					<DisplayIndex>3</DisplayIndex>
+					<Name>ShipView_Level</Name>
+					<Visible>true</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>4</DisplayIndex>
+					<Name>ShipView_Exp</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>5</DisplayIndex>
+					<Name>ShipView_Next</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>6</DisplayIndex>
+					<Name>ShipView_NextRemodel</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>7</DisplayIndex>
+					<Name>ShipView_HP</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>8</DisplayIndex>
+					<Name>ShipView_Condition</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>9</DisplayIndex>
+					<Name>ShipView_Fuel</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>10</DisplayIndex>
+					<Name>ShipView_Ammo</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>11</DisplayIndex>
+					<Name>ShipView_Slot1</Name>
+					<Visible>false</Visible>
+					<Width>150</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>12</DisplayIndex>
+					<Name>ShipView_Slot2</Name>
+					<Visible>false</Visible>
+					<Width>150</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>13</DisplayIndex>
+					<Name>ShipView_Slot3</Name>
+					<Visible>false</Visible>
+					<Width>150</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>14</DisplayIndex>
+					<Name>ShipView_Slot4</Name>
+					<Visible>false</Visible>
+					<Width>150</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>15</DisplayIndex>
+					<Name>ShipView_Slot5</Name>
+					<Visible>false</Visible>
+					<Width>150</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>16</DisplayIndex>
+					<Name>ShipView_ExpansionSlot</Name>
+					<Visible>false</Visible>
+					<Width>150</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>17</DisplayIndex>
+					<Name>ShipView_Aircraft1</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>18</DisplayIndex>
+					<Name>ShipView_Aircraft2</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>19</DisplayIndex>
+					<Name>ShipView_Aircraft3</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>20</DisplayIndex>
+					<Name>ShipView_Aircraft4</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>21</DisplayIndex>
+					<Name>ShipView_Aircraft5</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>22</DisplayIndex>
+					<Name>ShipView_AircraftTotal</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>true</AutoSize>
+					<DisplayIndex>23</DisplayIndex>
+					<Name>ShipView_Fleet</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>24</DisplayIndex>
+					<Name>ShipView_RepairTime</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>25</DisplayIndex>
+					<Name>ShipView_RepairSteel</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>26</DisplayIndex>
+					<Name>ShipView_RepairFuel</Name>
+					<Visible>false</Visible>
+					<Width>60</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>27</DisplayIndex>
+					<Name>ShipView_Firepower</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>28</DisplayIndex>
+					<Name>ShipView_FirepowerRemain</Name>
+					<Visible>true</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>29</DisplayIndex>
+					<Name>ShipView_FirepowerTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>30</DisplayIndex>
+					<Name>ShipView_Torpedo</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>31</DisplayIndex>
+					<Name>ShipView_TorpedoRemain</Name>
+					<Visible>true</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>32</DisplayIndex>
+					<Name>ShipView_TorpedoTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>33</DisplayIndex>
+					<Name>ShipView_AA</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>34</DisplayIndex>
+					<Name>ShipView_AARemain</Name>
+					<Visible>true</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>35</DisplayIndex>
+					<Name>ShipView_AATotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>36</DisplayIndex>
+					<Name>ShipView_Armor</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>37</DisplayIndex>
+					<Name>ShipView_ArmorRemain</Name>
+					<Visible>true</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>38</DisplayIndex>
+					<Name>ShipView_ArmorTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>39</DisplayIndex>
+					<Name>ShipView_ASW</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>40</DisplayIndex>
+					<Name>ShipView_ASWTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>41</DisplayIndex>
+					<Name>ShipView_Evasion</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>42</DisplayIndex>
+					<Name>ShipView_EvasionTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>43</DisplayIndex>
+					<Name>ShipView_LOS</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>44</DisplayIndex>
+					<Name>ShipView_LOSTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>45</DisplayIndex>
+					<Name>ShipView_Luck</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>46</DisplayIndex>
+					<Name>ShipView_LuckRemain</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>47</DisplayIndex>
+					<Name>ShipView_LuckTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>48</DisplayIndex>
+					<Name>ShipView_BomberTotal</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>49</DisplayIndex>
+					<Name>ShipView_Speed</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>50</DisplayIndex>
+					<Name>ShipView_Range</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>51</DisplayIndex>
+					<Name>ShipView_AirBattlePower</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>52</DisplayIndex>
+					<Name>ShipView_ShellingPower</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>53</DisplayIndex>
+					<Name>ShipView_AircraftPower</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>54</DisplayIndex>
+					<Name>ShipView_AntiSubmarinePower</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>55</DisplayIndex>
+					<Name>ShipView_TorpedoPower</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>56</DisplayIndex>
+					<Name>ShipView_NightBattlePower</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>57</DisplayIndex>
+					<Name>ShipView_Locked</Name>
+					<Visible>false</Visible>
+					<Width>40</Width>
+				</ViewColumnData>
+				<ViewColumnData>
+					<AutoSize>false</AutoSize>
+					<DisplayIndex>58</DisplayIndex>
+					<Name>ShipView_SallyArea</Name>
+					<Visible>false</Visible>
 					<Width>40</Width>
 				</ViewColumnData>
 			</ViewColumnsSerializer>
@@ -9808,7 +9808,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20,23,24,27,28,29,30,32,33,34,35,36,38,39,40,44,47,50,51,57,59,61,70,73,78,79,80,82,83,86,88,89,93,94,95,96,98,100,103,113,125,133,137,140,145,158,167,177,179,199,201,229,248,256,257,259,260,266,281,298,299,316,322,335,336,337,348,363,368,371,378,448,489,497,523,525,541,548,549,576,582,617,682,695,702,703,715,716,742,748,795,851,853,861,875,897,900,905,914,938,1075,1247,1343,1406,1410,1527,1565,1581,1644,1695,1818,2165,2472,2924,3040,3045,3048,3251,3496,3545,3611,4202,4216,4220,4359,4665,4681,5069,5169,5170,5192,5196,5260,5463,5812,5847,5941,6548,6628,6688,6697,6718,6719,6730,6734,6749,6970,6971,7528,7716,8642,8696,8747,8766,8966,9601,9623,9928,9951,10589,10612,10724,10869,10877,10895,10905,11085,11126,12342,12392,12797,13530,13806,13812,13815,13827,13830,13835,13847,13876,14052,14576,14733,14906,14918,14922,14958,14962,15102,15186,15447,15499,15630,15801,15812,15814,15844,15845,15847,15848,15851,15852,15853,15855,15856,15857,15858,15859,15860,15861,15862,15863,15864,15865,15866,15867,15868,15869,15870,15871,15872,15873,15874,15875,15876,15877,15878,15879,15880,15881,15882,15883,15884,15885,15886,15887,15888,15889,15890,15891,15892,15893,15894,15895</d4p1:SerializedList>
+				<d4p1:SerializedList>617,3048,703,1343,5192,4220,371,10612,70,1644,100,489,363,497,259,702,94,57,199,368,322,10905,229,95,582,1695,1,11085,78,257,88,1410,201,682,548,348,298,83,914,38,44,336,281,260,93,316,137,1247,2,748,576,335,140,938,16,900,795,1075,6628,3611,82,133,1818,6971,897,875,96,40,1565,23,125,36,2472,1581,4681,3545,3045,145,248,4665,29,2924,1527,861,32,89,266,27,6734,5169,5847,3496,51,5941,8747,5463,6548,158,7716,8,167,256,17,50,11126,715,337,14,541,3040,5069,905,177,2165,6697,4,378,15844,5260,695,12797,13806,11,5196,8966,13530,30,13812,6,299,13847,73,8696,716,13876,10724,24,13835,4359,47,851,523,10895,549,10589,80,525,12392,6718,6719,10869,10877,98,853,4216,5170,7528,13815,6688,61,3251,742,6749,86,10,3,179,33,79,9,39,28,35,59,4202,20,7,13,15,448,5,34,14576,1406,103,113,6970,13827,15630,14052,15186,14962,14906,14733,14958,14918,14922,15102,9928,8642,8766,5812,9951,6730,15447,15499,9601,9623,13830,12342,15977,16056,16083,16084,16097,16103,16079,16085,16110,16078,16071,16090,16099,16123,16115,16098,16108,16104,16107,16111,16121,16081,16093,16124,16125,16114,16120,16102,16091,16095,16096,16118,16100,16101,16109,16105,16112,16116,16094,16080,16086,16106</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>全所属艦</Name>
 			<ScrollLockColumnCount>4</ScrollLockColumnCount>
