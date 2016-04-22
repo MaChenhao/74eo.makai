@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-04-21T21:04:26.5580199+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-04-22T20:15:01.3365342+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressBattle">
-			<Progress>10</Progress>
-			<ProgressMax>12</ProgressMax>
-			<QuestID>229</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635965926330267438</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<IsBossOnly>true</IsBossOnly>
-			<LowestRank>4</LowestRank>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>41</d4p1:int>
-				<d4p1:int>42</d4p1:int>
-				<d4p1:int>43</d4p1:int>
-				<d4p1:int>44</d4p1:int>
-				<d4p1:int>45</d4p1:int>
-			</TargetArea>
-		</ProgressData>
-		<ProgressData i:type="ProgressBattle">
-			<Progress>1</Progress>
+			<Progress>2</Progress>
 			<ProgressMax>5</ProgressMax>
 			<QuestID>226</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635968541350824424</StartTimeTicks>
+			<StartTimeTicks>635969478200633667</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>true</IsBossOnly>
@@ -39,6 +20,17 @@
 				<d4p1:int>24</d4p1:int>
 				<d4p1:int>25</d4p1:int>
 			</TargetArea>
+		</ProgressData>
+		<ProgressData i:type="ProgressExpedition">
+			<Progress>1</Progress>
+			<ProgressMax>10</ProgressMax>
+			<QuestID>403</QuestID>
+			<QuestType>2</QuestType>
+			<SharedCounterShift>0</SharedCounterShift>
+			<StartTimeTicks>635969475668125529</StartTimeTicks>
+			<TemporaryProgress>0</TemporaryProgress>
+			<Type>2</Type>
+			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
 		</ProgressData>
 	</SerializedProgresses>
 </QuestProgress>
