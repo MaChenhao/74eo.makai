@@ -171,7 +171,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>1</LastVolume>
+		<LastVolume>0.5</LastVolume>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
@@ -263,6 +263,7 @@ body {
 	</FormShipGroup>
 	<Life>
 		<CanCloseFloatWindowInLock>false</CanCloseFloatWindowInLock>
+		<CanScreenDock>false</CanScreenDock>
 		<CheckUpdateInformation>true</CheckUpdateInformation>
 		<ClockFormat>0</ClockFormat>
 		<ConfirmOnClosing>true</ConfirmOnClosing>
