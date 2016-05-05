@@ -250,7 +250,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,440</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,419</d3p1:SerializedList>
 		</ColumnWidth>
 		<ProgressAutoSaving>1</ProgressAutoSaving>
 		<ShowDaily>true</ShowDaily>
@@ -296,7 +296,7 @@ body {
 		</BackColor>
 		<ClickFlag>Left</ClickFlag>
 		<CloseOnMouseMove>true</CloseOnMouseMove>
-		<ClosingInterval>10000</ClosingInterval>
+		<ClosingInterval>0</ClosingInterval>
 		<DrawsImage>false</DrawsImage>
 		<DrawsMessage>true</DrawsMessage>
 		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
@@ -343,7 +343,7 @@ body {
 		<PlaysSound>false</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath>poi.wav</SoundPath>
+		<SoundPath></SoundPath>
 		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierCondition>
