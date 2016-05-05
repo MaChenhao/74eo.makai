@@ -1,7 +1,7 @@
 <Config Midnight="">
   <Filter EquipmentName="12.7cm連装砲" Disabled="True" />
   <Filter EquipmentName="12.7cm連装砲B型改二" Disabled="True" />
-  <Filter EquipmentName="10cm連装高角砲+高射装置" Disabled="False" />
+  <Filter EquipmentName="10cm連装高角砲+高射装置" Disabled="True" />
   <Filter EquipmentName="14cm単装砲" Disabled="True" />
   <Filter EquipmentName="14cm連装砲" Disabled="True" />
   <Filter EquipmentName="15.2cm連装砲" Disabled="True" />

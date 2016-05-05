@@ -160,6 +160,7 @@
 		<SaveRequest>false</SaveRequest>
 		<SaveResponse>true</SaveResponse>
 		<SaveSWF>false</SaveSWF>
+		<SendDataToKCVDB>false</SendDataToKCVDB>
 		<SendDataToKancolleDB>false</SendDataToKancolleDB>
 		<SendKancolleOAuth></SendKancolleOAuth>
 		<UpstreamProxyAddress>127.0.0.1</UpstreamProxyAddress>
@@ -242,6 +243,7 @@ body {
 	</FormFleet>
 	<FormHeadquarters>
 		<BlinkAtMaximum>true</BlinkAtMaximum>
+		<Visibility xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage" i:nil="true" />
 	</FormHeadquarters>
 	<FormQuest>
 		<ColumnFilter xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
@@ -250,6 +252,7 @@ body {
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializedList>24,26,40,143,198</d3p1:SerializedList>
 		</ColumnWidth>
+		<ProgressAutoSaving>1</ProgressAutoSaving>
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
 		<ShowOnce>true</ShowOnce>
@@ -285,6 +288,36 @@ body {
 		<ShowMainD2Link>false</ShowMainD2Link>
 		<ShowSpoiler>true</ShowSpoiler>
 	</Log>
+	<NotifierAnchorageRepair>
+		<AccelInterval>0</AccelInterval>
+		<Alignment>BottomRight</Alignment>
+		<BackColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FFF0F0F0</d3p1:SerializedColor>
+		</BackColor>
+		<ClickFlag>Left</ClickFlag>
+		<CloseOnMouseMove>true</CloseOnMouseMove>
+		<ClosingInterval>0</ClosingInterval>
+		<DrawsImage>false</DrawsImage>
+		<DrawsMessage>true</DrawsMessage>
+		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
+			<d3p1:SerializedColor>FF000000</d3p1:SerializedColor>
+		</ForeColor>
+		<HasFormBorder>true</HasFormBorder>
+		<ImagePath></ImagePath>
+		<IsEnabled>true</IsEnabled>
+		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+			<d3p1:x>0</d3p1:x>
+			<d3p1:y>0</d3p1:y>
+		</Location>
+		<LoopsSound>false</LoopsSound>
+		<PlaysSound>false</PlaysSound>
+		<ShowWithActivation>true</ShowWithActivation>
+		<ShowsDialog>true</ShowsDialog>
+		<SoundPath></SoundPath>
+		<SoundVolume>100</SoundVolume>
+		<TopMost>true</TopMost>
+		<NotificationLevel>2</NotificationLevel>
+	</NotifierAnchorageRepair>
 	<NotifierCondition>
 		<AccelInterval>0</AccelInterval>
 		<Alignment>BottomRight</Alignment>
@@ -307,10 +340,10 @@ body {
 			<d3p1:y>0</d3p1:y>
 		</Location>
 		<LoopsSound>false</LoopsSound>
-		<PlaysSound>true</PlaysSound>
+		<PlaysSound>false</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath>poi.wav</SoundPath>
+		<SoundPath></SoundPath>
 		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierCondition>
@@ -592,8 +625,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.1.8</Version>
-	<VersionUpdateTime>2016/04/01 22:00:00</VersionUpdateTime>
+	<Version>2.2.1</Version>
+	<VersionUpdateTime>2016/05/03 20:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
