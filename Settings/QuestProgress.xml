@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-05-10T23:03:18.7839965+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-05-11T22:58:23.138141+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>2</Progress>
@@ -17,67 +17,44 @@
 				<d4p1:int>15</d4p1:int>
 			</TargetArea>
 		</ProgressData>
-		<ProgressData i:type="ProgressPractice">
-			<Progress>16</Progress>
-			<ProgressMax>20</ProgressMax>
-			<QuestID>302</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635984197885777412</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<WinOnly>true</WinOnly>
-		</ProgressData>
-		<ProgressData i:type="ProgressExpedition">
-			<Progress>28</Progress>
-			<ProgressMax>30</ProgressMax>
-			<QuestID>404</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635984197885777412</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
-		</ProgressData>
-		<ProgressData i:type="ProgressSlaughter">
+		<ProgressData i:type="ProgressBattle">
 			<Progress>0</Progress>
-			<ProgressMax>20</ProgressMax>
-			<QuestID>213</QuestID>
+			<ProgressMax>5</ProgressMax>
+			<QuestID>241</QuestID>
 			<QuestType>3</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635984249342820546</StartTimeTicks>
+			<StartTimeTicks>635985945870798110</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>3</Type>
-			<TargetShipType xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>15</d4p1:int>
-			</TargetShipType>
+			<IsBossOnly>true</IsBossOnly>
+			<LowestRank>4</LowestRank>
+			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:int>33</d4p1:int>
+				<d4p1:int>34</d4p1:int>
+				<d4p1:int>35</d4p1:int>
+			</TargetArea>
 		</ProgressData>
-		<ProgressData i:type="ProgressModernization">
-			<Progress>2</Progress>
-			<ProgressMax>15</ProgressMax>
-			<QuestID>703</QuestID>
+		<ProgressData i:type="ProgressBattle">
+			<Progress>0</Progress>
+			<ProgressMax>12</ProgressMax>
+			<QuestID>229</QuestID>
 			<QuestType>3</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635984214954577161</StartTimeTicks>
+			<StartTimeTicks>635985945870798110</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>3</Type>
-		</ProgressData>
-		<ProgressData i:type="ProgressSlaughter">
-			<Progress>3</Progress>
-			<ProgressMax>20</ProgressMax>
-			<QuestID>220</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635984259277836586</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<TargetShipType xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>7</d4p1:int>
-				<d4p1:int>11</d4p1:int>
-			</TargetShipType>
+			<IsBossOnly>true</IsBossOnly>
+			<LowestRank>4</LowestRank>
+			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:int>41</d4p1:int>
+				<d4p1:int>42</d4p1:int>
+				<d4p1:int>43</d4p1:int>
+				<d4p1:int>44</d4p1:int>
+				<d4p1:int>45</d4p1:int>
+			</TargetArea>
 		</ProgressData>
 		<ProgressData i:type="ProgressAGo">
-			<Progress>101189134</Progress>
+			<Progress>202835492</Progress>
 			<ProgressMax>0</ProgressMax>
 			<QuestID>214</QuestID>
 			<QuestType>3</QuestType>
@@ -92,7 +69,7 @@
 			<QuestID>226</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635985160834159641</StartTimeTicks>
+			<StartTimeTicks>635985804023299581</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>true</IsBossOnly>
