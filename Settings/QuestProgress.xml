@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-05-11T22:58:23.138141+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-05-12T23:17:00.5384301+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>2</Progress>
@@ -18,7 +18,7 @@
 			</TargetArea>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
-			<Progress>0</Progress>
+			<Progress>2</Progress>
 			<ProgressMax>5</ProgressMax>
 			<QuestID>241</QuestID>
 			<QuestType>3</QuestType>
@@ -35,7 +35,7 @@
 			</TargetArea>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
-			<Progress>0</Progress>
+			<Progress>4</Progress>
 			<ProgressMax>12</ProgressMax>
 			<QuestID>229</QuestID>
 			<QuestType>3</QuestType>
@@ -53,15 +53,18 @@
 				<d4p1:int>45</d4p1:int>
 			</TargetArea>
 		</ProgressData>
-		<ProgressData i:type="ProgressAGo">
-			<Progress>202835492</Progress>
-			<ProgressMax>0</ProgressMax>
-			<QuestID>214</QuestID>
+		<ProgressData i:type="ProgressSlaughter">
+			<Progress>16</Progress>
+			<ProgressMax>50</ProgressMax>
+			<QuestID>221</QuestID>
 			<QuestType>3</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635984249342820546</StartTimeTicks>
+			<StartTimeTicks>635986830452417206</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>3</Type>
+			<TargetShipType xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:int>15</d4p1:int>
+			</TargetShipType>
 		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>0</Progress>
@@ -69,7 +72,7 @@
 			<QuestID>226</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635985804023299581</StartTimeTicks>
+			<StartTimeTicks>635986846445623767</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>true</IsBossOnly>

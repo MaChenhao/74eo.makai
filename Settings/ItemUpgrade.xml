@@ -49,7 +49,7 @@
   <Filter EquipmentName="25mm三連装機銃" Disabled="True" />
   <Filter EquipmentName="91式高射装置" Disabled="True" />
   <Filter EquipmentName="94式高射装置" Disabled="True" />
-  <Filter EquipmentName="探照灯" Disabled="False" />
+  <Filter EquipmentName="探照灯" Disabled="True" />
   <Filter EquipmentName="96式150cm探照灯" Disabled="True" />
   <Filter EquipmentName="零式水上偵察機" Disabled="True" />
   <Filter EquipmentName="零式水上観測機" Disabled="True" />
