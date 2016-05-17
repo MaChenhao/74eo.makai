@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-05-16T23:41:19.1381193+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-05-17T21:17:18.8839761+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>2</Progress>
@@ -17,27 +17,22 @@
 				<d4p1:int>15</d4p1:int>
 			</TargetArea>
 		</ProgressData>
-		<ProgressData i:type="ProgressBattle">
+		<ProgressData i:type="ProgressSlaughter">
 			<Progress>0</Progress>
-			<ProgressMax>5</ProgressMax>
-			<QuestID>226</QuestID>
-			<QuestType>2</QuestType>
+			<ProgressMax>3</ProgressMax>
+			<QuestID>211</QuestID>
+			<QuestType>4</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635990358134016666</StartTimeTicks>
+			<StartTimeTicks>635991161666501090</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
-			<Type>2</Type>
-			<IsBossOnly>true</IsBossOnly>
-			<LowestRank>4</LowestRank>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>21</d4p1:int>
-				<d4p1:int>22</d4p1:int>
-				<d4p1:int>23</d4p1:int>
-				<d4p1:int>24</d4p1:int>
-				<d4p1:int>25</d4p1:int>
-			</TargetArea>
+			<Type>4</Type>
+			<TargetShipType xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:int>7</d4p1:int>
+				<d4p1:int>11</d4p1:int>
+			</TargetShipType>
 		</ProgressData>
 		<ProgressData i:type="ProgressPractice">
-			<Progress>5</Progress>
+			<Progress>10</Progress>
 			<ProgressMax>20</ProgressMax>
 			<QuestID>302</QuestID>
 			<QuestType>3</QuestType>
@@ -47,22 +42,21 @@
 			<Type>3</Type>
 			<WinOnly>true</WinOnly>
 		</ProgressData>
-		<ProgressData i:type="ProgressSlaughter">
-			<Progress>14</Progress>
-			<ProgressMax>20</ProgressMax>
-			<QuestID>220</QuestID>
-			<QuestType>3</QuestType>
+		<ProgressData i:type="ProgressBattle">
+			<Progress>0</Progress>
+			<ProgressMax>1</ProgressMax>
+			<QuestID>216</QuestID>
+			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635990358134011663</StartTimeTicks>
+			<StartTimeTicks>635991161745834267</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<TargetShipType xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>7</d4p1:int>
-				<d4p1:int>11</d4p1:int>
-			</TargetShipType>
+			<Type>2</Type>
+			<IsBossOnly>false</IsBossOnly>
+			<LowestRank>1</LowestRank>
+			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
 		</ProgressData>
 		<ProgressData i:type="ProgressModernization">
-			<Progress>0</Progress>
+			<Progress>2</Progress>
 			<ProgressMax>15</ProgressMax>
 			<QuestID>703</QuestID>
 			<QuestType>3</QuestType>
@@ -72,7 +66,7 @@
 			<Type>3</Type>
 		</ProgressData>
 		<ProgressData i:type="ProgressAGo">
-			<Progress>33687044</Progress>
+			<Progress>50529797</Progress>
 			<ProgressMax>0</ProgressMax>
 			<QuestID>214</QuestID>
 			<QuestType>3</QuestType>
@@ -80,17 +74,6 @@
 			<StartTimeTicks>635990353483394365</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>3</Type>
-		</ProgressData>
-		<ProgressData i:type="ProgressExpedition">
-			<Progress>17</Progress>
-			<ProgressMax>30</ProgressMax>
-			<QuestID>404</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>635989833061087685</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
 		</ProgressData>
 		<ProgressData i:type="ProgressSlaughter">
 			<Progress>0</Progress>
@@ -105,19 +88,28 @@
 				<d4p1:int>15</d4p1:int>
 			</TargetShipType>
 		</ProgressData>
-		<ProgressData i:type="ProgressExpedition">
+		<ProgressData i:type="ProgressSupply">
 			<Progress>0</Progress>
-			<ProgressMax>6</ProgressMax>
-			<QuestID>411</QuestID>
+			<ProgressMax>15</ProgressMax>
+			<QuestID>504</QuestID>
+			<QuestType>2</QuestType>
+			<SharedCounterShift>0</SharedCounterShift>
+			<StartTimeTicks>635991166328859487</StartTimeTicks>
+			<TemporaryProgress>0</TemporaryProgress>
+			<Type>2</Type>
+		</ProgressData>
+		<ProgressData i:type="ProgressSlaughter">
+			<Progress>0</Progress>
+			<ProgressMax>15</ProgressMax>
+			<QuestID>228</QuestID>
 			<QuestType>3</QuestType>
-			<SharedCounterShift>1</SharedCounterShift>
-			<StartTimeTicks>635990330025181933</StartTimeTicks>
+			<SharedCounterShift>0</SharedCounterShift>
+			<StartTimeTicks>635991161855718639</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>3</Type>
-			<TargetArea xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-				<d4p1:int>37</d4p1:int>
-				<d4p1:int>38</d4p1:int>
-			</TargetArea>
+			<TargetShipType xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:int>13</d4p1:int>
+			</TargetShipType>
 		</ProgressData>
 	</SerializedProgresses>
 </QuestProgress>
