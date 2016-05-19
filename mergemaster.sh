@@ -2,7 +2,7 @@
 
 cd ~/Kancolle/74eo.makai || exit $?
 git add -A || exit $?
-git commit -a -m Backup
+git commit -a -m Backup || exit $?
 git co master || exit $?
 git pull || exit $?
 git co tablet || exit $?
