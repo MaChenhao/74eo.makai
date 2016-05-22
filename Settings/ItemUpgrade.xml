@@ -9,7 +9,7 @@
   <Filter EquipmentName="15.5cm三連装砲" Disabled="True" />
   <Filter EquipmentName="20.3cm連装砲" Disabled="True" />
   <Filter EquipmentName="20.3cm(2号)連装砲" Disabled="True" />
-  <Filter EquipmentName="20.3cm(3号)連装砲" Disabled="True" />
+  <Filter EquipmentName="20.3cm(3号)連装砲" Disabled="False" />
   <Filter EquipmentName="35.6cm連装砲" Disabled="True" />
   <Filter EquipmentName="試製35.6cm三連装砲" Disabled="False" />
   <Filter EquipmentName="35.6cm連装砲(ダズル迷彩)" Disabled="True" />
