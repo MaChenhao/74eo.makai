@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-06-07T17:07:26.117513+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-06-08T18:16:06.2286055+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressBattle">
 			<Progress>3</Progress>
@@ -17,19 +17,8 @@
 				<d4p1:int>15</d4p1:int>
 			</TargetArea>
 		</ProgressData>
-		<ProgressData i:type="ProgressPractice">
-			<Progress>17</Progress>
-			<ProgressMax>20</ProgressMax>
-			<QuestID>302</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>636007995471050325</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-			<WinOnly>true</WinOnly>
-		</ProgressData>
 		<ProgressData i:type="ProgressSlaughter">
-			<Progress>7</Progress>
+			<Progress>14</Progress>
 			<ProgressMax>20</ProgressMax>
 			<QuestID>213</QuestID>
 			<QuestType>3</QuestType>
@@ -41,18 +30,8 @@
 				<d4p1:int>15</d4p1:int>
 			</TargetShipType>
 		</ProgressData>
-		<ProgressData i:type="ProgressModernization">
-			<Progress>13</Progress>
-			<ProgressMax>15</ProgressMax>
-			<QuestID>703</QuestID>
-			<QuestType>3</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>636008000629532476</StartTimeTicks>
-			<TemporaryProgress>0</TemporaryProgress>
-			<Type>3</Type>
-		</ProgressData>
 		<ProgressData i:type="ProgressBattle">
-			<Progress>3</Progress>
+			<Progress>11</Progress>
 			<ProgressMax>12</ProgressMax>
 			<QuestID>229</QuestID>
 			<QuestType>3</QuestType>
@@ -71,7 +50,7 @@
 			</TargetArea>
 		</ProgressData>
 		<ProgressData i:type="ProgressSlaughter">
-			<Progress>5</Progress>
+			<Progress>12</Progress>
 			<ProgressMax>50</ProgressMax>
 			<QuestID>221</QuestID>
 			<QuestType>3</QuestType>
@@ -89,7 +68,7 @@
 			<QuestID>226</QuestID>
 			<QuestType>2</QuestType>
 			<SharedCounterShift>0</SharedCounterShift>
-			<StartTimeTicks>636009153817538646</StartTimeTicks>
+			<StartTimeTicks>636010028939605769</StartTimeTicks>
 			<TemporaryProgress>0</TemporaryProgress>
 			<Type>2</Type>
 			<IsBossOnly>true</IsBossOnly>
