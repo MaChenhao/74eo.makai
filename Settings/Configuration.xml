@@ -160,7 +160,6 @@
 		<SaveRequest>false</SaveRequest>
 		<SaveResponse>true</SaveResponse>
 		<SaveSWF>false</SaveSWF>
-		<SendDataToKCVDB>false</SendDataToKCVDB>
 		<SendDataToKancolleDB>false</SendDataToKancolleDB>
 		<SendKancolleOAuth></SendKancolleOAuth>
 		<UpstreamProxyAddress>127.0.0.1</UpstreamProxyAddress>
@@ -173,6 +172,7 @@
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
 		<LastVolume>0.5</LastVolume>
+		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
@@ -246,11 +246,12 @@ body {
 		<Visibility xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage" i:nil="true" />
 	</FormHeadquarters>
 	<FormQuest>
+		<AllowUserToSortRows>true</AllowUserToSortRows>
 		<ColumnFilter xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,440</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,419</d3p1:SerializedList>
 		</ColumnWidth>
 		<ProgressAutoSaving>1</ProgressAutoSaving>
 		<ShowDaily>true</ShowDaily>
@@ -262,6 +263,7 @@ body {
 	</FormQuest>
 	<FormShipGroup>
 		<AutoUpdate>true</AutoUpdate>
+		<ShipNameSortMethod>0</ShipNameSortMethod>
 		<ShowStatusBar>true</ShowStatusBar>
 	</FormShipGroup>
 	<Life>
@@ -625,8 +627,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.2.4</Version>
-	<VersionUpdateTime>2016/06/02 20:00:00</VersionUpdateTime>
+	<Version>2.3.1</Version>
+	<VersionUpdateTime>2016/06/10 23:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
