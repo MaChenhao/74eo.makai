@@ -54,7 +54,7 @@
   <Filter EquipmentName="零式水上偵察機" Disabled="False" />
   <Filter EquipmentName="零式水上観測機" Disabled="False" />
   <Filter EquipmentName="Ro.43水偵" Disabled="True" />
-  <Filter EquipmentName="九八式水上偵察機(夜偵)" Disabled="False" />
+  <Filter EquipmentName="九八式水上偵察機(夜偵)" Disabled="True" />
   <Filter EquipmentName="大発動艇" Disabled="False" />
   <Filter EquipmentName="大発動艇(八九式中戦車&amp;陸戦隊)" Disabled="False" />
   <Filter EquipmentName="特二式内火艇" Disabled="False" />
