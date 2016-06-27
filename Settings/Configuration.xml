@@ -171,7 +171,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
@@ -251,7 +251,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,440</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,419</d3p1:SerializedList>
 		</ColumnWidth>
 		<ProgressAutoSaving>1</ProgressAutoSaving>
 		<ShowDaily>true</ShowDaily>
