@@ -20,7 +20,7 @@
   <Filter EquipmentName="41cm連装砲" Disabled="True" />
   <Filter EquipmentName="試製41cm三連装砲" Disabled="False" />
   <Filter EquipmentName="試製46cm連装砲" Disabled="False" />
-  <Filter EquipmentName="46cm三連装砲" Disabled="False" />
+  <Filter EquipmentName="46cm三連装砲" Disabled="True" />
   <Filter EquipmentName="試製51cm連装砲" Disabled="False" />
   <Filter EquipmentName="90mm単装高角砲" Disabled="True" />
   <Filter EquipmentName="15.2cm単装砲" Disabled="True" />
