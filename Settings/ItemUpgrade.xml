@@ -43,7 +43,7 @@
   <Filter EquipmentName="四式水中聴音機" Disabled="True" />
   <Filter EquipmentName="九四式爆雷投射機" Disabled="True" />
   <Filter EquipmentName="三式爆雷投射機" Disabled="True" />
-  <Filter EquipmentName="九一式徹甲弾" Disabled="True" />
+  <Filter EquipmentName="九一式徹甲弾" Disabled="False" />
   <Filter EquipmentName="一式徹甲弾" Disabled="False" />
   <Filter EquipmentName="25mm連装機銃" Disabled="True" />
   <Filter EquipmentName="25mm三連装機銃" Disabled="True" />
