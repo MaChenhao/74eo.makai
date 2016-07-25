@@ -171,7 +171,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
@@ -257,6 +257,7 @@ body {
 		<ShowDaily>true</ShowDaily>
 		<ShowMonthly>true</ShowMonthly>
 		<ShowOnce>true</ShowOnce>
+		<ShowOther>true</ShowOther>
 		<ShowRunningOnly>false</ShowRunningOnly>
 		<ShowWeekly>true</ShowWeekly>
 		<SortParameter>1</SortParameter>
@@ -627,8 +628,8 @@ body {
 		</SubForeColor>
 		<ThemeID>0</ThemeID>
 	</UI>
-	<Version>2.3.2</Version>
-	<VersionUpdateTime>2016/07/01 00:00:00</VersionUpdateTime>
+	<Version>2.3.4</Version>
+	<VersionUpdateTime>2016/07/24 18:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
