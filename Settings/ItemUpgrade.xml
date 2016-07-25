@@ -22,6 +22,8 @@
   <Filter EquipmentName="試製46cm連装砲" Disabled="False" />
   <Filter EquipmentName="46cm三連装砲" Disabled="True" />
   <Filter EquipmentName="試製51cm連装砲" Disabled="False" />
+  <Filter EquipmentName="16inch三連装砲 Mk.7" Disabled="False" />
+  <Filter EquipmentName="16inch三連装砲 Mk.7＋GFCS" Disabled="False" />
   <Filter EquipmentName="90mm単装高角砲" Disabled="True" />
   <Filter EquipmentName="15.2cm単装砲" Disabled="True" />
   <Filter EquipmentName="OTO 152mm三連装速射砲" Disabled="False" />
@@ -30,6 +32,7 @@
   <Filter EquipmentName="61cm四連装魚雷" Disabled="True" />
   <Filter EquipmentName="61cm四連装(酸素)魚雷" Disabled="True" />
   <Filter EquipmentName="61cm五連装(酸素)魚雷" Disabled="True" />
+  <Filter EquipmentName="試製61cm六連装(酸素)魚雷" Disabled="False" />
   <Filter EquipmentName="13号対空電探" Disabled="True" />
   <Filter EquipmentName="13号対空電探改" Disabled="True" />
   <Filter EquipmentName="22号対水上電探" Disabled="True" />
@@ -51,6 +54,19 @@
   <Filter EquipmentName="94式高射装置" Disabled="True" />
   <Filter EquipmentName="探照灯" Disabled="True" />
   <Filter EquipmentName="96式150cm探照灯" Disabled="True" />
+  <Filter EquipmentName="九六式艦戦" Disabled="True" />
+  <Filter EquipmentName="零式艦戦21型" Disabled="True" />
+  <Filter EquipmentName="零式艦戦21型(熟練)" Disabled="True" />
+  <Filter EquipmentName="零式艦戦32型" Disabled="True" />
+  <Filter EquipmentName="零式艦戦32型(熟練)" Disabled="True" />
+  <Filter EquipmentName="零式艦戦52型" Disabled="True" />
+  <Filter EquipmentName="零式艦戦52型(熟練)" Disabled="True" />
+  <Filter EquipmentName="零戦52型丙(六〇一空)" Disabled="False" />
+  <Filter EquipmentName="零戦52型丙(付岩井小隊)" Disabled="True" />
+  <Filter EquipmentName="零戦52型甲(付岩本小隊)" Disabled="True" />
+  <Filter EquipmentName="零式艦戦53型(岩本隊)" Disabled="False" />
+  <Filter EquipmentName="零式艦戦62型(爆戦)" Disabled="True" />
+  <Filter EquipmentName="零戦62型(爆戦／岩井隊)" Disabled="True" />
   <Filter EquipmentName="零式水上偵察機" Disabled="False" />
   <Filter EquipmentName="零式水上観測機" Disabled="False" />
   <Filter EquipmentName="Ro.43水偵" Disabled="True" />
