@@ -157,7 +157,7 @@
 		<SaveDataPath>KCAPI</SaveDataPath>
 		<SaveOtherFile>false</SaveOtherFile>
 		<SaveReceivedData>false</SaveReceivedData>
-		<SaveRequest>false</SaveRequest>
+		<SaveRequest>true</SaveRequest>
 		<SaveResponse>true</SaveResponse>
 		<SaveSWF>false</SaveSWF>
 		<SendDataToKancolleDB>false</SendDataToKancolleDB>
@@ -171,7 +171,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>1</LastVolume>
+		<LastVolume>0.5</LastVolume>
 		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
