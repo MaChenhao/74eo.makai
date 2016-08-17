@@ -42,7 +42,7 @@
     <Ship ShipID="431" Derived="True" Type="保护全部" />
     <Ship ShipID="441" Derived="True" Type="保护最高" />
     <Ship ShipID="442" Derived="True" Type="保护最高" />
-    <Ship ShipID="443" Derived="True" Type="保护最高" />
+    <Ship ShipID="443" Derived="False" Type="保护全部" />
     <Ship ShipID="445" Derived="True" Type="保护最高" />
     <Ship ShipID="451" Derived="True" Type="保护最高" />
     <Ship ShipID="453" Derived="True" Type="保护最高" />
@@ -51,6 +51,7 @@
     <Ship ShipID="460" Derived="True" Type="保护最高" />
     <Ship ShipID="119" Derived="True" Type="保护全部" />
     <Ship ShipID="118" Derived="True" Type="保护全部" />
+    <Ship ShipID="455" Derived="True" Type="保护最高" />
   </ShipProtection>
   <EquipmentProtection>
     <Equipment EquipmentID="8" />
