@@ -54,7 +54,7 @@
   <Filter EquipmentName="94式高射装置" Disabled="True" />
   <Filter EquipmentName="探照灯" Disabled="True" />
   <Filter EquipmentName="96式150cm探照灯" Disabled="True" />
-  <Filter EquipmentName="九六式艦戦" Disabled="True" />
+  <Filter EquipmentName="九六式艦戦" Disabled="False" />
   <Filter EquipmentName="零式艦戦21型" Disabled="True" />
   <Filter EquipmentName="零式艦戦21型(熟練)" Disabled="True" />
   <Filter EquipmentName="零式艦戦32型" Disabled="True" />
