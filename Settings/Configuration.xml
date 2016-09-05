@@ -9,7 +9,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -17,7 +17,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -25,7 +25,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -33,7 +33,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -41,7 +41,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -49,7 +49,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -57,7 +57,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -65,7 +65,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -73,7 +73,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -81,7 +81,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -89,7 +89,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -97,7 +97,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -105,7 +105,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -113,7 +113,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -121,7 +121,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 			<SoundHandle>
 				<Enabled>true</Enabled>
@@ -129,7 +129,7 @@
 				<IsLoop>true</IsLoop>
 				<LoopHeadPosition>0</LoopHeadPosition>
 				<Path></Path>
-				<Volume>100</Volume>
+				<Volume>0</Volume>
 			</SoundHandle>
 		</Handles>
 		<SyncBrowserMute>false</SyncBrowserMute>
@@ -171,10 +171,10 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>1</LastVolume>
+		<LastVolume>0.5</LastVolume>
 		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
-		<UseSystemVolume>true</UseSystemVolume>
+		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
 	<Debug>
 		<APIListPath></APIListPath>
@@ -299,7 +299,7 @@ body {
 		</BackColor>
 		<ClickFlag>Left</ClickFlag>
 		<CloseOnMouseMove>true</CloseOnMouseMove>
-		<ClosingInterval>0</ClosingInterval>
+		<ClosingInterval>2000</ClosingInterval>
 		<DrawsImage>false</DrawsImage>
 		<DrawsMessage>true</DrawsMessage>
 		<ForeColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
@@ -401,10 +401,10 @@ body {
 			<d3p1:y>0</d3p1:y>
 		</Location>
 		<LoopsSound>false</LoopsSound>
-		<PlaysSound>true</PlaysSound>
+		<PlaysSound>false</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath>tadupd01.wav</SoundPath>
+		<SoundPath></SoundPath>
 		<SoundVolume>100</SoundVolume>
 		<TopMost>true</TopMost>
 		<ContainsFlagship>true</ContainsFlagship>
@@ -438,10 +438,10 @@ body {
 			<d3p1:y>0</d3p1:y>
 		</Location>
 		<LoopsSound>false</LoopsSound>
-		<PlaysSound>true</PlaysSound>
+		<PlaysSound>false</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath>poi.wav</SoundPath>
+		<SoundPath></SoundPath>
 		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierExpedition>
@@ -467,10 +467,10 @@ body {
 			<d3p1:y>0</d3p1:y>
 		</Location>
 		<LoopsSound>false</LoopsSound>
-		<PlaysSound>true</PlaysSound>
+		<PlaysSound>false</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath>poi.wav</SoundPath>
+		<SoundPath></SoundPath>
 		<SoundVolume>50</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierRepair>
